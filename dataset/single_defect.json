@@ -1,0 +1,1445 @@
+{
+  "schema_version": 1,
+  "samples": [
+    {
+      "sample_id": "martinlaxenaire__portfolio-2025__defect_01__requirements_v1",
+      "project_id": "martinlaxenaire__portfolio-2025",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/martinlaxenaire__portfolio-2025__defect_01__requirements_v1.md",
+      "prompt_sha256": "6b989b93aa8d4c9aa06b440ceb1e48c9d3a63720205f7c8f5d3537e5adb87e14",
+      "versions": {
+        "gold": "martinlaxenaire__portfolio-2025/gold_001",
+        "defect": "martinlaxenaire__portfolio-2025/single_002"
+      },
+      "category": "rule_evolution"
+    },
+    {
+      "sample_id": "martinlaxenaire__portfolio-2025__defect_02__requirements_v1",
+      "project_id": "martinlaxenaire__portfolio-2025",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/martinlaxenaire__portfolio-2025__defect_02__requirements_v1.md",
+      "prompt_sha256": "6b989b93aa8d4c9aa06b440ceb1e48c9d3a63720205f7c8f5d3537e5adb87e14",
+      "versions": {
+        "gold": "martinlaxenaire__portfolio-2025/gold_001",
+        "defect": "martinlaxenaire__portfolio-2025/single_003"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "adityayaduvanshi__awwwards-website-1__defect_01__requirements_v1",
+      "project_id": "adityayaduvanshi__awwwards-website-1",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/adityayaduvanshi__awwwards-website-1__defect_01__requirements_v1.md",
+      "prompt_sha256": "2510fed2519f6280f2b291187ca49b52337ae0bd6a5cf746c32e932d755ac748",
+      "versions": {
+        "gold": "adityayaduvanshi__awwwards-website-1/gold_001",
+        "defect": "adityayaduvanshi__awwwards-website-1/single_002"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend__defect_02__requirements_v1",
+      "project_id": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/arnobt78__MacBook-Showcase-Landing-Page--React-Frontend__defect_02__requirements_v1.md",
+      "prompt_sha256": "0eb2c7cf177f61353b7d19717398cbab484620a299e03cc0590ac83de83ebf31",
+      "versions": {
+        "gold": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend/gold_001",
+        "defect": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend/single_002"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "cruip__tailwind-dashboard-template__defect_02__requirements_v1",
+      "project_id": "cruip__tailwind-dashboard-template",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/cruip__tailwind-dashboard-template__defect_02__requirements_v1.md",
+      "prompt_sha256": "f0805b4bea22a205621551a408aef3b66405d1bee11220579c1dcf8bf71c5963",
+      "versions": {
+        "gold": "cruip__tailwind-dashboard-template/gold_001",
+        "defect": "cruip__tailwind-dashboard-template/single_002"
+      },
+      "category": "process_state"
+    },
+    {
+      "sample_id": "mehrabgholamsamani__CryptoDash__defect_02__requirements_v1",
+      "project_id": "mehrabgholamsamani__CryptoDash",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/mehrabgholamsamani__CryptoDash__defect_02__requirements_v1.md",
+      "prompt_sha256": "6bc6a36f03afc89394d14eb481d893bf2b23be49e9ee2ddf99476c9c84d44085",
+      "versions": {
+        "gold": "mehrabgholamsamani__CryptoDash/gold_001",
+        "defect": "mehrabgholamsamani__CryptoDash/single_002"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "mehrabgholamsamani__CryptoDash__defect_03__requirements_v1",
+      "project_id": "mehrabgholamsamani__CryptoDash",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/mehrabgholamsamani__CryptoDash__defect_03__requirements_v1.md",
+      "prompt_sha256": "6bc6a36f03afc89394d14eb481d893bf2b23be49e9ee2ddf99476c9c84d44085",
+      "versions": {
+        "gold": "mehrabgholamsamani__CryptoDash/gold_001",
+        "defect": "mehrabgholamsamani__CryptoDash/single_003"
+      },
+      "category": "rule_evolution"
+    },
+    {
+      "sample_id": "greengem__threejs-solar-system__defect_02__requirements_v1",
+      "project_id": "greengem__threejs-solar-system",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/greengem__threejs-solar-system__defect_02__requirements_v1.md",
+      "prompt_sha256": "a7ab4c4b09f87567c6bd18c1d386348e65085cc3568fc80ecb06daf568cb30ae",
+      "versions": {
+        "gold": "greengem__threejs-solar-system/gold_001",
+        "defect": "greengem__threejs-solar-system/single_002"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "AQADIL__AqadilOS__defect_04__requirements_v1",
+      "project_id": "AQADIL__AqadilOS",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/AQADIL__AqadilOS__defect_04__requirements_v1.md",
+      "prompt_sha256": "188edf968579f8d768d6b0466c0e37e97261311941ac5cc0d9c90ff0c0662346",
+      "versions": {
+        "gold": "AQADIL__AqadilOS/gold_001",
+        "defect": "AQADIL__AqadilOS/single_002"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "RajeebLochan__Portfolio-Website__defect_03__requirements_v1",
+      "project_id": "RajeebLochan__Portfolio-Website",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/RajeebLochan__Portfolio-Website__defect_03__requirements_v1.md",
+      "prompt_sha256": "b7dc3a1fc1eb0c9542fa711b98c6928345ebbead002d88e35f773d188307d0aa",
+      "versions": {
+        "gold": "RajeebLochan__Portfolio-Website/gold_001",
+        "defect": "RajeebLochan__Portfolio-Website/single_002"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "martinlaxenaire__portfolio-2025__more_defects_20260619__defect_02__requirements_v1",
+      "project_id": "martinlaxenaire__portfolio-2025__more_defects_20260619",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/martinlaxenaire__portfolio-2025__more_defects_20260619__defect_02__requirements_v1.md",
+      "prompt_sha256": "6b989b93aa8d4c9aa06b440ceb1e48c9d3a63720205f7c8f5d3537e5adb87e14",
+      "versions": {
+        "gold": "martinlaxenaire__portfolio-2025__more_defects_20260619/gold_001",
+        "defect": "martinlaxenaire__portfolio-2025__more_defects_20260619/single_002"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "Sunil56224972__The-Drawn-Dimenstion__defect_02__requirements_v1",
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/Sunil56224972__The-Drawn-Dimenstion__defect_02__requirements_v1.md",
+      "prompt_sha256": "e798853b9b68cd8257c341b652530fddd8e98627d31fdbf7a70467a7a6f876e4",
+      "versions": {
+        "gold": "Sunil56224972__The-Drawn-Dimenstion/gold_001",
+        "defect": "Sunil56224972__The-Drawn-Dimenstion/single_002"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "martinlaxenaire__portfolio-2025__more_defects_20260619__defect_01__requirements_v1",
+      "project_id": "martinlaxenaire__portfolio-2025__more_defects_20260619",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/martinlaxenaire__portfolio-2025__more_defects_20260619__defect_01__requirements_v1.md",
+      "prompt_sha256": "6b989b93aa8d4c9aa06b440ceb1e48c9d3a63720205f7c8f5d3537e5adb87e14",
+      "versions": {
+        "gold": "martinlaxenaire__portfolio-2025__more_defects_20260619/gold_001",
+        "defect": "martinlaxenaire__portfolio-2025__more_defects_20260619/single_003"
+      },
+      "category": "rule_evolution"
+    },
+    {
+      "sample_id": "AQADIL__AqadilOS__defect_02__requirements_v1",
+      "project_id": "AQADIL__AqadilOS",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/AQADIL__AqadilOS__defect_02__requirements_v1.md",
+      "prompt_sha256": "188edf968579f8d768d6b0466c0e37e97261311941ac5cc0d9c90ff0c0662346",
+      "versions": {
+        "gold": "AQADIL__AqadilOS/gold_001",
+        "defect": "AQADIL__AqadilOS/single_003"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "AQADIL__AqadilOS__defect_03__requirements_v1",
+      "project_id": "AQADIL__AqadilOS",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/AQADIL__AqadilOS__defect_03__requirements_v1.md",
+      "prompt_sha256": "188edf968579f8d768d6b0466c0e37e97261311941ac5cc0d9c90ff0c0662346",
+      "versions": {
+        "gold": "AQADIL__AqadilOS/gold_001",
+        "defect": "AQADIL__AqadilOS/single_004"
+      },
+      "category": "process_state"
+    },
+    {
+      "sample_id": "greengem__threejs-solar-system__defect_01__requirements_v1",
+      "project_id": "greengem__threejs-solar-system",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/greengem__threejs-solar-system__defect_01__requirements_v1.md",
+      "prompt_sha256": "a7ab4c4b09f87567c6bd18c1d386348e65085cc3568fc80ecb06daf568cb30ae",
+      "versions": {
+        "gold": "greengem__threejs-solar-system/gold_001",
+        "defect": "greengem__threejs-solar-system/single_003"
+      },
+      "category": "process_state"
+    },
+    {
+      "sample_id": "SreeXD__Srees-Room__defect_02__requirements_v1",
+      "project_id": "SreeXD__Srees-Room",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/SreeXD__Srees-Room__defect_02__requirements_v1.md",
+      "prompt_sha256": "281187ea41a388220469d9105c0afdce6caad87757efeb2a585af52109b78629",
+      "versions": {
+        "gold": "SreeXD__Srees-Room/gold_001",
+        "defect": "SreeXD__Srees-Room/single_002"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "RajeebLochan__Portfolio-Website__defect_02__requirements_v1",
+      "project_id": "RajeebLochan__Portfolio-Website",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/RajeebLochan__Portfolio-Website__defect_02__requirements_v1.md",
+      "prompt_sha256": "b7dc3a1fc1eb0c9542fa711b98c6928345ebbead002d88e35f773d188307d0aa",
+      "versions": {
+        "gold": "RajeebLochan__Portfolio-Website/gold_001",
+        "defect": "RajeebLochan__Portfolio-Website/single_003"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "RajeebLochan__Portfolio-Website__defect_04__requirements_v1",
+      "project_id": "RajeebLochan__Portfolio-Website",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/RajeebLochan__Portfolio-Website__defect_04__requirements_v1.md",
+      "prompt_sha256": "b7dc3a1fc1eb0c9542fa711b98c6928345ebbead002d88e35f773d188307d0aa",
+      "versions": {
+        "gold": "RajeebLochan__Portfolio-Website/gold_001",
+        "defect": "RajeebLochan__Portfolio-Website/single_004"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "Sunil56224972__The-Drawn-Dimenstion__defect_07__requirements_v1",
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/Sunil56224972__The-Drawn-Dimenstion__defect_07__requirements_v1.md",
+      "prompt_sha256": "e798853b9b68cd8257c341b652530fddd8e98627d31fdbf7a70467a7a6f876e4",
+      "versions": {
+        "gold": "Sunil56224972__The-Drawn-Dimenstion/gold_001",
+        "defect": "Sunil56224972__The-Drawn-Dimenstion/single_003"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "Sunil56224972__The-Drawn-Dimenstion__defect_04__requirements_v1",
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/Sunil56224972__The-Drawn-Dimenstion__defect_04__requirements_v1.md",
+      "prompt_sha256": "e798853b9b68cd8257c341b652530fddd8e98627d31fdbf7a70467a7a6f876e4",
+      "versions": {
+        "gold": "Sunil56224972__The-Drawn-Dimenstion/gold_001",
+        "defect": "Sunil56224972__The-Drawn-Dimenstion/single_004"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "basedhound__3d-room_portfolio_react__defect_01__requirements_v1",
+      "project_id": "basedhound__3d-room_portfolio_react",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/basedhound__3d-room_portfolio_react__defect_01__requirements_v1.md",
+      "prompt_sha256": "695745dd4acad75667515032880499fb1c7ffd5e69b4000898da3a66dda994f7",
+      "versions": {
+        "gold": "basedhound__3d-room_portfolio_react/gold_001",
+        "defect": "basedhound__3d-room_portfolio_react/single_002"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "basedhound__3d-room_portfolio_react__defect_02__requirements_v1",
+      "project_id": "basedhound__3d-room_portfolio_react",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/basedhound__3d-room_portfolio_react__defect_02__requirements_v1.md",
+      "prompt_sha256": "695745dd4acad75667515032880499fb1c7ffd5e69b4000898da3a66dda994f7",
+      "versions": {
+        "gold": "basedhound__3d-room_portfolio_react/gold_001",
+        "defect": "basedhound__3d-room_portfolio_react/single_003"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "basedhound__3d-room_portfolio_react__defect_03__requirements_v1",
+      "project_id": "basedhound__3d-room_portfolio_react",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/basedhound__3d-room_portfolio_react__defect_03__requirements_v1.md",
+      "prompt_sha256": "695745dd4acad75667515032880499fb1c7ffd5e69b4000898da3a66dda994f7",
+      "versions": {
+        "gold": "basedhound__3d-room_portfolio_react/gold_001",
+        "defect": "basedhound__3d-room_portfolio_react/single_004"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "iwopant0825__antMysite__defect_01__requirements_v1",
+      "project_id": "iwopant0825__antMysite",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/iwopant0825__antMysite__defect_01__requirements_v1.md",
+      "prompt_sha256": "7e121ae487e5b212c04eca1451d37c3e3b2a1f2432cd4942549b837f5de3395e",
+      "versions": {
+        "gold": "iwopant0825__antMysite/gold_001",
+        "defect": "iwopant0825__antMysite/single_002"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "iwopant0825__antMysite__defect_02__requirements_v1",
+      "project_id": "iwopant0825__antMysite",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/iwopant0825__antMysite__defect_02__requirements_v1.md",
+      "prompt_sha256": "7e121ae487e5b212c04eca1451d37c3e3b2a1f2432cd4942549b837f5de3395e",
+      "versions": {
+        "gold": "iwopant0825__antMysite/gold_001",
+        "defect": "iwopant0825__antMysite/single_003"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "iwopant0825__antMysite__defect_03__requirements_v1",
+      "project_id": "iwopant0825__antMysite",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/iwopant0825__antMysite__defect_03__requirements_v1.md",
+      "prompt_sha256": "7e121ae487e5b212c04eca1451d37c3e3b2a1f2432cd4942549b837f5de3395e",
+      "versions": {
+        "gold": "iwopant0825__antMysite/gold_001",
+        "defect": "iwopant0825__antMysite/single_004"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "ArmanKhanTech__Portfolio__defect_01__requirements_v1",
+      "project_id": "ArmanKhanTech__Portfolio",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/ArmanKhanTech__Portfolio__defect_01__requirements_v1.md",
+      "prompt_sha256": "2479bac70e3d3a3d3e91bd2dca9ef417feba48254d29b356f32976cc46d4812c",
+      "versions": {
+        "gold": "ArmanKhanTech__Portfolio/gold_001",
+        "defect": "ArmanKhanTech__Portfolio/single_002"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "ArmanKhanTech__Portfolio__defect_03__requirements_v1",
+      "project_id": "ArmanKhanTech__Portfolio",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/ArmanKhanTech__Portfolio__defect_03__requirements_v1.md",
+      "prompt_sha256": "2479bac70e3d3a3d3e91bd2dca9ef417feba48254d29b356f32976cc46d4812c",
+      "versions": {
+        "gold": "ArmanKhanTech__Portfolio/gold_001",
+        "defect": "ArmanKhanTech__Portfolio/single_003"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "grep-many__wemble-guys__defect_02__requirements_v1",
+      "project_id": "grep-many__wemble-guys",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/grep-many__wemble-guys__defect_02__requirements_v1.md",
+      "prompt_sha256": "93feb2b31472e92b9a6e0c66413c838db113e6a0ed651424e444bde106fb2814",
+      "versions": {
+        "gold": "grep-many__wemble-guys/gold_001",
+        "defect": "grep-many__wemble-guys/single_002"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "grep-many__wemble-guys__defect_03__requirements_v1",
+      "project_id": "grep-many__wemble-guys",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/grep-many__wemble-guys__defect_03__requirements_v1.md",
+      "prompt_sha256": "93feb2b31472e92b9a6e0c66413c838db113e6a0ed651424e444bde106fb2814",
+      "versions": {
+        "gold": "grep-many__wemble-guys/gold_001",
+        "defect": "grep-many__wemble-guys/single_003"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "grep-many__wemble-guys__defect_04__requirements_v1",
+      "project_id": "grep-many__wemble-guys",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/grep-many__wemble-guys__defect_04__requirements_v1.md",
+      "prompt_sha256": "93feb2b31472e92b9a6e0c66413c838db113e6a0ed651424e444bde106fb2814",
+      "versions": {
+        "gold": "grep-many__wemble-guys/gold_001",
+        "defect": "grep-many__wemble-guys/single_004"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "arnobt78__Brainwave-Landing-Page--React-Frontend__defect_01__requirements_v1",
+      "project_id": "arnobt78__Brainwave-Landing-Page--React-Frontend",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/arnobt78__Brainwave-Landing-Page--React-Frontend__defect_01__requirements_v1.md",
+      "prompt_sha256": "9755e02c30313effc0fa47598cd38ee6d6393c4183191de4e44750534a859216",
+      "versions": {
+        "gold": "arnobt78__Brainwave-Landing-Page--React-Frontend/gold_001",
+        "defect": "arnobt78__Brainwave-Landing-Page--React-Frontend/single_002"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "arnobt78__Brainwave-Landing-Page--React-Frontend__defect_02__requirements_v1",
+      "project_id": "arnobt78__Brainwave-Landing-Page--React-Frontend",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/arnobt78__Brainwave-Landing-Page--React-Frontend__defect_02__requirements_v1.md",
+      "prompt_sha256": "9755e02c30313effc0fa47598cd38ee6d6393c4183191de4e44750534a859216",
+      "versions": {
+        "gold": "arnobt78__Brainwave-Landing-Page--React-Frontend/gold_001",
+        "defect": "arnobt78__Brainwave-Landing-Page--React-Frontend/single_003"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "fekikarim__farmy-landing__defect_02__requirements_v1",
+      "project_id": "fekikarim__farmy-landing",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/fekikarim__farmy-landing__defect_02__requirements_v1.md",
+      "prompt_sha256": "4c14c90d3a97aaab1d7cb24ca2df51422c752db7993143db09dd25a8261cdb8f",
+      "versions": {
+        "gold": "fekikarim__farmy-landing/gold_001",
+        "defect": "fekikarim__farmy-landing/single_002"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "kuasar-mknd__visualdon-projet__defect_01__requirements_v1",
+      "project_id": "kuasar-mknd__visualdon-projet",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/kuasar-mknd__visualdon-projet__defect_01__requirements_v1.md",
+      "prompt_sha256": "706d20b3fa45ca20dce6e3a54922812b98ad488671153f7d7b940150ac76f332",
+      "versions": {
+        "gold": "kuasar-mknd__visualdon-projet/gold_001",
+        "defect": "kuasar-mknd__visualdon-projet/single_002"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "mrkara__casper-era-tracker__defect_01__requirements_v1",
+      "project_id": "mrkara__casper-era-tracker",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/mrkara__casper-era-tracker__defect_01__requirements_v1.md",
+      "prompt_sha256": "7aacf71689daa9f2018678d53289d5da8fef8b982bb21d27850dde95044875c9",
+      "versions": {
+        "gold": "mrkara__casper-era-tracker/gold_001",
+        "defect": "mrkara__casper-era-tracker/single_002"
+      },
+      "category": "process_state"
+    },
+    {
+      "sample_id": "nirdhum__honest-landing__defect_01__requirements_v1",
+      "project_id": "nirdhum__honest-landing",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/nirdhum__honest-landing__defect_01__requirements_v1.md",
+      "prompt_sha256": "601c7b9727bbf83fd2e17c3cf0863cab76561389f0da971fc50264113a112a86",
+      "versions": {
+        "gold": "nirdhum__honest-landing/gold_001",
+        "defect": "nirdhum__honest-landing/single_002"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "nirdhum__honest-landing__defect_02__requirements_v1",
+      "project_id": "nirdhum__honest-landing",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/nirdhum__honest-landing__defect_02__requirements_v1.md",
+      "prompt_sha256": "601c7b9727bbf83fd2e17c3cf0863cab76561389f0da971fc50264113a112a86",
+      "versions": {
+        "gold": "nirdhum__honest-landing/gold_001",
+        "defect": "nirdhum__honest-landing/single_003"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "saidee-hasan__modern-business-landing-page__defect_02__requirements_v1",
+      "project_id": "saidee-hasan__modern-business-landing-page",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/saidee-hasan__modern-business-landing-page__defect_02__requirements_v1.md",
+      "prompt_sha256": "fc0c7293243bf97d92b2c32432c5b1686e13f3bc387e7cbe4fd2e4e6234333b6",
+      "versions": {
+        "gold": "saidee-hasan__modern-business-landing-page/gold_001",
+        "defect": "saidee-hasan__modern-business-landing-page/single_002"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "saidee-hasan__modern-business-landing-page__defect_03__requirements_v1",
+      "project_id": "saidee-hasan__modern-business-landing-page",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/saidee-hasan__modern-business-landing-page__defect_03__requirements_v1.md",
+      "prompt_sha256": "fc0c7293243bf97d92b2c32432c5b1686e13f3bc387e7cbe4fd2e4e6234333b6",
+      "versions": {
+        "gold": "saidee-hasan__modern-business-landing-page/gold_001",
+        "defect": "saidee-hasan__modern-business-landing-page/single_003"
+      },
+      "category": "rule_evolution"
+    },
+    {
+      "sample_id": "OwaisZakir__cyber-learning-platform__defect_01__requirements_v1",
+      "project_id": "OwaisZakir__cyber-learning-platform",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/OwaisZakir__cyber-learning-platform__defect_01__requirements_v1.md",
+      "prompt_sha256": "201db2884767b089f140683852503c1b0e85ceb82233e81b5cf3627361f8f516",
+      "versions": {
+        "gold": "OwaisZakir__cyber-learning-platform/gold_001",
+        "defect": "OwaisZakir__cyber-learning-platform/single_002"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "playcanvas__engine__defect_06__requirements_v1",
+      "project_id": "playcanvas__engine",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/playcanvas__engine__defect_06__requirements_v1.md",
+      "prompt_sha256": "3033234ecb04226b4970cd0416252ed7cf20d742a28b7acf26b4539396608288",
+      "versions": {
+        "gold": "playcanvas__engine/gold_001",
+        "defect": "playcanvas__engine/single_002"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_01__requirements_v1",
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/pixijs__open-games__puzzling-potions__defect_01__requirements_v1.md",
+      "prompt_sha256": "8dfbc6ea5a663be98f12d073e431a086c1a21afdbfc8f18a3d67981cf4f1ec4a",
+      "versions": {
+        "gold": "pixijs__open-games__puzzling-potions/gold_001",
+        "defect": "pixijs__open-games__puzzling-potions/single_002"
+      },
+      "category": "process_state"
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_02__requirements_v1",
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/pixijs__open-games__puzzling-potions__defect_02__requirements_v1.md",
+      "prompt_sha256": "8dfbc6ea5a663be98f12d073e431a086c1a21afdbfc8f18a3d67981cf4f1ec4a",
+      "versions": {
+        "gold": "pixijs__open-games__puzzling-potions/gold_001",
+        "defect": "pixijs__open-games__puzzling-potions/single_003"
+      },
+      "category": "process_state"
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_03__requirements_v1",
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/pixijs__open-games__puzzling-potions__defect_03__requirements_v1.md",
+      "prompt_sha256": "8dfbc6ea5a663be98f12d073e431a086c1a21afdbfc8f18a3d67981cf4f1ec4a",
+      "versions": {
+        "gold": "pixijs__open-games__puzzling-potions/gold_001",
+        "defect": "pixijs__open-games__puzzling-potions/single_004"
+      },
+      "category": "rule_evolution"
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_04__requirements_v1",
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/pixijs__open-games__puzzling-potions__defect_04__requirements_v1.md",
+      "prompt_sha256": "8dfbc6ea5a663be98f12d073e431a086c1a21afdbfc8f18a3d67981cf4f1ec4a",
+      "versions": {
+        "gold": "pixijs__open-games__puzzling-potions/gold_001",
+        "defect": "pixijs__open-games__puzzling-potions/single_005"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_06__requirements_v1",
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/pixijs__open-games__puzzling-potions__defect_06__requirements_v1.md",
+      "prompt_sha256": "8dfbc6ea5a663be98f12d073e431a086c1a21afdbfc8f18a3d67981cf4f1ec4a",
+      "versions": {
+        "gold": "pixijs__open-games__puzzling-potions/gold_001",
+        "defect": "pixijs__open-games__puzzling-potions/single_006"
+      },
+      "category": "rule_evolution"
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_01__requirements_v1",
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/SahilK-027__Elemental-Serenity__defect_01__requirements_v1.md",
+      "prompt_sha256": "085c1e532c48f53ef31b300ba1cf9814dfa1c3844277e0b459bae536e5cbf0ad",
+      "versions": {
+        "gold": "SahilK-027__Elemental-Serenity/gold_001",
+        "defect": "SahilK-027__Elemental-Serenity/single_002"
+      },
+      "category": "process_state"
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_02__requirements_v1",
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/SahilK-027__Elemental-Serenity__defect_02__requirements_v1.md",
+      "prompt_sha256": "085c1e532c48f53ef31b300ba1cf9814dfa1c3844277e0b459bae536e5cbf0ad",
+      "versions": {
+        "gold": "SahilK-027__Elemental-Serenity/gold_001",
+        "defect": "SahilK-027__Elemental-Serenity/single_003"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_04__requirements_v1",
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/SahilK-027__Elemental-Serenity__defect_04__requirements_v1.md",
+      "prompt_sha256": "085c1e532c48f53ef31b300ba1cf9814dfa1c3844277e0b459bae536e5cbf0ad",
+      "versions": {
+        "gold": "SahilK-027__Elemental-Serenity/gold_001",
+        "defect": "SahilK-027__Elemental-Serenity/single_004"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_05__requirements_v1",
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/SahilK-027__Elemental-Serenity__defect_05__requirements_v1.md",
+      "prompt_sha256": "085c1e532c48f53ef31b300ba1cf9814dfa1c3844277e0b459bae536e5cbf0ad",
+      "versions": {
+        "gold": "SahilK-027__Elemental-Serenity/gold_001",
+        "defect": "SahilK-027__Elemental-Serenity/single_005"
+      },
+      "category": "process_state"
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_06__requirements_v1",
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/SahilK-027__Elemental-Serenity__defect_06__requirements_v1.md",
+      "prompt_sha256": "085c1e532c48f53ef31b300ba1cf9814dfa1c3844277e0b459bae536e5cbf0ad",
+      "versions": {
+        "gold": "SahilK-027__Elemental-Serenity/gold_001",
+        "defect": "SahilK-027__Elemental-Serenity/single_006"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_08__requirements_v1",
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/SahilK-027__Elemental-Serenity__defect_08__requirements_v1.md",
+      "prompt_sha256": "085c1e532c48f53ef31b300ba1cf9814dfa1c3844277e0b459bae536e5cbf0ad",
+      "versions": {
+        "gold": "SahilK-027__Elemental-Serenity/gold_001",
+        "defect": "SahilK-027__Elemental-Serenity/single_007"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_09__requirements_v1",
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/SahilK-027__Elemental-Serenity__defect_09__requirements_v1.md",
+      "prompt_sha256": "085c1e532c48f53ef31b300ba1cf9814dfa1c3844277e0b459bae536e5cbf0ad",
+      "versions": {
+        "gold": "SahilK-027__Elemental-Serenity/gold_001",
+        "defect": "SahilK-027__Elemental-Serenity/single_008"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_10__requirements_v1",
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/SahilK-027__Elemental-Serenity__defect_10__requirements_v1.md",
+      "prompt_sha256": "085c1e532c48f53ef31b300ba1cf9814dfa1c3844277e0b459bae536e5cbf0ad",
+      "versions": {
+        "gold": "SahilK-027__Elemental-Serenity/gold_001",
+        "defect": "SahilK-027__Elemental-Serenity/single_009"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "toeverything__AFFiNE__defect_02__requirements_v1",
+      "project_id": "toeverything__AFFiNE",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/toeverything__AFFiNE__defect_02__requirements_v1.md",
+      "prompt_sha256": "8bcc1bf5ac6e72b118a890971191544f5898317893e11a8f401c22a3cb6ff09f",
+      "versions": {
+        "gold": "toeverything__AFFiNE/gold_001",
+        "defect": "toeverything__AFFiNE/single_002"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "toeverything__AFFiNE__defect_07__requirements_v1",
+      "project_id": "toeverything__AFFiNE",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/toeverything__AFFiNE__defect_07__requirements_v1.md",
+      "prompt_sha256": "8bcc1bf5ac6e72b118a890971191544f5898317893e11a8f401c22a3cb6ff09f",
+      "versions": {
+        "gold": "toeverything__AFFiNE/gold_001",
+        "defect": "toeverything__AFFiNE/single_003"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "Thakuma07__ABCS-SVGAnimation__defect_01__requirements_v1",
+      "project_id": "Thakuma07__ABCS-SVGAnimation",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/Thakuma07__ABCS-SVGAnimation__defect_01__requirements_v1.md",
+      "prompt_sha256": "fe23a6691b63bc2a14330286963ad9a088124001f3a9422be07fac1bba5b70f6",
+      "versions": {
+        "gold": "Thakuma07__ABCS-SVGAnimation/gold_001",
+        "defect": "Thakuma07__ABCS-SVGAnimation/single_002"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "VinayMatta63__threejs-portfolio__defect_04__requirements_v1",
+      "project_id": "VinayMatta63__threejs-portfolio",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/VinayMatta63__threejs-portfolio__defect_04__requirements_v1.md",
+      "prompt_sha256": "4c7be865bcb80e15aaac45c641afeb41a46417c7d3fdec3312c4310fea2331fc",
+      "versions": {
+        "gold": "VinayMatta63__threejs-portfolio/gold_001",
+        "defect": "VinayMatta63__threejs-portfolio/single_002"
+      },
+      "category": "rule_evolution"
+    },
+    {
+      "sample_id": "theshanergy__4x4builder__defect_01__requirements_v1",
+      "project_id": "theshanergy__4x4builder",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/theshanergy__4x4builder__defect_01__requirements_v1.md",
+      "prompt_sha256": "14c7c0cb2cab627941ef7f876d318a552c36c8cca2f0da5cfba3f9a85fdde061",
+      "versions": {
+        "gold": "theshanergy__4x4builder/gold_001",
+        "defect": "theshanergy__4x4builder/single_002"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "kuasar-mknd__visualdon-projet__defect_02__requirements_v1",
+      "project_id": "kuasar-mknd__visualdon-projet",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/kuasar-mknd__visualdon-projet__defect_02__requirements_v1.md",
+      "prompt_sha256": "706d20b3fa45ca20dce6e3a54922812b98ad488671153f7d7b940150ac76f332",
+      "versions": {
+        "gold": "kuasar-mknd__visualdon-projet/gold_001",
+        "defect": "kuasar-mknd__visualdon-projet/single_003"
+      },
+      "category": "rule_evolution"
+    },
+    {
+      "sample_id": "aframevr__aframe__defect_01__requirements_v1",
+      "project_id": "aframevr__aframe",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/aframevr__aframe__defect_01__requirements_v1.md",
+      "prompt_sha256": "303e86edaef1f8c4b08428593dac0c2e085a2e4ce858e054e2c8852273bcc7c4",
+      "versions": {
+        "gold": "aframevr__aframe/gold_001",
+        "defect": "aframevr__aframe/single_002"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "aframevr__aframe__defect_02__requirements_v1",
+      "project_id": "aframevr__aframe",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/aframevr__aframe__defect_02__requirements_v1.md",
+      "prompt_sha256": "303e86edaef1f8c4b08428593dac0c2e085a2e4ce858e054e2c8852273bcc7c4",
+      "versions": {
+        "gold": "aframevr__aframe/gold_003",
+        "defect": "aframevr__aframe/single_004"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "playcanvas__engine__defect_01__requirements_v1",
+      "project_id": "playcanvas__engine",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/playcanvas__engine__defect_01__requirements_v1.md",
+      "prompt_sha256": "3033234ecb04226b4970cd0416252ed7cf20d742a28b7acf26b4539396608288",
+      "versions": {
+        "gold": "playcanvas__engine/gold_001",
+        "defect": "playcanvas__engine/single_003"
+      },
+      "category": "rule_evolution"
+    },
+    {
+      "sample_id": "Nayan286__Gsap__defect_01__requirements_v1",
+      "project_id": "Nayan286__Gsap",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/Nayan286__Gsap__defect_01__requirements_v1.md",
+      "prompt_sha256": "3eac4122ad128550e70b5cb87c74510380c009ae654735bc9b1cef30f76647e1",
+      "versions": {
+        "gold": "Nayan286__Gsap/gold_001",
+        "defect": "Nayan286__Gsap/single_002"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "Om101101__Obys-Agency-Clone__defect_02__requirements_v1",
+      "project_id": "Om101101__Obys-Agency-Clone",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/Om101101__Obys-Agency-Clone__defect_02__requirements_v1.md",
+      "prompt_sha256": "a8d6203692e76887860aaa90ce82009e8a962af056da33bdb1c3abf2dd0efc3b",
+      "versions": {
+        "gold": "Om101101__Obys-Agency-Clone/gold_001",
+        "defect": "Om101101__Obys-Agency-Clone/single_002"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "ANURAG-SINGH17__MAGMA__defect_01__requirements_v1",
+      "project_id": "ANURAG-SINGH17__MAGMA",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/ANURAG-SINGH17__MAGMA__defect_01__requirements_v1.md",
+      "prompt_sha256": "425d415dbb70ac674279822e2c7144dd5bc0be593443a4236337fda9309a53f9",
+      "versions": {
+        "gold": "ANURAG-SINGH17__MAGMA/gold_001",
+        "defect": "ANURAG-SINGH17__MAGMA/single_002"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "afilahkle__3D-Clothing-Configurator__defect_03__requirements_v1",
+      "project_id": "afilahkle__3D-Clothing-Configurator",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/afilahkle__3D-Clothing-Configurator__defect_03__requirements_v1.md",
+      "prompt_sha256": "37991de588734fec9b7e6994b8977fe495608a6a410269de055924b184aadf62",
+      "versions": {
+        "gold": "afilahkle__3D-Clothing-Configurator/gold_001",
+        "defect": "afilahkle__3D-Clothing-Configurator/single_002"
+      },
+      "category": "process_state"
+    },
+    {
+      "sample_id": "aframevr__aframe__defect_03__requirements_v1",
+      "project_id": "aframevr__aframe",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/aframevr__aframe__defect_03__requirements_v1.md",
+      "prompt_sha256": "303e86edaef1f8c4b08428593dac0c2e085a2e4ce858e054e2c8852273bcc7c4",
+      "versions": {
+        "gold": "aframevr__aframe/gold_003",
+        "defect": "aframevr__aframe/single_005"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend__defect_01__requirements_v1",
+      "project_id": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/arnobt78__MacBook-Showcase-Landing-Page--React-Frontend__defect_01__requirements_v1.md",
+      "prompt_sha256": "0eb2c7cf177f61353b7d19717398cbab484620a299e03cc0590ac83de83ebf31",
+      "versions": {
+        "gold": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend/gold_001",
+        "defect": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend/single_003"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "basedhound__3d-room_portfolio_react__defect_04__requirements_v1",
+      "project_id": "basedhound__3d-room_portfolio_react",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/basedhound__3d-room_portfolio_react__defect_04__requirements_v1.md",
+      "prompt_sha256": "695745dd4acad75667515032880499fb1c7ffd5e69b4000898da3a66dda994f7",
+      "versions": {
+        "gold": "basedhound__3d-room_portfolio_react/gold_001",
+        "defect": "basedhound__3d-room_portfolio_react/single_005"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "CodebyCyrus__Apple-Landing__defect_01__requirements_v1",
+      "project_id": "CodebyCyrus__Apple-Landing",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/CodebyCyrus__Apple-Landing__defect_01__requirements_v1.md",
+      "prompt_sha256": "9c221ae0de2222062e1f21205c013e93ade8121b858e3c2c9a66ee98b770e6b3",
+      "versions": {
+        "gold": "CodebyCyrus__Apple-Landing/gold_001",
+        "defect": "CodebyCyrus__Apple-Landing/single_002"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "Juanescacha__Portfolio__defect_01__requirements_v1",
+      "project_id": "Juanescacha__Portfolio",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/Juanescacha__Portfolio__defect_01__requirements_v1.md",
+      "prompt_sha256": "6ecf9e9b5a4d18f4e37dcd669cac430fc5a9ed22885c5649b412ad3076fd14ce",
+      "versions": {
+        "gold": "Juanescacha__Portfolio/gold_001",
+        "defect": "Juanescacha__Portfolio/single_002"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "mehrabgholamsamani__CryptoDash__defect_04__requirements_v1",
+      "project_id": "mehrabgholamsamani__CryptoDash",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/mehrabgholamsamani__CryptoDash__defect_04__requirements_v1.md",
+      "prompt_sha256": "6bc6a36f03afc89394d14eb481d893bf2b23be49e9ee2ddf99476c9c84d44085",
+      "versions": {
+        "gold": "mehrabgholamsamani__CryptoDash/gold_001",
+        "defect": "mehrabgholamsamani__CryptoDash/single_004"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "Om101101__Obys-Agency-Clone__defect_01__requirements_v1",
+      "project_id": "Om101101__Obys-Agency-Clone",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/Om101101__Obys-Agency-Clone__defect_01__requirements_v1.md",
+      "prompt_sha256": "a8d6203692e76887860aaa90ce82009e8a962af056da33bdb1c3abf2dd0efc3b",
+      "versions": {
+        "gold": "Om101101__Obys-Agency-Clone/gold_001",
+        "defect": "Om101101__Obys-Agency-Clone/single_003"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "Om101101__Obys-Agency-Clone__defect_03__requirements_v1",
+      "project_id": "Om101101__Obys-Agency-Clone",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/Om101101__Obys-Agency-Clone__defect_03__requirements_v1.md",
+      "prompt_sha256": "a8d6203692e76887860aaa90ce82009e8a962af056da33bdb1c3abf2dd0efc3b",
+      "versions": {
+        "gold": "Om101101__Obys-Agency-Clone/gold_001",
+        "defect": "Om101101__Obys-Agency-Clone/single_004"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_05__requirements_v1",
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/pixijs__open-games__puzzling-potions__defect_05__requirements_v1.md",
+      "prompt_sha256": "8dfbc6ea5a663be98f12d073e431a086c1a21afdbfc8f18a3d67981cf4f1ec4a",
+      "versions": {
+        "gold": "pixijs__open-games__puzzling-potions/gold_001",
+        "defect": "pixijs__open-games__puzzling-potions/single_007"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "playcanvas__engine__defect_05__requirements_v1",
+      "project_id": "playcanvas__engine",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/playcanvas__engine__defect_05__requirements_v1.md",
+      "prompt_sha256": "3033234ecb04226b4970cd0416252ed7cf20d742a28b7acf26b4539396608288",
+      "versions": {
+        "gold": "playcanvas__engine/gold_001",
+        "defect": "playcanvas__engine/single_004"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "refinedev__refine__defect_01__requirements_v1",
+      "project_id": "refinedev__refine",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/refinedev__refine__defect_01__requirements_v1.md",
+      "prompt_sha256": "0ee09f8c7663555a670ad8381cf2b24843087ee49df9df8f1ceedd2c13ac91ac",
+      "versions": {
+        "gold": "refinedev__refine/gold_001",
+        "defect": "refinedev__refine/single_002"
+      },
+      "category": "process_state"
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_07__requirements_v1",
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/SahilK-027__Elemental-Serenity__defect_07__requirements_v1.md",
+      "prompt_sha256": "085c1e532c48f53ef31b300ba1cf9814dfa1c3844277e0b459bae536e5cbf0ad",
+      "versions": {
+        "gold": "SahilK-027__Elemental-Serenity/gold_001",
+        "defect": "SahilK-027__Elemental-Serenity/single_010"
+      },
+      "category": "rule_evolution"
+    },
+    {
+      "sample_id": "sleepy-zone__fabritor-web__defect_01__requirements_v1",
+      "project_id": "sleepy-zone__fabritor-web",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/sleepy-zone__fabritor-web__defect_01__requirements_v1.md",
+      "prompt_sha256": "75a2fce84600a161b53dfd80d4a095e48499c58861164bc494da8390d3b5ad01",
+      "versions": {
+        "gold": "sleepy-zone__fabritor-web/gold_001",
+        "defect": "sleepy-zone__fabritor-web/single_002"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "sleepy-zone__fabritor-web__defect_04__requirements_v1",
+      "project_id": "sleepy-zone__fabritor-web",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/sleepy-zone__fabritor-web__defect_04__requirements_v1.md",
+      "prompt_sha256": "75a2fce84600a161b53dfd80d4a095e48499c58861164bc494da8390d3b5ad01",
+      "versions": {
+        "gold": "sleepy-zone__fabritor-web/gold_001",
+        "defect": "sleepy-zone__fabritor-web/single_003"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "Sr-Yan-Lima__champions4good-demo__defect_02__requirements_v1",
+      "project_id": "Sr-Yan-Lima__champions4good-demo",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/Sr-Yan-Lima__champions4good-demo__defect_02__requirements_v1.md",
+      "prompt_sha256": "e30d3685e4ce1c3c6495ba6bc777e454b2669355e8651b5d42a45af90c068100",
+      "versions": {
+        "gold": "Sr-Yan-Lima__champions4good-demo/gold_001",
+        "defect": "Sr-Yan-Lima__champions4good-demo/single_002"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "SreeXD__Srees-Room__defect_01__requirements_v1",
+      "project_id": "SreeXD__Srees-Room",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/SreeXD__Srees-Room__defect_01__requirements_v1.md",
+      "prompt_sha256": "281187ea41a388220469d9105c0afdce6caad87757efeb2a585af52109b78629",
+      "versions": {
+        "gold": "SreeXD__Srees-Room/gold_001",
+        "defect": "SreeXD__Srees-Room/single_003"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "Sunil56224972__The-Drawn-Dimenstion__defect_05__requirements_v1",
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/Sunil56224972__The-Drawn-Dimenstion__defect_05__requirements_v1.md",
+      "prompt_sha256": "e798853b9b68cd8257c341b652530fddd8e98627d31fdbf7a70467a7a6f876e4",
+      "versions": {
+        "gold": "Sunil56224972__The-Drawn-Dimenstion/gold_001",
+        "defect": "Sunil56224972__The-Drawn-Dimenstion/single_005"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "Sunil56224972__The-Drawn-Dimenstion__defect_06__requirements_v1",
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/Sunil56224972__The-Drawn-Dimenstion__defect_06__requirements_v1.md",
+      "prompt_sha256": "e798853b9b68cd8257c341b652530fddd8e98627d31fdbf7a70467a7a6f876e4",
+      "versions": {
+        "gold": "Sunil56224972__The-Drawn-Dimenstion/gold_001",
+        "defect": "Sunil56224972__The-Drawn-Dimenstion/single_006"
+      },
+      "category": "process_state"
+    },
+    {
+      "sample_id": "toeverything__AFFiNE__defect_01__requirements_v1",
+      "project_id": "toeverything__AFFiNE",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/toeverything__AFFiNE__defect_01__requirements_v1.md",
+      "prompt_sha256": "8bcc1bf5ac6e72b118a890971191544f5898317893e11a8f401c22a3cb6ff09f",
+      "versions": {
+        "gold": "toeverything__AFFiNE/gold_001",
+        "defect": "toeverything__AFFiNE/single_004"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "toeverything__AFFiNE__defect_03__requirements_v1",
+      "project_id": "toeverything__AFFiNE",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/toeverything__AFFiNE__defect_03__requirements_v1.md",
+      "prompt_sha256": "8bcc1bf5ac6e72b118a890971191544f5898317893e11a8f401c22a3cb6ff09f",
+      "versions": {
+        "gold": "toeverything__AFFiNE/gold_001",
+        "defect": "toeverything__AFFiNE/single_005"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "VinayMatta63__threejs-portfolio__defect_01__requirements_v1",
+      "project_id": "VinayMatta63__threejs-portfolio",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/VinayMatta63__threejs-portfolio__defect_01__requirements_v1.md",
+      "prompt_sha256": "4c7be865bcb80e15aaac45c641afeb41a46417c7d3fdec3312c4310fea2331fc",
+      "versions": {
+        "gold": "VinayMatta63__threejs-portfolio/gold_001",
+        "defect": "VinayMatta63__threejs-portfolio/single_003"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "grep-many__wemble-guys__defect_01__requirements_v1",
+      "project_id": "grep-many__wemble-guys",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/grep-many__wemble-guys__defect_01__requirements_v1.md",
+      "prompt_sha256": "93feb2b31472e92b9a6e0c66413c838db113e6a0ed651424e444bde106fb2814",
+      "versions": {
+        "gold": "grep-many__wemble-guys/gold_001",
+        "defect": "grep-many__wemble-guys/single_005"
+      },
+      "category": "rule_evolution"
+    },
+    {
+      "sample_id": "sayjeyhi__my-3d-portfolio__defect_02__requirements_v1",
+      "project_id": "sayjeyhi__my-3d-portfolio",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/sayjeyhi__my-3d-portfolio__defect_02__requirements_v1.md",
+      "prompt_sha256": "58f69f6801b097c5f229085fdef37b727d1370d2b8718c379af3519f5b331888",
+      "versions": {
+        "gold": "sayjeyhi__my-3d-portfolio/gold_001",
+        "defect": "sayjeyhi__my-3d-portfolio/single_002"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "ArmanKhanTech__Portfolio__defect_02__requirements_v1",
+      "project_id": "ArmanKhanTech__Portfolio",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/ArmanKhanTech__Portfolio__defect_02__requirements_v1.md",
+      "prompt_sha256": "2479bac70e3d3a3d3e91bd2dca9ef417feba48254d29b356f32976cc46d4812c",
+      "versions": {
+        "gold": "ArmanKhanTech__Portfolio/gold_001",
+        "defect": "ArmanKhanTech__Portfolio/single_004"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "lordbasilaiassistant-sudo__fishing-freel__defect_02__requirements_v1",
+      "project_id": "lordbasilaiassistant-sudo__fishing-freel",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/lordbasilaiassistant-sudo__fishing-freel__defect_02__requirements_v1.md",
+      "prompt_sha256": "8beda6126219deb880450e434340f1d98e7b524c2b8d097d695ad02e8fa18221",
+      "versions": {
+        "gold": "lordbasilaiassistant-sudo__fishing-freel/gold_001",
+        "defect": "lordbasilaiassistant-sudo__fishing-freel/single_002"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "sayjeyhi__my-3d-portfolio__defect_01__requirements_v1",
+      "project_id": "sayjeyhi__my-3d-portfolio",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/sayjeyhi__my-3d-portfolio__defect_01__requirements_v1.md",
+      "prompt_sha256": "58f69f6801b097c5f229085fdef37b727d1370d2b8718c379af3519f5b331888",
+      "versions": {
+        "gold": "sayjeyhi__my-3d-portfolio/gold_001",
+        "defect": "sayjeyhi__my-3d-portfolio/single_003"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "sleepy-zone__fabritor-web__defect_03__requirements_v1",
+      "project_id": "sleepy-zone__fabritor-web",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/sleepy-zone__fabritor-web__defect_03__requirements_v1.md",
+      "prompt_sha256": "75a2fce84600a161b53dfd80d4a095e48499c58861164bc494da8390d3b5ad01",
+      "versions": {
+        "gold": "sleepy-zone__fabritor-web/gold_001",
+        "defect": "sleepy-zone__fabritor-web/single_004"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "theshanergy__4x4builder__defect_02__requirements_v1",
+      "project_id": "theshanergy__4x4builder",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/theshanergy__4x4builder__defect_02__requirements_v1.md",
+      "prompt_sha256": "14c7c0cb2cab627941ef7f876d318a552c36c8cca2f0da5cfba3f9a85fdde061",
+      "versions": {
+        "gold": "theshanergy__4x4builder/gold_001",
+        "defect": "theshanergy__4x4builder/single_003"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "toeverything__AFFiNE__defect_05__requirements_v1",
+      "project_id": "toeverything__AFFiNE",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/toeverything__AFFiNE__defect_05__requirements_v1.md",
+      "prompt_sha256": "8bcc1bf5ac6e72b118a890971191544f5898317893e11a8f401c22a3cb6ff09f",
+      "versions": {
+        "gold": "toeverything__AFFiNE/gold_001",
+        "defect": "toeverything__AFFiNE/single_006"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "SreeXD__Srees-Room__defect_03__requirements_v1",
+      "project_id": "SreeXD__Srees-Room",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/SreeXD__Srees-Room__defect_03__requirements_v1.md",
+      "prompt_sha256": "281187ea41a388220469d9105c0afdce6caad87757efeb2a585af52109b78629",
+      "versions": {
+        "gold": "SreeXD__Srees-Room/gold_001",
+        "defect": "SreeXD__Srees-Room/single_004"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "basedhound__3d-room_portfolio_react__defect_05__requirements_v1",
+      "project_id": "basedhound__3d-room_portfolio_react",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/basedhound__3d-room_portfolio_react__defect_05__requirements_v1.md",
+      "prompt_sha256": "695745dd4acad75667515032880499fb1c7ffd5e69b4000898da3a66dda994f7",
+      "versions": {
+        "gold": "basedhound__3d-room_portfolio_react/gold_001",
+        "defect": "basedhound__3d-room_portfolio_react/single_006"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "fekikarim__farmy-landing__defect_03__requirements_v1",
+      "project_id": "fekikarim__farmy-landing",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/fekikarim__farmy-landing__defect_03__requirements_v1.md",
+      "prompt_sha256": "4c14c90d3a97aaab1d7cb24ca2df51422c752db7993143db09dd25a8261cdb8f",
+      "versions": {
+        "gold": "fekikarim__farmy-landing/gold_001",
+        "defect": "fekikarim__farmy-landing/single_003"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "grep-many__wemble-guys__defect_07__requirements_v1",
+      "project_id": "grep-many__wemble-guys",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/grep-many__wemble-guys__defect_07__requirements_v1.md",
+      "prompt_sha256": "93feb2b31472e92b9a6e0c66413c838db113e6a0ed651424e444bde106fb2814",
+      "versions": {
+        "gold": "grep-many__wemble-guys/gold_006",
+        "defect": "grep-many__wemble-guys/single_007"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "kuasar-mknd__visualdon-projet__defect_03__requirements_v1",
+      "project_id": "kuasar-mknd__visualdon-projet",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/kuasar-mknd__visualdon-projet__defect_03__requirements_v1.md",
+      "prompt_sha256": "706d20b3fa45ca20dce6e3a54922812b98ad488671153f7d7b940150ac76f332",
+      "versions": {
+        "gold": "kuasar-mknd__visualdon-projet/gold_001",
+        "defect": "kuasar-mknd__visualdon-projet/single_004"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "nirdhum__honest-landing__defect_03__requirements_v1",
+      "project_id": "nirdhum__honest-landing",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/nirdhum__honest-landing__defect_03__requirements_v1.md",
+      "prompt_sha256": "601c7b9727bbf83fd2e17c3cf0863cab76561389f0da971fc50264113a112a86",
+      "versions": {
+        "gold": "nirdhum__honest-landing/gold_004",
+        "defect": "nirdhum__honest-landing/single_005"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "sleepy-zone__fabritor-web__defect_05__requirements_v1",
+      "project_id": "sleepy-zone__fabritor-web",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/sleepy-zone__fabritor-web__defect_05__requirements_v1.md",
+      "prompt_sha256": "75a2fce84600a161b53dfd80d4a095e48499c58861164bc494da8390d3b5ad01",
+      "versions": {
+        "gold": "sleepy-zone__fabritor-web/gold_005",
+        "defect": "sleepy-zone__fabritor-web/single_006"
+      },
+      "category": "input_response"
+    },
+    {
+      "sample_id": "toeverything__AFFiNE__defect_10__requirements_v1",
+      "project_id": "toeverything__AFFiNE",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/toeverything__AFFiNE__defect_10__requirements_v1.md",
+      "prompt_sha256": "8bcc1bf5ac6e72b118a890971191544f5898317893e11a8f401c22a3cb6ff09f",
+      "versions": {
+        "gold": "toeverything__AFFiNE/gold_007",
+        "defect": "toeverything__AFFiNE/single_008"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_10__requirements_v1",
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/pixijs__open-games__puzzling-potions__defect_10__requirements_v1.md",
+      "prompt_sha256": "8dfbc6ea5a663be98f12d073e431a086c1a21afdbfc8f18a3d67981cf4f1ec4a",
+      "versions": {
+        "gold": "pixijs__open-games__puzzling-potions/gold_001",
+        "defect": "pixijs__open-games__puzzling-potions/single_008"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "Sunil56224972__The-Drawn-Dimenstion__defect_08__requirements_v1",
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/Sunil56224972__The-Drawn-Dimenstion__defect_08__requirements_v1.md",
+      "prompt_sha256": "e798853b9b68cd8257c341b652530fddd8e98627d31fdbf7a70467a7a6f876e4",
+      "versions": {
+        "gold": "Sunil56224972__The-Drawn-Dimenstion/gold_001",
+        "defect": "Sunil56224972__The-Drawn-Dimenstion/single_007"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "Sunil56224972__The-Drawn-Dimenstion__defect_11__requirements_v1",
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/Sunil56224972__The-Drawn-Dimenstion__defect_11__requirements_v1.md",
+      "prompt_sha256": "e798853b9b68cd8257c341b652530fddd8e98627d31fdbf7a70467a7a6f876e4",
+      "versions": {
+        "gold": "Sunil56224972__The-Drawn-Dimenstion/gold_001",
+        "defect": "Sunil56224972__The-Drawn-Dimenstion/single_008"
+      },
+      "category": "process_state"
+    },
+    {
+      "sample_id": "Sr-Yan-Lima__champions4good-demo__defect_03__requirements_v1",
+      "project_id": "Sr-Yan-Lima__champions4good-demo",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/Sr-Yan-Lima__champions4good-demo__defect_03__requirements_v1.md",
+      "prompt_sha256": "e30d3685e4ce1c3c6495ba6bc777e454b2669355e8651b5d42a45af90c068100",
+      "versions": {
+        "gold": "Sr-Yan-Lima__champions4good-demo/gold_001",
+        "defect": "Sr-Yan-Lima__champions4good-demo/single_003"
+      },
+      "category": "dynamic_visual_effects"
+    },
+    {
+      "sample_id": "BrunoSimon__folio-2019__defect_02__requirements_v1",
+      "project_id": "BrunoSimon__folio-2019",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/BrunoSimon__folio-2019__defect_02__requirements_v1.md",
+      "prompt_sha256": "b4a79edd40d214ce7043efd741b59b446f0d87f65184681b3255c58ee0b62a2c",
+      "versions": {
+        "gold": "BrunoSimon__folio-2019/gold_001",
+        "defect": "BrunoSimon__folio-2019/single_002"
+      },
+      "category": "rule_evolution"
+    },
+    {
+      "sample_id": "BrunoSimon__folio-2019__defect_04__requirements_v1",
+      "project_id": "BrunoSimon__folio-2019",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/BrunoSimon__folio-2019__defect_04__requirements_v1.md",
+      "prompt_sha256": "b4a79edd40d214ce7043efd741b59b446f0d87f65184681b3255c58ee0b62a2c",
+      "versions": {
+        "gold": "BrunoSimon__folio-2019/gold_001",
+        "defect": "BrunoSimon__folio-2019/single_003"
+      },
+      "category": "process_state"
+    },
+    {
+      "sample_id": "AQADIL__AqadilOS__defect_05__requirements_v1",
+      "project_id": "AQADIL__AqadilOS",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/AQADIL__AqadilOS__defect_05__requirements_v1.md",
+      "prompt_sha256": "188edf968579f8d768d6b0466c0e37e97261311941ac5cc0d9c90ff0c0662346",
+      "versions": {
+        "gold": "AQADIL__AqadilOS/gold_001",
+        "defect": "AQADIL__AqadilOS/single_005"
+      },
+      "category": "rule_evolution"
+    },
+    {
+      "sample_id": "lordbasilaiassistant-sudo__fishing-freel__defect_03__requirements_v1",
+      "project_id": "lordbasilaiassistant-sudo__fishing-freel",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/lordbasilaiassistant-sudo__fishing-freel__defect_03__requirements_v1.md",
+      "prompt_sha256": "8beda6126219deb880450e434340f1d98e7b524c2b8d097d695ad02e8fa18221",
+      "versions": {
+        "gold": "lordbasilaiassistant-sudo__fishing-freel/gold_001",
+        "defect": "lordbasilaiassistant-sudo__fishing-freel/single_003"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "michaelkolesidis__zigzag__defect_01__requirements_v1",
+      "project_id": "michaelkolesidis__zigzag",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/michaelkolesidis__zigzag__defect_01__requirements_v1.md",
+      "prompt_sha256": "0e0fe37c11a14621deccb2dacc1ad50ef3ae0ff004c5bb70a821f924980699d0",
+      "versions": {
+        "gold": "michaelkolesidis__zigzag/gold_001",
+        "defect": "michaelkolesidis__zigzag/single_002"
+      },
+      "category": "rule_evolution"
+    },
+    {
+      "sample_id": "arnobt78__Brainwave-Landing-Page--React-Frontend__defect_05__requirements_v1",
+      "project_id": "arnobt78__Brainwave-Landing-Page--React-Frontend",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/arnobt78__Brainwave-Landing-Page--React-Frontend__defect_05__requirements_v1.md",
+      "prompt_sha256": "9755e02c30313effc0fa47598cd38ee6d6393c4183191de4e44750534a859216",
+      "versions": {
+        "gold": "arnobt78__Brainwave-Landing-Page--React-Frontend/gold_001",
+        "defect": "arnobt78__Brainwave-Landing-Page--React-Frontend/single_004"
+      },
+      "category": "visibility_progression"
+    },
+    {
+      "sample_id": "greengem__threejs-solar-system__defect_08__requirements_v1",
+      "project_id": "greengem__threejs-solar-system",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/greengem__threejs-solar-system__defect_08__requirements_v1.md",
+      "prompt_sha256": "a7ab4c4b09f87567c6bd18c1d386348e65085cc3568fc80ecb06daf568cb30ae",
+      "versions": {
+        "gold": "greengem__threejs-solar-system/gold_001",
+        "defect": "greengem__threejs-solar-system/single_004"
+      },
+      "category": "spatial_motion"
+    },
+    {
+      "sample_id": "greengem__threejs-solar-system__defect_07__requirements_v1",
+      "project_id": "greengem__threejs-solar-system",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/greengem__threejs-solar-system__defect_07__requirements_v1.md",
+      "prompt_sha256": "a7ab4c4b09f87567c6bd18c1d386348e65085cc3568fc80ecb06daf568cb30ae",
+      "versions": {
+        "gold": "greengem__threejs-solar-system/gold_001",
+        "defect": "greengem__threejs-solar-system/single_005"
+      },
+      "category": "rule_evolution"
+    },
+    {
+      "sample_id": "sayjeyhi__my-3d-portfolio__defect_03__requirements_v1",
+      "project_id": "sayjeyhi__my-3d-portfolio",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/sayjeyhi__my-3d-portfolio__defect_03__requirements_v1.md",
+      "prompt_sha256": "58f69f6801b097c5f229085fdef37b727d1370d2b8718c379af3519f5b331888",
+      "versions": {
+        "gold": "sayjeyhi__my-3d-portfolio/gold_001",
+        "defect": "sayjeyhi__my-3d-portfolio/single_004"
+      },
+      "category": "process_state"
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_12__requirements_v1",
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "task_type": "single_defect",
+      "prompt_file": "dataset/prompts/pixijs__open-games__puzzling-potions__defect_12__requirements_v1.md",
+      "prompt_sha256": "8dfbc6ea5a663be98f12d073e431a086c1a21afdbfc8f18a3d67981cf4f1ec4a",
+      "versions": {
+        "gold": "pixijs__open-games__puzzling-potions/gold_001",
+        "defect": "pixijs__open-games__puzzling-potions/single_009"
+      },
+      "category": "process_state"
+    }
+  ]
+}

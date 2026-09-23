@@ -1,0 +1,890 @@
+{
+  "schema_version": 1,
+  "release": "dataset-v1",
+  "repository": "https://github.com/Staudinger0325/webmetabench",
+  "single_defect_samples": 120,
+  "multi_defect_samples": 19,
+  "projects": [
+    {
+      "project_id": "ANURAG-SINGH17__MAGMA",
+      "sha256": "07125bbd03b7e99c21ed0e9f06c62265b2592ff0d2c428bcea6ed278a97d364b",
+      "assets": [
+        {
+          "name": "ANURAG-SINGH17__MAGMA.tar.gz",
+          "size_bytes": 94083126,
+          "sha256": "07125bbd03b7e99c21ed0e9f06c62265b2592ff0d2c428bcea6ed278a97d364b",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/ANURAG-SINGH17__MAGMA.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002"
+      ],
+      "uncompressed_bytes": 96546894,
+      "file_count": 254
+    },
+    {
+      "project_id": "AQADIL__AqadilOS",
+      "sha256": "fee022fad3e28dcdebd91014b9ba502c78850c5975fa347380acd8f59f6d7c66",
+      "assets": [
+        {
+          "name": "AQADIL__AqadilOS.tar.gz",
+          "size_bytes": 354874593,
+          "sha256": "fee022fad3e28dcdebd91014b9ba502c78850c5975fa347380acd8f59f6d7c66",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/AQADIL__AqadilOS.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "single_005",
+        "multi_006"
+      ],
+      "uncompressed_bytes": 367605714,
+      "file_count": 186
+    },
+    {
+      "project_id": "ArmanKhanTech__Portfolio",
+      "sha256": "02e4466e212b05ff01d31c564cf257b8a864ea3ce253986de0d8721e7548c1c1",
+      "assets": [
+        {
+          "name": "ArmanKhanTech__Portfolio.tar.gz",
+          "size_bytes": 64608190,
+          "sha256": "02e4466e212b05ff01d31c564cf257b8a864ea3ce253986de0d8721e7548c1c1",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/ArmanKhanTech__Portfolio.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "multi_005"
+      ],
+      "uncompressed_bytes": 88746669,
+      "file_count": 175
+    },
+    {
+      "project_id": "BrunoSimon__folio-2019",
+      "sha256": "2fbc033396e33b9fc8232e56c210221a54f1358ee8dd3f4ab3574ae8a7743148",
+      "assets": [
+        {
+          "name": "BrunoSimon__folio-2019.tar.gz",
+          "size_bytes": 41653055,
+          "sha256": "2fbc033396e33b9fc8232e56c210221a54f1358ee8dd3f4ab3574ae8a7743148",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/BrunoSimon__folio-2019.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003"
+      ],
+      "uncompressed_bytes": 55408970,
+      "file_count": 876
+    },
+    {
+      "project_id": "CodebyCyrus__Apple-Landing",
+      "sha256": "c42d790d806725e118c4312d15881d68d20bfcc14a4c88e2bc753f310a218a00",
+      "assets": [
+        {
+          "name": "CodebyCyrus__Apple-Landing.tar.gz",
+          "size_bytes": 80850658,
+          "sha256": "c42d790d806725e118c4312d15881d68d20bfcc14a4c88e2bc753f310a218a00",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/CodebyCyrus__Apple-Landing.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002"
+      ],
+      "uncompressed_bytes": 83089260,
+      "file_count": 64
+    },
+    {
+      "project_id": "Juanescacha__Portfolio",
+      "sha256": "0863fe4702cc3c0653f808481a46bd9cf17ef38fcfd1488ae5700220d37e2201",
+      "assets": [
+        {
+          "name": "Juanescacha__Portfolio.tar.gz",
+          "size_bytes": 30614058,
+          "sha256": "0863fe4702cc3c0653f808481a46bd9cf17ef38fcfd1488ae5700220d37e2201",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/Juanescacha__Portfolio.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002"
+      ],
+      "uncompressed_bytes": 42668798,
+      "file_count": 183
+    },
+    {
+      "project_id": "Nayan286__Gsap",
+      "sha256": "0c3d32a061682f127529764b33b34aba17a6ce59cd857651c2d44e9f48855e64",
+      "assets": [
+        {
+          "name": "Nayan286__Gsap.tar.gz",
+          "size_bytes": 399486,
+          "sha256": "0c3d32a061682f127529764b33b34aba17a6ce59cd857651c2d44e9f48855e64",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/Nayan286__Gsap.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002"
+      ],
+      "uncompressed_bytes": 937473,
+      "file_count": 20
+    },
+    {
+      "project_id": "Om101101__Obys-Agency-Clone",
+      "sha256": "d245a6423e4ed65767a819eb8f28cd8da8c33d2bdf688a4c6866fd29978918b3",
+      "assets": [
+        {
+          "name": "Om101101__Obys-Agency-Clone.tar.gz",
+          "size_bytes": 49378399,
+          "sha256": "d245a6423e4ed65767a819eb8f28cd8da8c33d2bdf688a4c6866fd29978918b3",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/Om101101__Obys-Agency-Clone.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "multi_005"
+      ],
+      "uncompressed_bytes": 51222143,
+      "file_count": 110
+    },
+    {
+      "project_id": "OwaisZakir__cyber-learning-platform",
+      "sha256": "09c9f457fe5be5222502293758b075c3d9f09274b218db8e3da283eaf358f169",
+      "assets": [
+        {
+          "name": "OwaisZakir__cyber-learning-platform.tar.gz",
+          "size_bytes": 581773,
+          "sha256": "09c9f457fe5be5222502293758b075c3d9f09274b218db8e3da283eaf358f169",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/OwaisZakir__cyber-learning-platform.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002"
+      ],
+      "uncompressed_bytes": 1592808,
+      "file_count": 82
+    },
+    {
+      "project_id": "RajeebLochan__Portfolio-Website",
+      "sha256": "82b8b54bd3946554e7ce35fe1f079c2371b027dd5be6fc25734c83e89cdf803b",
+      "assets": [
+        {
+          "name": "RajeebLochan__Portfolio-Website.tar.gz",
+          "size_bytes": 50214440,
+          "sha256": "82b8b54bd3946554e7ce35fe1f079c2371b027dd5be6fc25734c83e89cdf803b",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/RajeebLochan__Portfolio-Website.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "multi_005"
+      ],
+      "uncompressed_bytes": 63500340,
+      "file_count": 375
+    },
+    {
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "sha256": "230a6a0fcde2ff8325242036e04e801ba3c3e1257f0d205c79d06d55680a5765",
+      "assets": [
+        {
+          "name": "SahilK-027__Elemental-Serenity.tar.gz",
+          "size_bytes": 84587039,
+          "sha256": "230a6a0fcde2ff8325242036e04e801ba3c3e1257f0d205c79d06d55680a5765",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/SahilK-027__Elemental-Serenity.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "single_005",
+        "single_006",
+        "single_007",
+        "single_008",
+        "single_009",
+        "single_010",
+        "multi_011"
+      ],
+      "uncompressed_bytes": 126100612,
+      "file_count": 759
+    },
+    {
+      "project_id": "Sr-Yan-Lima__champions4good-demo",
+      "sha256": "b0c18961e4b53c4b172db3e4716ef55e2678c8ca3b69403432fe06e8ec55e117",
+      "assets": [
+        {
+          "name": "Sr-Yan-Lima__champions4good-demo.tar.gz",
+          "size_bytes": 59967,
+          "sha256": "b0c18961e4b53c4b172db3e4716ef55e2678c8ca3b69403432fe06e8ec55e117",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/Sr-Yan-Lima__champions4good-demo.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003"
+      ],
+      "uncompressed_bytes": 238515,
+      "file_count": 3
+    },
+    {
+      "project_id": "SreeXD__Srees-Room",
+      "sha256": "20fdb106730cd2c29545b8e36310c2143da14f6875cc765bea185625088bee82",
+      "assets": [
+        {
+          "name": "SreeXD__Srees-Room.tar.gz",
+          "size_bytes": 77224353,
+          "sha256": "20fdb106730cd2c29545b8e36310c2143da14f6875cc765bea185625088bee82",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/SreeXD__Srees-Room.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004"
+      ],
+      "uncompressed_bytes": 83851441,
+      "file_count": 64
+    },
+    {
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "sha256": "ea96890230228dacea45424bf0ccd95d2455081713323f92ed642503d0577b14",
+      "assets": [
+        {
+          "name": "Sunil56224972__The-Drawn-Dimenstion.tar.gz",
+          "size_bytes": 914672832,
+          "sha256": "ea96890230228dacea45424bf0ccd95d2455081713323f92ed642503d0577b14",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/Sunil56224972__The-Drawn-Dimenstion.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "single_005",
+        "single_006",
+        "single_007",
+        "single_008",
+        "multi_009"
+      ],
+      "uncompressed_bytes": 948243648,
+      "file_count": 3933
+    },
+    {
+      "project_id": "Thakuma07__ABCS-SVGAnimation",
+      "sha256": "eae6d18ede6c145eb4ebcc00cad07810d5a37c15a6a2fd33427b3335561dc92b",
+      "assets": [
+        {
+          "name": "Thakuma07__ABCS-SVGAnimation.tar.gz",
+          "size_bytes": 98499,
+          "sha256": "eae6d18ede6c145eb4ebcc00cad07810d5a37c15a6a2fd33427b3335561dc92b",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/Thakuma07__ABCS-SVGAnimation.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002"
+      ],
+      "uncompressed_bytes": 205207,
+      "file_count": 8
+    },
+    {
+      "project_id": "VinayMatta63__threejs-portfolio",
+      "sha256": "2397e1b02d5911ae1114e5e6804fe63c45d2d6deff096470d57bef592bdcd529",
+      "assets": [
+        {
+          "name": "VinayMatta63__threejs-portfolio.tar.gz",
+          "size_bytes": 51011428,
+          "sha256": "2397e1b02d5911ae1114e5e6804fe63c45d2d6deff096470d57bef592bdcd529",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/VinayMatta63__threejs-portfolio.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003"
+      ],
+      "uncompressed_bytes": 113816777,
+      "file_count": 192
+    },
+    {
+      "project_id": "adityayaduvanshi__awwwards-website-1",
+      "sha256": "9f364e0b9473cf6aacd216ad369e863deb4053d4a76fe98a3d1a35ecce305839",
+      "assets": [
+        {
+          "name": "adityayaduvanshi__awwwards-website-1.tar.gz",
+          "size_bytes": 44446319,
+          "sha256": "9f364e0b9473cf6aacd216ad369e863deb4053d4a76fe98a3d1a35ecce305839",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/adityayaduvanshi__awwwards-website-1.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002"
+      ],
+      "uncompressed_bytes": 44928588,
+      "file_count": 42
+    },
+    {
+      "project_id": "afilahkle__3D-Clothing-Configurator",
+      "sha256": "3bb16d0225db2e05ef4b74c12a2c2cbc80f3b79297ef6edab5b753e8d030ef81",
+      "assets": [
+        {
+          "name": "afilahkle__3D-Clothing-Configurator.tar.gz",
+          "size_bytes": 7006960,
+          "sha256": "3bb16d0225db2e05ef4b74c12a2c2cbc80f3b79297ef6edab5b753e8d030ef81",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/afilahkle__3D-Clothing-Configurator.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002"
+      ],
+      "uncompressed_bytes": 9106639,
+      "file_count": 36
+    },
+    {
+      "project_id": "aframevr__aframe",
+      "sha256": "8d368acb0030cb37f8b024ad3988acd009d0653aaf96927ee5dc1bba75e0b0af",
+      "assets": [
+        {
+          "name": "aframevr__aframe.tar.gz",
+          "size_bytes": 4457632,
+          "sha256": "8d368acb0030cb37f8b024ad3988acd009d0653aaf96927ee5dc1bba75e0b0af",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/aframevr__aframe.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "gold_003",
+        "single_004",
+        "single_005"
+      ],
+      "uncompressed_bytes": 17385452,
+      "file_count": 43
+    },
+    {
+      "project_id": "arnobt78__Brainwave-Landing-Page--React-Frontend",
+      "sha256": "8f7c14f1d94e989eea8af745f71cbbe40209795fc539fb1cbc2ecd9527f12c2b",
+      "assets": [
+        {
+          "name": "arnobt78__Brainwave-Landing-Page--React-Frontend.tar.gz",
+          "size_bytes": 58383121,
+          "sha256": "8f7c14f1d94e989eea8af745f71cbbe40209795fc539fb1cbc2ecd9527f12c2b",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/arnobt78__Brainwave-Landing-Page--React-Frontend.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "multi_005"
+      ],
+      "uncompressed_bytes": 61245422,
+      "file_count": 135
+    },
+    {
+      "project_id": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend",
+      "sha256": "c6bbb4c8d65ae8c712cfb2d1df96340ec6e14d2a633a6d818ba12271e74cf7f8",
+      "assets": [
+        {
+          "name": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend.tar.gz",
+          "size_bytes": 102812570,
+          "sha256": "c6bbb4c8d65ae8c712cfb2d1df96340ec6e14d2a633a6d818ba12271e74cf7f8",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/arnobt78__MacBook-Showcase-Landing-Page--React-Frontend.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003"
+      ],
+      "uncompressed_bytes": 116059114,
+      "file_count": 165
+    },
+    {
+      "project_id": "basedhound__3d-room_portfolio_react",
+      "sha256": "75ceac2c2442e8f543ec0909b71e4af2afd0fd3ad2373f8b9f817b829dbccb42",
+      "assets": [
+        {
+          "name": "basedhound__3d-room_portfolio_react.tar.gz",
+          "size_bytes": 43435065,
+          "sha256": "75ceac2c2442e8f543ec0909b71e4af2afd0fd3ad2373f8b9f817b829dbccb42",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/basedhound__3d-room_portfolio_react.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "single_005",
+        "single_006",
+        "multi_007"
+      ],
+      "uncompressed_bytes": 56376630,
+      "file_count": 483
+    },
+    {
+      "project_id": "cruip__tailwind-dashboard-template",
+      "sha256": "f15396dce4d3fb271f7eb6a42c4fec579a43faa46af2cae26077765d39c83392",
+      "assets": [
+        {
+          "name": "cruip__tailwind-dashboard-template.tar.gz",
+          "size_bytes": 579800,
+          "sha256": "f15396dce4d3fb271f7eb6a42c4fec579a43faa46af2cae26077765d39c83392",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/cruip__tailwind-dashboard-template.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002"
+      ],
+      "uncompressed_bytes": 1692507,
+      "file_count": 10
+    },
+    {
+      "project_id": "fekikarim__farmy-landing",
+      "sha256": "92c8e0d35f1be75d1df7c8acd593473b7ef157df623dff300aa47534e5751cca",
+      "assets": [
+        {
+          "name": "fekikarim__farmy-landing.tar.gz",
+          "size_bytes": 18636076,
+          "sha256": "92c8e0d35f1be75d1df7c8acd593473b7ef157df623dff300aa47534e5751cca",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/fekikarim__farmy-landing.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003"
+      ],
+      "uncompressed_bytes": 20375601,
+      "file_count": 36
+    },
+    {
+      "project_id": "greengem__threejs-solar-system",
+      "sha256": "2fed81b958c10dbb9f839c18a43162cc46d1259eb740f4ead0c0ff0465fc9095",
+      "assets": [
+        {
+          "name": "greengem__threejs-solar-system.tar.gz",
+          "size_bytes": 14807826,
+          "sha256": "2fed81b958c10dbb9f839c18a43162cc46d1259eb740f4ead0c0ff0465fc9095",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/greengem__threejs-solar-system.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "single_005",
+        "multi_006"
+      ],
+      "uncompressed_bytes": 21252288,
+      "file_count": 96
+    },
+    {
+      "project_id": "grep-many__wemble-guys",
+      "sha256": "343717d188a5654b5c0ecffd92a27fd53db674b83fb17d9ed88c0c3a4857db21",
+      "assets": [
+        {
+          "name": "grep-many__wemble-guys.tar.gz",
+          "size_bytes": 69768889,
+          "sha256": "343717d188a5654b5c0ecffd92a27fd53db674b83fb17d9ed88c0c3a4857db21",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/grep-many__wemble-guys.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "single_005",
+        "gold_006",
+        "single_007",
+        "multi_008"
+      ],
+      "uncompressed_bytes": 167531927,
+      "file_count": 160
+    },
+    {
+      "project_id": "iwopant0825__antMysite",
+      "sha256": "37c27f9d9ef9d862234910d91d9d29922da83b780d5bcf967c88bf83bb02ea88",
+      "assets": [
+        {
+          "name": "iwopant0825__antMysite.tar.gz",
+          "size_bytes": 29734877,
+          "sha256": "37c27f9d9ef9d862234910d91d9d29922da83b780d5bcf967c88bf83bb02ea88",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/iwopant0825__antMysite.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "multi_005"
+      ],
+      "uncompressed_bytes": 44372391,
+      "file_count": 170
+    },
+    {
+      "project_id": "kuasar-mknd__visualdon-projet",
+      "sha256": "6daaa8ca6cfada67d18be078caa2f4662538a795ead58089844d2a1d833387f5",
+      "assets": [
+        {
+          "name": "kuasar-mknd__visualdon-projet.tar.gz",
+          "size_bytes": 16903157,
+          "sha256": "6daaa8ca6cfada67d18be078caa2f4662538a795ead58089844d2a1d833387f5",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/kuasar-mknd__visualdon-projet.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "multi_005"
+      ],
+      "uncompressed_bytes": 64880060,
+      "file_count": 115
+    },
+    {
+      "project_id": "lordbasilaiassistant-sudo__fishing-freel",
+      "sha256": "8c7ba2b605e972bf4aa495d60f0606e3db2c2c4c1aeaa528699f4f32ca1e14e4",
+      "assets": [
+        {
+          "name": "lordbasilaiassistant-sudo__fishing-freel.tar.gz",
+          "size_bytes": 2333153,
+          "sha256": "8c7ba2b605e972bf4aa495d60f0606e3db2c2c4c1aeaa528699f4f32ca1e14e4",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/lordbasilaiassistant-sudo__fishing-freel.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003"
+      ],
+      "uncompressed_bytes": 5331984,
+      "file_count": 15
+    },
+    {
+      "project_id": "martinlaxenaire__portfolio-2025",
+      "sha256": "aff66b8bef1e6daf6560f9106de14b4735175a50363aa0f033228e96250e800d",
+      "assets": [
+        {
+          "name": "martinlaxenaire__portfolio-2025.tar.gz",
+          "size_bytes": 61072306,
+          "sha256": "aff66b8bef1e6daf6560f9106de14b4735175a50363aa0f033228e96250e800d",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/martinlaxenaire__portfolio-2025.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003"
+      ],
+      "uncompressed_bytes": 63929502,
+      "file_count": 213
+    },
+    {
+      "project_id": "martinlaxenaire__portfolio-2025__more_defects_20260619",
+      "sha256": "0c047871fa7f5bde6c28693b2fb6a6d4c94468d4733e070109f9b27a80fe4340",
+      "assets": [
+        {
+          "name": "martinlaxenaire__portfolio-2025__more_defects_20260619.tar.gz",
+          "size_bytes": 61085170,
+          "sha256": "0c047871fa7f5bde6c28693b2fb6a6d4c94468d4733e070109f9b27a80fe4340",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/martinlaxenaire__portfolio-2025__more_defects_20260619.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003"
+      ],
+      "uncompressed_bytes": 63981687,
+      "file_count": 213
+    },
+    {
+      "project_id": "mehrabgholamsamani__CryptoDash",
+      "sha256": "e10d2ed5527de707402bbf8452cb7add2a9f806f2d9f267e9fea4d7e4bfda8de",
+      "assets": [
+        {
+          "name": "mehrabgholamsamani__CryptoDash.tar.gz",
+          "size_bytes": 1676062,
+          "sha256": "e10d2ed5527de707402bbf8452cb7add2a9f806f2d9f267e9fea4d7e4bfda8de",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/mehrabgholamsamani__CryptoDash.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "multi_005"
+      ],
+      "uncompressed_bytes": 3163907,
+      "file_count": 25
+    },
+    {
+      "project_id": "michaelkolesidis__zigzag",
+      "sha256": "61b817973faa7e72ac212f97201c98608ec052a0d651ddbf77aace291756d20d",
+      "assets": [
+        {
+          "name": "michaelkolesidis__zigzag.tar.gz",
+          "size_bytes": 2145391,
+          "sha256": "61b817973faa7e72ac212f97201c98608ec052a0d651ddbf77aace291756d20d",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/michaelkolesidis__zigzag.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002"
+      ],
+      "uncompressed_bytes": 4733166,
+      "file_count": 44
+    },
+    {
+      "project_id": "mrkara__casper-era-tracker",
+      "sha256": "0d6265d36ab228ae0d12ad5c5a932cc6e647847af90e08badf4798dc6119ab39",
+      "assets": [
+        {
+          "name": "mrkara__casper-era-tracker.tar.gz",
+          "size_bytes": 313119,
+          "sha256": "0d6265d36ab228ae0d12ad5c5a932cc6e647847af90e08badf4798dc6119ab39",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/mrkara__casper-era-tracker.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002"
+      ],
+      "uncompressed_bytes": 841461,
+      "file_count": 12
+    },
+    {
+      "project_id": "nirdhum__honest-landing",
+      "sha256": "52288f23f2f65dc618fa2530ba20716996701812803eb55353590542e0eb20a0",
+      "assets": [
+        {
+          "name": "nirdhum__honest-landing.tar.gz",
+          "size_bytes": 4201691,
+          "sha256": "52288f23f2f65dc618fa2530ba20716996701812803eb55353590542e0eb20a0",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/nirdhum__honest-landing.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "gold_004",
+        "single_005",
+        "multi_006"
+      ],
+      "uncompressed_bytes": 6104853,
+      "file_count": 72
+    },
+    {
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "sha256": "d64930adc31acf2e045b579c8ed361a9f393eb7804b7fa782095d609da3c9b43",
+      "assets": [
+        {
+          "name": "pixijs__open-games__puzzling-potions.tar.gz",
+          "size_bytes": 31761406,
+          "sha256": "d64930adc31acf2e045b579c8ed361a9f393eb7804b7fa782095d609da3c9b43",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/pixijs__open-games__puzzling-potions.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "single_005",
+        "single_006",
+        "single_007",
+        "single_008",
+        "single_009",
+        "multi_010"
+      ],
+      "uncompressed_bytes": 39041005,
+      "file_count": 890
+    },
+    {
+      "project_id": "playcanvas__engine",
+      "sha256": "1b33bde410caf0e5e65b78978b1bc95b44d6d9a851ccb158c390fa7525e33179",
+      "assets": [
+        {
+          "name": "playcanvas__engine.tar.gz.part001",
+          "size_bytes": 1887436800,
+          "sha256": "1b799dca548d5c99ec0bc7027b8884770f161e578973c03a1d2c4548964aa177",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/playcanvas__engine.tar.gz.part001"
+        },
+        {
+          "name": "playcanvas__engine.tar.gz.part002",
+          "size_bytes": 116533681,
+          "sha256": "2f875eb60764a7692af4696f2f4563ee0593a73bb41f96eaa502c38b8a667040",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/playcanvas__engine.tar.gz.part002"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "multi_005"
+      ],
+      "uncompressed_bytes": 2472684676,
+      "file_count": 9000
+    },
+    {
+      "project_id": "refinedev__refine",
+      "sha256": "57d48d5006fd0b455758e58b85c9a3e5d8ceb54fbf2b4206ad3bf8533ce7395f",
+      "assets": [
+        {
+          "name": "refinedev__refine.tar.gz",
+          "size_bytes": 2108915,
+          "sha256": "57d48d5006fd0b455758e58b85c9a3e5d8ceb54fbf2b4206ad3bf8533ce7395f",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/refinedev__refine.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002"
+      ],
+      "uncompressed_bytes": 5036295,
+      "file_count": 60
+    },
+    {
+      "project_id": "saidee-hasan__modern-business-landing-page",
+      "sha256": "ad51f0b45547e94d021b5d1e73ecf717b60096749d48dfffdbe2fcc0efb73697",
+      "assets": [
+        {
+          "name": "saidee-hasan__modern-business-landing-page.tar.gz",
+          "size_bytes": 2096218,
+          "sha256": "ad51f0b45547e94d021b5d1e73ecf717b60096749d48dfffdbe2fcc0efb73697",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/saidee-hasan__modern-business-landing-page.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003"
+      ],
+      "uncompressed_bytes": 3045656,
+      "file_count": 39
+    },
+    {
+      "project_id": "sayjeyhi__my-3d-portfolio",
+      "sha256": "e3e0c5d35b5169892c1c673bfd2d84fee33aefd44016378e7a14e2286be76644",
+      "assets": [
+        {
+          "name": "sayjeyhi__my-3d-portfolio.tar.gz",
+          "size_bytes": 152236678,
+          "sha256": "e3e0c5d35b5169892c1c673bfd2d84fee33aefd44016378e7a14e2286be76644",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/sayjeyhi__my-3d-portfolio.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "multi_005"
+      ],
+      "uncompressed_bytes": 221049466,
+      "file_count": 530
+    },
+    {
+      "project_id": "sleepy-zone__fabritor-web",
+      "sha256": "ed2a314bc9faab2ff90e3bf93a6bf5d3fd5325b571b7de41af4b2396d071866c",
+      "assets": [
+        {
+          "name": "sleepy-zone__fabritor-web.tar.gz",
+          "size_bytes": 770254985,
+          "sha256": "ed2a314bc9faab2ff90e3bf93a6bf5d3fd5325b571b7de41af4b2396d071866c",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/sleepy-zone__fabritor-web.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "gold_005",
+        "single_006",
+        "multi_007"
+      ],
+      "uncompressed_bytes": 1137138504,
+      "file_count": 308
+    },
+    {
+      "project_id": "theshanergy__4x4builder",
+      "sha256": "016aae17f58d689d15b882495d70e27ae82444f842ee28b6de14e40c32b3bd6c",
+      "assets": [
+        {
+          "name": "theshanergy__4x4builder.tar.gz",
+          "size_bytes": 129893761,
+          "sha256": "016aae17f58d689d15b882495d70e27ae82444f842ee28b6de14e40c32b3bd6c",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/theshanergy__4x4builder.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003"
+      ],
+      "uncompressed_bytes": 164764904,
+      "file_count": 357
+    },
+    {
+      "project_id": "toeverything__AFFiNE",
+      "sha256": "6d900792257eeaa1e54df22e36c067eb2b850be42c90c5e7aa76e273a22fb86c",
+      "assets": [
+        {
+          "name": "toeverything__AFFiNE.tar.gz",
+          "size_bytes": 89699552,
+          "sha256": "6d900792257eeaa1e54df22e36c067eb2b850be42c90c5e7aa76e273a22fb86c",
+          "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/toeverything__AFFiNE.tar.gz"
+        }
+      ],
+      "variants": [
+        "gold_001",
+        "single_002",
+        "single_003",
+        "single_004",
+        "single_005",
+        "single_006",
+        "gold_007",
+        "single_008",
+        "multi_009"
+      ],
+      "uncompressed_bytes": 244726938,
+      "file_count": 3456
+    }
+  ]
+}

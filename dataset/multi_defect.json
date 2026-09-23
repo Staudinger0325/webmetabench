@@ -1,0 +1,214 @@
+{
+  "schema_version": 1,
+  "samples": [
+    {
+      "sample_id": "AQADIL__AqadilOS__multi_defect_01",
+      "project_id": "AQADIL__AqadilOS",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/AQADIL__AqadilOS__multi_defect_01.md",
+      "prompt_sha256": "09d4f4a71ac6c865b1955b20f22fae9d38d0398350d15e817d3ff1be0dfec9b2",
+      "versions": {
+        "gold": "AQADIL__AqadilOS/gold_001",
+        "defect": "AQADIL__AqadilOS/multi_006"
+      }
+    },
+    {
+      "sample_id": "ArmanKhanTech__Portfolio__multi_defect_01",
+      "project_id": "ArmanKhanTech__Portfolio",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/ArmanKhanTech__Portfolio__multi_defect_01.md",
+      "prompt_sha256": "2479bac70e3d3a3d3e91bd2dca9ef417feba48254d29b356f32976cc46d4812c",
+      "versions": {
+        "gold": "ArmanKhanTech__Portfolio/gold_001",
+        "defect": "ArmanKhanTech__Portfolio/multi_005"
+      }
+    },
+    {
+      "sample_id": "Om101101__Obys-Agency-Clone__multi_defect_01",
+      "project_id": "Om101101__Obys-Agency-Clone",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/Om101101__Obys-Agency-Clone__multi_defect_01.md",
+      "prompt_sha256": "eafee55cdaae5541a4fe78b230972110591e185f94c878ea543002d593e070fd",
+      "versions": {
+        "gold": "Om101101__Obys-Agency-Clone/gold_001",
+        "defect": "Om101101__Obys-Agency-Clone/multi_005"
+      }
+    },
+    {
+      "sample_id": "RajeebLochan__Portfolio-Website__multi_defect_01",
+      "project_id": "RajeebLochan__Portfolio-Website",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/RajeebLochan__Portfolio-Website__multi_defect_01.md",
+      "prompt_sha256": "590612b9c6502d3f7737bafae7853277809abba3462d948bc429906014a949b1",
+      "versions": {
+        "gold": "RajeebLochan__Portfolio-Website/gold_001",
+        "defect": "RajeebLochan__Portfolio-Website/multi_005"
+      }
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__multi_defect_01",
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/SahilK-027__Elemental-Serenity__multi_defect_01.md",
+      "prompt_sha256": "98b4997781ada50c1a925ba75cd97b6718a2fc93273f2287d91cfbc8102a8a2d",
+      "versions": {
+        "gold": "SahilK-027__Elemental-Serenity/gold_001",
+        "defect": "SahilK-027__Elemental-Serenity/multi_011"
+      }
+    },
+    {
+      "sample_id": "Sunil56224972__The-Drawn-Dimenstion__multi_defect_01",
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/Sunil56224972__The-Drawn-Dimenstion__multi_defect_01.md",
+      "prompt_sha256": "c526117919d4247149dba5b1e054ee4a400db7b9dee71bb32026d4d2f0d2d670",
+      "versions": {
+        "gold": "Sunil56224972__The-Drawn-Dimenstion/gold_001",
+        "defect": "Sunil56224972__The-Drawn-Dimenstion/multi_009"
+      }
+    },
+    {
+      "sample_id": "arnobt78__Brainwave-Landing-Page--React-Frontend__multi_defect_01",
+      "project_id": "arnobt78__Brainwave-Landing-Page--React-Frontend",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/arnobt78__Brainwave-Landing-Page--React-Frontend__multi_defect_01.md",
+      "prompt_sha256": "dce0d1dd6a7c32d752559f1fa43ba59c61f1089e2d663289f362bfa1513f7055",
+      "versions": {
+        "gold": "arnobt78__Brainwave-Landing-Page--React-Frontend/gold_001",
+        "defect": "arnobt78__Brainwave-Landing-Page--React-Frontend/multi_005"
+      }
+    },
+    {
+      "sample_id": "basedhound__3d-room_portfolio_react__multi_defect_01",
+      "project_id": "basedhound__3d-room_portfolio_react",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/basedhound__3d-room_portfolio_react__multi_defect_01.md",
+      "prompt_sha256": "2edca9904f2345b779c209542ff789f2905c348a31c803da608dd6502795263a",
+      "versions": {
+        "gold": "basedhound__3d-room_portfolio_react/gold_001",
+        "defect": "basedhound__3d-room_portfolio_react/multi_007"
+      }
+    },
+    {
+      "sample_id": "greengem__threejs-solar-system__multi_defect_01",
+      "project_id": "greengem__threejs-solar-system",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/greengem__threejs-solar-system__multi_defect_01.md",
+      "prompt_sha256": "34ecc00fbd127b2e863fa0769a9e781b0989516e490125de42a5eede553ff654",
+      "versions": {
+        "gold": "greengem__threejs-solar-system/gold_001",
+        "defect": "greengem__threejs-solar-system/multi_006"
+      }
+    },
+    {
+      "sample_id": "grep-many__wemble-guys__multi_defect_01",
+      "project_id": "grep-many__wemble-guys",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/grep-many__wemble-guys__multi_defect_01.md",
+      "prompt_sha256": "809b24914449cde844421948bd22d77392cbb23a5b829d6e433bad472b29d244",
+      "versions": {
+        "gold": "grep-many__wemble-guys/gold_001",
+        "defect": "grep-many__wemble-guys/multi_008"
+      }
+    },
+    {
+      "sample_id": "iwopant0825__antMysite__multi_defect_01",
+      "project_id": "iwopant0825__antMysite",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/iwopant0825__antMysite__multi_defect_01.md",
+      "prompt_sha256": "a5bdb4ad991e1d05f0713ebb89a28ac9886ce21a1ea59dc00cd33cb7dc8f7e32",
+      "versions": {
+        "gold": "iwopant0825__antMysite/gold_001",
+        "defect": "iwopant0825__antMysite/multi_005"
+      }
+    },
+    {
+      "sample_id": "kuasar-mknd__visualdon-projet__multi_defect_01",
+      "project_id": "kuasar-mknd__visualdon-projet",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/kuasar-mknd__visualdon-projet__multi_defect_01.md",
+      "prompt_sha256": "c73b1d1c3acb83f91422f7232d76496476db6edfe6be216f43e18fc5d3d93e63",
+      "versions": {
+        "gold": "kuasar-mknd__visualdon-projet/gold_001",
+        "defect": "kuasar-mknd__visualdon-projet/multi_005"
+      }
+    },
+    {
+      "sample_id": "mehrabgholamsamani__CryptoDash__multi_defect_01",
+      "project_id": "mehrabgholamsamani__CryptoDash",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/mehrabgholamsamani__CryptoDash__multi_defect_01.md",
+      "prompt_sha256": "9e67a8dc94af3803665e4ceb0db7ca77ed771bef093e0aac2f47e7b90f027b15",
+      "versions": {
+        "gold": "mehrabgholamsamani__CryptoDash/gold_001",
+        "defect": "mehrabgholamsamani__CryptoDash/multi_005"
+      }
+    },
+    {
+      "sample_id": "nirdhum__honest-landing__multi_defect_01",
+      "project_id": "nirdhum__honest-landing",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/nirdhum__honest-landing__multi_defect_01.md",
+      "prompt_sha256": "fd47bdc999744d7855c328cc4fe7c3b5a73c97fa7997e191f9f79e80ee144b27",
+      "versions": {
+        "gold": "nirdhum__honest-landing/gold_001",
+        "defect": "nirdhum__honest-landing/multi_006"
+      }
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__multi_defect_01",
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/pixijs__open-games__puzzling-potions__multi_defect_01.md",
+      "prompt_sha256": "3ccc1d67d80c4e5bdbddcfeab9d4975bf8fd6f5a0e587b2fa90ed9564e7d8199",
+      "versions": {
+        "gold": "pixijs__open-games__puzzling-potions/gold_001",
+        "defect": "pixijs__open-games__puzzling-potions/multi_010"
+      }
+    },
+    {
+      "sample_id": "playcanvas__engine__multi_defect_01",
+      "project_id": "playcanvas__engine",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/playcanvas__engine__multi_defect_01.md",
+      "prompt_sha256": "3e7c97df27b4d780ce21bf5e5b8289f1fb2c7d099c75411b4b8ba45a4d2d3b0b",
+      "versions": {
+        "gold": "playcanvas__engine/gold_001",
+        "defect": "playcanvas__engine/multi_005"
+      }
+    },
+    {
+      "sample_id": "sayjeyhi__my-3d-portfolio__multi_defect_01",
+      "project_id": "sayjeyhi__my-3d-portfolio",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/sayjeyhi__my-3d-portfolio__multi_defect_01.md",
+      "prompt_sha256": "f93c86f52d4837d2eb40999ccf46b329b7d473cb9402c17e2205563569219ed9",
+      "versions": {
+        "gold": "sayjeyhi__my-3d-portfolio/gold_001",
+        "defect": "sayjeyhi__my-3d-portfolio/multi_005"
+      }
+    },
+    {
+      "sample_id": "sleepy-zone__fabritor-web__multi_defect_01",
+      "project_id": "sleepy-zone__fabritor-web",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/sleepy-zone__fabritor-web__multi_defect_01.md",
+      "prompt_sha256": "ee30e94d9de70e23f43f327e300aa0f192c291693f92b3793ca12ad7ff8984f4",
+      "versions": {
+        "gold": "sleepy-zone__fabritor-web/gold_001",
+        "defect": "sleepy-zone__fabritor-web/multi_007"
+      }
+    },
+    {
+      "sample_id": "toeverything__AFFiNE__multi_defect_01",
+      "project_id": "toeverything__AFFiNE",
+      "task_type": "multi_defect",
+      "prompt_file": "dataset/prompts/toeverything__AFFiNE__multi_defect_01.md",
+      "prompt_sha256": "4218f64e29c83a0b19cfff7e300e1ed34e5a7d33d554aca611658f27bb493a64",
+      "versions": {
+        "gold": "toeverything__AFFiNE/gold_001",
+        "defect": "toeverything__AFFiNE/multi_009"
+      }
+    }
+  ]
+}

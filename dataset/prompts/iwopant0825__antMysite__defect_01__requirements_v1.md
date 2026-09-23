@@ -1,0 +1,38 @@
+You are testing a deployed frontend implementation against the acceptance checklist below.
+
+Use the browser like a black-box QA tester. Explore the relevant pages, interact with the UI, and use screenshots or video recordings when a requirement involves motion, timing, visual effects, input response, or multi-step state changes.
+
+Check the checklist items one by one and determine how well the implementation satisfies them. Report your findings, including any unmet checklist items, the observed behavior, and concise evidence from your browser interactions.
+
+Acceptance checklist:
+## Public acceptance checklist
+
+### R1 - Loading and Responsive Navigation
+When the user opens the page, they should first see a centered logo drawing animation, the text loading..., and a pulsing bar. The hero and fixed navigation should appear only after the loading overlay fades out. On desktop, clicking Profile, Skills, Timeline, or Projects should smoothly move the page to the corresponding section and transfer focus to that section. In a narrow viewport, the menu button should expand the top drop-down navigation and its backdrop; selecting a navigation item or clicking the backdrop should collapse the menu, and the fixed top bar must not obscure the main content.
+
+### R2 - Hero Typography and 3D Stage
+When the user first enters the hero, they should be able to read FE, DEVELOPER, Interactive Web, and ChaHoRim on a full-viewport typographic stage and see a dark 3D logo with a light-colored outline near ChaHoRim. After the viewport width is changed among desktop, tablet, and phone sizes, the main text should reflow to fit the available space; the model should sit beside the name on wide screens and move to a centered position below the text on narrow screens. Neither the text nor the model should be obscured by the navigation, and both should remain visible and proportionally balanced after further resizing.
+
+### R3 - Pointer-Driven Model Orientation
+In a fine-pointer desktop environment, when the user moves the mouse from the center of the page toward the right, left, top, and bottom, the 3D logo beside ChaHoRim should make a slight, continuous turn in the same horizontal or vertical direction, respectively. When movement stops, its pose should settle smoothly and remain at the resulting orientation. Moving the pointer outside the model area should still preserve the orientation response produced by its position on the page. Repeated back-and-forth movement must not reverse the left-right turn or pitch direction relative to the pointer path, and the model must not remain fixed in its initial pose; its turning angle should change continuously during sustained movement.
+
+### R4 - Rainbow Text Fill
+While the hero occupies most of the visible area, scrolling the mouse wheel downward or dragging the content upward by touch should continuously increase the colored fill of Interactive Web from left to right. Input in the opposite direction should continuously shrink the fill and return the text to its plain state. At every nonzero fill width, the visible filled region should be a scaled version of the complete red-to-purple color band, with red, orange, yellow, green, blue, and purple all distributed within the current width. Progress changes should be interpolated instead of revealing successive portions from the beginning of the gradient, and repeated advancement and reversal should follow the same color-band rule.
+
+### R5 - Hero Scroll Boundaries
+When the user scrolls in the hero, wheel and touch displacement should take priority in changing the Interactive Web progress until the text fill reaches the boundary in the current direction, while the document position remains within the hero experience. Only continued downward input after the fill reaches its endpoint should enter the main content, including Profile. After returning to the hero, upward input should first reverse the fill, and only after it reaches the starting point should the page continue moving toward the top. Ending or canceling a touch must not leave accumulated displacement that causes an abrupt jump, and each return to the hero should resume continuously from the progress at that time.
+
+### R6 - Profile Reveal Sequence
+When the user scrolls to the Profile section, the Profile label and the developer's name should reveal upward from below, followed by the introduction paragraph completing one character at a time. The text container should maintain stable reading space throughout the completion process. Clicking the Instagram or GitHub icon should open the corresponding profile in a new browsing context. After repeatedly leaving and returning to this section, an introduction that has finished should remain fully readable and must not revert to truncated text; a clear outline should also remain visible when either icon receives keyboard focus.
+
+### R7 - Skills Tag Display
+When the user scrolls to the black Skills section, the heading should become visible first, followed by the technology tags appearing in grid order through staggered upward motion. Every tag should display both its technology icon and name. When the user hovers over a tag, that tag should rise slightly and its border should become more prominent without moving adjacent tags. In a narrow viewport, the tags should wrap automatically while keeping their names readable. If an icon resource has not yet arrived, the text identifying its technology should remain present, and the later arrival of the icon must not change the tag order; text contrast in the dark section should remain clear.
+
+### R8 - Sequential Timeline Reveal
+When the user scrolls to the Timeline section and brings it into the main visible area, the vertical guide line should first extend from top to bottom, followed by each node and its content card appearing in the chronological order shown on the page. The date, title, and description in each card must come from the same experience entry. After repeated scrolling or a viewport-size change, revealed nodes must not be reordered or mixed with text from other entries. On narrow screens, the guide line and cards should retain a readable sequence, card boundaries must not obscure the nodes, and the order should remain unchanged when the page becomes visible again.
+
+### R9 - Project Detail Round Trip
+When the user hovers over a project card in the Projects section, the card should respond with a slight upward movement and a shadow change. Clicking it should open an overlay detail view that displays the cover image, name, description, technologies, responsibilities, AI information, and valid external links for the current project. When the user returns by using the close control, the backdrop, or Escape, they should return to the original position in the project list and the detail view's content should be cleared. The next time a different card is opened, only the new card's data and links should be shown, and focus should return to the card that originally triggered the detail view when it is closed.
+
+### R10 - Pointer Decoration and Footer Links
+When the user moves the mouse in a wide-screen, fine-pointer environment, a translucent glass circle should follow the pointer along a slightly delayed path. The circle should fade out after the pointer leaves the browser area and reappear when it re-enters; this decorative layer should not be displayed on touch devices or in narrow viewports. When the user scrolls to the footer, they should see the ChaHoRim — FE Developer identification and the GitHub and Email contact links. The link text should remain readable, and the foreground decorative layer must not block clicks on the links.

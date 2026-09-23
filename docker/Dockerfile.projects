@@ -1,0 +1,10 @@
+ARG BASE_IMAGE=python:3.12-slim-bookworm
+FROM ${BASE_IMAGE}
+ENV PYTHONDONTWRITEBYTECODE=1 PYTHONUNBUFFERED=1
+WORKDIR /app
+COPY serve.py catalogue.json /app/
+COPY projects/ /projects/
+USER 65534:65534
+EXPOSE 8080
+ENTRYPOINT ["python", "/app/serve.py", "--catalogue", "/app/catalogue.json", "--projects-root", "/projects", "--host", "0.0.0.0", "--port", "8080"]
+

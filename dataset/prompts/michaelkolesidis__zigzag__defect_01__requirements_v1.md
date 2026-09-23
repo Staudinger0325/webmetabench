@@ -1,0 +1,44 @@
+You are testing a deployed frontend implementation against the acceptance checklist below.
+
+Use the browser like a black-box QA tester. Explore the relevant pages, interact with the UI, and use screenshots or video recordings when a requirement involves motion, timing, visual effects, input response, or multi-step state changes.
+
+Check the checklist items one by one and determine how well the implementation satisfies them. Report your findings, including any unmet checklist items, the observed behavior, and concise evidence from your browser interactions.
+
+Acceptance checklist:
+## Public acceptance checklist
+
+### R1 - Loading and Ready Screen
+When the user opens the standard address and waits for the page to initialize, the full-screen 3D canvas first presents the ball, starting platform, and forward zigzag path. The overlaid interface then slides in ZIGZAG, the flashing CLICK TO PLAY prompt, BEST SCORE, GAMES PLAYED, the sound and theme buttons, and the footer copyright and Source link. In the completed ready state, the ball remains still and the camera stays aligned with the start. Activating sound, theme, or a footer link performs only that action and must not start a run; refreshing restores persisted settings and statistics while rebuilding temporary game objects.
+
+### R2 - Starting and Multi-Input Turning
+When the user clicks or taps a non-setting area in the ready state, or uses a supported desktop start key, the entrance interface leaves, the play count updates, and the ball begins moving continuously from the start in its first direction. During play, each pointer input, Enter, Arrow Up, or Arrow Down advances the ball exactly once between the two perpendicular directions. The turn continues from the ball’s current spatial position and produces one turn response. Rapid accepted inputs are processed in order, while M, P, Space, and interface buttons are not interpreted as turns and do not repeat run initialization.
+
+### R3 - Ball Speed and Camera Following
+After the user starts a run and continues along the path, the ball moves continuously according to the current direction and frame time, gradually accelerating from its starting speed until it reaches the product limit. A turn changes only the subsequent movement axis; it does not directly alter speed, ball height, or camera zoom. The tilted overhead camera follows the combined horizontal movement of the ball so the current tile, nearby corner, and forward path preserve one readable spatial relationship. Normal turns do not cause camera jumps, and once the ball begins falling, the camera retains the final route reference until the end interface takes control.
+
+### R4 - Endless Zigzag Path Generation
+When the user enters active play and guides the ball near the current end of the route, the scene extends the last tile with the next segment along the alternating perpendicular axes and places purple gems on eligible tiles according to the current game data. Every generated tile remains connected to the existing endpoint and keeps a traceable corner ahead of the player. Generation runs alongside ball acceleration and camera movement without creating isolated gaps, positions that overlap the established route, or a replacement beneath the ball. A new run builds an independent route and gem set, without inheriting the previous endpoint or random results.
+
+### R5 - Path Support and Falling End State
+While the user travels along the route, the ball center, radius, tile boundaries, and tile height jointly determine the current support state. As long as the ball remains within the valid area of any active tile, the run continues accepting turns and advancing the scene. Once the ball crosses an edge and no active tile supports it, gravity immediately produces a continuous fall, normal gameplay scoring stops, the falling response plays, and GAME OVER, SCORE, BEST SCORE, and RETRY appear. Ordinary clicks and turn keys no longer steer the ball in this state; only an explicit retry action returns the game to ready.
+
+### R6 - Gem Collection and Local Feedback
+When the still-supported ball enters the contact range of a purple gem, that gem is collected only once and removed from its owning tile, the score increases in sync, the collection sound restarts, and a camera-facing “+1” label appears at the gem’s former spatial position. The label rises continuously, fades, and is completely removed at the end of its lifetime. An uncollected gem falls with its owning tile and is removed after leaving the scene, so it cannot award points outside the visible play space. Multiple gems and temporary labels maintain independent lifecycles without replacing the current-run total in the upper-right interface.
+
+### R7 - Departed-Tile Lifecycle
+When the user keeps the ball on an active tile, moves slowly through a corner, and finally proceeds to a later tile, the occupied tile updates its last-contact time throughout every frame of contact. The configured departure delay begins only after the ball’s final exit, after which that non-current tile changes to falling and descends continuously. Time spent standing on or slowly crossing the tile must not consume the post-departure delay, so the tile still remains visibly present for the expected interval after the ball leaves. The tile currently supporting the ball stays active, and a falling tile is removed together with its owned gem and lifecycle references after crossing the cleanup boundary.
+
+### R8 - Scoring and Speed Progression
+As the user performs accepted turns and collects gems during one run, the current score accumulates once per game event, while the upper-right value, the gem “+1” feedback, and the end panel all refer to the same result. At the same time, running speed increases over time so later corners require a tighter input rhythm. No event may settle twice, and the value stops progressing after the end state begins. Returning to ready through retry resets current score and speed, while only a score higher than the stored record updates BEST SCORE; theme, sound, performance display, and viewport changes do not rewrite the active run’s score.
+
+### R9 - End Panel and Retry Reset
+When the user falls and waits for the end content to enter, the GAME OVER title, current SCORE, stored BEST SCORE, and RETRY settle from the side in their defined staggered order, while the 3D canvas preserves the final spatial relationship among the ball and route as a background. Activating RETRY or the desktop reset key removes the end layer and restores the ready interface. Ball position, direction, speed, camera, current score, route, gems, falling tiles, and rising labels all return to a new-run starting state. Retry does not begin movement by itself, and the best score and accumulated play count remain stored.
+
+### R10 - Sound, Theme, and Local State
+When the user toggles the sound button in ready, playing, or ended states, the button synchronizes between enabled and muted icons, and subsequent turn, gem, fall, and interface events either play or suppress their respective short sounds. Re-enabling sound does not replay events that occurred while muted. When the user toggles the light or dark theme, the canvas background, interface text, route-related surfaces, and button accents change together, while ball position, direction, speed, route, score, and interface state remain in the same process. Sound, theme, BEST SCORE, and GAMES PLAYED are restored from local state after a refresh.
+
+### R11 - Desktop, Mobile, and Viewport Changes
+Whether the user plays with pointer or keyboard on desktop, taps on mobile, or changes the browser width or height during the current state, the 3D canvas continues covering the visible area and the camera uses a device-appropriate zoom. The ball, route, score, sound button, and theme button remain observable and operable. Resizing updates only canvas and interface layout; it does not regenerate the current route, transport the ball, clear the score, or switch game state. Touch targets remain usable on mobile, and desktop shortcuts and touch gestures must not create duplicate input for a single physical action.
+
+### R12 - Debugging, Performance, and Page Lifecycle
+When the user presses P on desktop or opens the page with its debug address fragment, performance information appears according to the selected mode and diagnostic play rules remain distinct from the standard game. Returning to the standard address restores the complete path-support and falling flow, and the diagnostic layer does not cover the title, score, start prompt, or retry action. After a refresh, reopening an installed page, or entering again with cached resources, a new ready lifecycle creates the ball, route, and temporary objects while restoring saved sound, theme, and statistics. Tiles, gems, and “+1” labels from the prior run do not persist across page lifecycles.

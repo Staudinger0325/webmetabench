@@ -1,0 +1,350 @@
+{
+  "projects": [
+    {
+      "project_id": "ANURAG-SINGH17__MAGMA",
+      "upstream_repository_from_identifier": "https://github.com/ANURAG-SINGH17/MAGMA",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "AQADIL__AqadilOS",
+      "upstream_repository_from_identifier": "https://github.com/AQADIL/AqadilOS",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "ArmanKhanTech__Portfolio",
+      "upstream_repository_from_identifier": "https://github.com/ArmanKhanTech/Portfolio",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "BrunoSimon__folio-2019",
+      "upstream_repository_from_identifier": "https://github.com/BrunoSimon/folio-2019",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE.md"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "CodebyCyrus__Apple-Landing",
+      "upstream_repository_from_identifier": "https://github.com/CodebyCyrus/Apple-Landing",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "Juanescacha__Portfolio",
+      "upstream_repository_from_identifier": "https://github.com/Juanescacha/Portfolio",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "Nayan286__Gsap",
+      "upstream_repository_from_identifier": "https://github.com/Nayan286/Gsap",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "Om101101__Obys-Agency-Clone",
+      "upstream_repository_from_identifier": "https://github.com/Om101101/Obys-Agency-Clone",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "OwaisZakir__cyber-learning-platform",
+      "upstream_repository_from_identifier": "https://github.com/OwaisZakir/cyber-learning-platform",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "RajeebLochan__Portfolio-Website",
+      "upstream_repository_from_identifier": "https://github.com/RajeebLochan/Portfolio-Website",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "upstream_repository_from_identifier": "https://github.com/SahilK-027/Elemental-Serenity",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "Sr-Yan-Lima__champions4good-demo",
+      "upstream_repository_from_identifier": "https://github.com/Sr-Yan-Lima/champions4good-demo",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "SreeXD__Srees-Room",
+      "upstream_repository_from_identifier": "https://github.com/SreeXD/Srees-Room",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "upstream_repository_from_identifier": "https://github.com/Sunil56224972/The-Drawn-Dimenstion",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "Thakuma07__ABCS-SVGAnimation",
+      "upstream_repository_from_identifier": "https://github.com/Thakuma07/ABCS-SVGAnimation",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "VinayMatta63__threejs-portfolio",
+      "upstream_repository_from_identifier": "https://github.com/VinayMatta63/threejs-portfolio",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "adityayaduvanshi__awwwards-website-1",
+      "upstream_repository_from_identifier": "https://github.com/adityayaduvanshi/awwwards-website-1",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "afilahkle__3D-Clothing-Configurator",
+      "upstream_repository_from_identifier": "https://github.com/afilahkle/3D-Clothing-Configurator",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "aframevr__aframe",
+      "upstream_repository_from_identifier": "https://github.com/aframevr/aframe",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "arnobt78__Brainwave-Landing-Page--React-Frontend",
+      "upstream_repository_from_identifier": "https://github.com/arnobt78/Brainwave-Landing-Page--React-Frontend",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend",
+      "upstream_repository_from_identifier": "https://github.com/arnobt78/MacBook-Showcase-Landing-Page--React-Frontend",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "basedhound__3d-room_portfolio_react",
+      "upstream_repository_from_identifier": "https://github.com/basedhound/3d-room_portfolio_react",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "cruip__tailwind-dashboard-template",
+      "upstream_repository_from_identifier": "https://github.com/cruip/tailwind-dashboard-template",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "fekikarim__farmy-landing",
+      "upstream_repository_from_identifier": "https://github.com/fekikarim/farmy-landing",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "greengem__threejs-solar-system",
+      "upstream_repository_from_identifier": "https://github.com/greengem/threejs-solar-system",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "grep-many__wemble-guys",
+      "upstream_repository_from_identifier": "https://github.com/grep-many/wemble-guys",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "iwopant0825__antMysite",
+      "upstream_repository_from_identifier": "https://github.com/iwopant0825/antMysite",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "kuasar-mknd__visualdon-projet",
+      "upstream_repository_from_identifier": "https://github.com/kuasar-mknd/visualdon-projet",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "lordbasilaiassistant-sudo__fishing-freel",
+      "upstream_repository_from_identifier": "https://github.com/lordbasilaiassistant-sudo/fishing-freel",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "martinlaxenaire__portfolio-2025",
+      "upstream_repository_from_identifier": "https://github.com/martinlaxenaire/portfolio-2025",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE.md"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "martinlaxenaire__portfolio-2025__more_defects_20260619",
+      "upstream_repository_from_identifier": "https://github.com/martinlaxenaire/portfolio-2025",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE.md"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "mehrabgholamsamani__CryptoDash",
+      "upstream_repository_from_identifier": "https://github.com/mehrabgholamsamani/CryptoDash",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "michaelkolesidis__zigzag",
+      "upstream_repository_from_identifier": "https://github.com/michaelkolesidis/zigzag",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "mrkara__casper-era-tracker",
+      "upstream_repository_from_identifier": "https://github.com/mrkara/casper-era-tracker",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "nirdhum__honest-landing",
+      "upstream_repository_from_identifier": "https://github.com/nirdhum/honest-landing",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "upstream_repository_from_identifier": "https://github.com/pixijs/open-games",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "playcanvas__engine",
+      "upstream_repository_from_identifier": "https://github.com/playcanvas/engine",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "refinedev__refine",
+      "upstream_repository_from_identifier": "https://github.com/refinedev/refine",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "saidee-hasan__modern-business-landing-page",
+      "upstream_repository_from_identifier": "https://github.com/saidee-hasan/modern-business-landing-page",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "sayjeyhi__my-3d-portfolio",
+      "upstream_repository_from_identifier": "https://github.com/sayjeyhi/my-3d-portfolio",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "sleepy-zone__fabritor-web",
+      "upstream_repository_from_identifier": "https://github.com/sleepy-zone/fabritor-web",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "theshanergy__4x4builder",
+      "upstream_repository_from_identifier": "https://github.com/theshanergy/4x4builder",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    },
+    {
+      "project_id": "toeverything__AFFiNE",
+      "upstream_repository_from_identifier": "https://github.com/toeverything/AFFiNE",
+      "upstream_url_independently_verified": false,
+      "bundled_license_files": [
+        "licenses/01_LICENSE",
+        "licenses/02_LICENSE-MIT"
+      ],
+      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+    }
+  ]
+}

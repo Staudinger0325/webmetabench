@@ -1,0 +1,34 @@
+FROM node:22-bookworm
+ARG CLAUDE_CODE_VERSION=latest
+ARG CODEX_VERSION=latest
+ARG LITELLM_VERSION=latest
+ARG PLAYWRIGHT_VERSION=latest
+ARG MCP_SDK_VERSION=latest
+ENV DEBIAN_FRONTEND=noninteractive
+RUN apt-get update && apt-get install -y --no-install-recommends \
+    chromium ffmpeg python3 python3-venv ca-certificates \
+    fonts-liberation fonts-noto-cjk tini \
+    && rm -rf /var/lib/apt/lists/*
+RUN npm install -g \
+    "@anthropic-ai/claude-code@${CLAUDE_CODE_VERSION}" \
+    "@openai/codex@${CODEX_VERSION}" \
+    "playwright-core@${PLAYWRIGHT_VERSION}" \
+    "@modelcontextprotocol/sdk@${MCP_SDK_VERSION}" zod@latest
+RUN python3 -m venv /opt/python \
+    && /opt/python/bin/pip install --no-cache-dir --upgrade pip \
+    && if [ "$LITELLM_VERSION" = latest ]; then \
+         /opt/python/bin/pip install --no-cache-dir litellm openai tqdm; \
+       else /opt/python/bin/pip install --no-cache-dir "litellm==$LITELLM_VERSION" openai tqdm; fi
+ENV PATH="/opt/python/bin:${PATH}" NODE_PATH=/usr/local/lib/node_modules CHROMIUM_PATH=/usr/bin/chromium
+RUN mkdir /opt/runtime-info \
+    && claude --version > /opt/runtime-info/claude.txt \
+    && codex --version > /opt/runtime-info/codex.txt \
+    && chromium --version > /opt/runtime-info/chromium.txt \
+    && ffmpeg -version > /opt/runtime-info/ffmpeg.txt \
+    && pip freeze > /opt/runtime-info/python.txt \
+    && npm list -g --depth=0 > /opt/runtime-info/npm.txt
+USER node
+WORKDIR /home/node
+ENTRYPOINT ["/usr/bin/tini", "--"]
+CMD ["bash"]
+

@@ -1,0 +1,16 @@
+.publish/
+.build/
+.runtime/
+.cache/
+projects/
+downloads/
+outputs/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
+.DS_Store
+node_modules/
+.venv/
+
