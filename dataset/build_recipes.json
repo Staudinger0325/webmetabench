@@ -1,0 +1,6228 @@
+{
+  "schema_version": 1,
+  "variants": {
+    "ANURAG-SINGH17__MAGMA/gold_001": {
+      "project_id": "ANURAG-SINGH17__MAGMA",
+      "install": [],
+      "build": [],
+      "copy": [
+        {
+          "from": ".",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Static HTML/CSS/JavaScript sources; no compilation required."
+    },
+    "ANURAG-SINGH17__MAGMA/single_002": {
+      "project_id": "ANURAG-SINGH17__MAGMA",
+      "install": [],
+      "build": [],
+      "copy": [
+        {
+          "from": ".",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Static HTML/CSS/JavaScript sources; no compilation required."
+    },
+    "AQADIL__AqadilOS/gold_001": {
+      "project_id": "AQADIL__AqadilOS",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "AQADIL__AqadilOS/single_002": {
+      "project_id": "AQADIL__AqadilOS",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "AQADIL__AqadilOS/single_003": {
+      "project_id": "AQADIL__AqadilOS",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "AQADIL__AqadilOS/single_004": {
+      "project_id": "AQADIL__AqadilOS",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "AQADIL__AqadilOS/single_005": {
+      "project_id": "AQADIL__AqadilOS",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "AQADIL__AqadilOS/multi_006": {
+      "project_id": "AQADIL__AqadilOS",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "ArmanKhanTech__Portfolio/gold_001": {
+      "project_id": "ArmanKhanTech__Portfolio",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "ArmanKhanTech__Portfolio/single_002": {
+      "project_id": "ArmanKhanTech__Portfolio",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "ArmanKhanTech__Portfolio/single_003": {
+      "project_id": "ArmanKhanTech__Portfolio",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "ArmanKhanTech__Portfolio/single_004": {
+      "project_id": "ArmanKhanTech__Portfolio",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "ArmanKhanTech__Portfolio/multi_005": {
+      "project_id": "ArmanKhanTech__Portfolio",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "BrunoSimon__folio-2019/gold_001": {
+      "project_id": "BrunoSimon__folio-2019",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "BrunoSimon__folio-2019/single_002": {
+      "project_id": "BrunoSimon__folio-2019",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "BrunoSimon__folio-2019/single_003": {
+      "project_id": "BrunoSimon__folio-2019",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "CodebyCyrus__Apple-Landing/gold_001": {
+      "project_id": "CodebyCyrus__Apple-Landing",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "CodebyCyrus__Apple-Landing/single_002": {
+      "project_id": "CodebyCyrus__Apple-Landing",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "Juanescacha__Portfolio/gold_001": {
+      "project_id": "Juanescacha__Portfolio",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "Juanescacha__Portfolio/single_002": {
+      "project_id": "Juanescacha__Portfolio",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "Nayan286__Gsap/gold_001": {
+      "project_id": "Nayan286__Gsap",
+      "install": [],
+      "build": [],
+      "copy": [
+        {
+          "from": ".",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Static HTML/CSS/JavaScript sources; no compilation required."
+    },
+    "Nayan286__Gsap/single_002": {
+      "project_id": "Nayan286__Gsap",
+      "install": [],
+      "build": [],
+      "copy": [
+        {
+          "from": ".",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Static HTML/CSS/JavaScript sources; no compilation required."
+    },
+    "Om101101__Obys-Agency-Clone/gold_001": {
+      "project_id": "Om101101__Obys-Agency-Clone",
+      "install": [],
+      "build": [],
+      "copy": [
+        {
+          "from": ".",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Static HTML/CSS/JavaScript sources; no compilation required."
+    },
+    "Om101101__Obys-Agency-Clone/single_002": {
+      "project_id": "Om101101__Obys-Agency-Clone",
+      "install": [],
+      "build": [],
+      "copy": [
+        {
+          "from": ".",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Static HTML/CSS/JavaScript sources; no compilation required."
+    },
+    "Om101101__Obys-Agency-Clone/single_003": {
+      "project_id": "Om101101__Obys-Agency-Clone",
+      "install": [],
+      "build": [],
+      "copy": [
+        {
+          "from": ".",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Static HTML/CSS/JavaScript sources; no compilation required."
+    },
+    "Om101101__Obys-Agency-Clone/single_004": {
+      "project_id": "Om101101__Obys-Agency-Clone",
+      "install": [],
+      "build": [],
+      "copy": [
+        {
+          "from": ".",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Static HTML/CSS/JavaScript sources; no compilation required."
+    },
+    "Om101101__Obys-Agency-Clone/multi_005": {
+      "project_id": "Om101101__Obys-Agency-Clone",
+      "install": [],
+      "build": [],
+      "copy": [
+        {
+          "from": ".",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Static HTML/CSS/JavaScript sources; no compilation required."
+    },
+    "OwaisZakir__cyber-learning-platform/gold_001": {
+      "project_id": "OwaisZakir__cyber-learning-platform",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "OwaisZakir__cyber-learning-platform/single_002": {
+      "project_id": "OwaisZakir__cyber-learning-platform",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "RajeebLochan__Portfolio-Website/gold_001": {
+      "project_id": "RajeebLochan__Portfolio-Website",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "RajeebLochan__Portfolio-Website/single_002": {
+      "project_id": "RajeebLochan__Portfolio-Website",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "RajeebLochan__Portfolio-Website/single_003": {
+      "project_id": "RajeebLochan__Portfolio-Website",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "RajeebLochan__Portfolio-Website/single_004": {
+      "project_id": "RajeebLochan__Portfolio-Website",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "RajeebLochan__Portfolio-Website/multi_005": {
+      "project_id": "RajeebLochan__Portfolio-Website",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "SahilK-027__Elemental-Serenity/gold_001": {
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "SahilK-027__Elemental-Serenity/single_002": {
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "SahilK-027__Elemental-Serenity/single_003": {
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "SahilK-027__Elemental-Serenity/single_004": {
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "SahilK-027__Elemental-Serenity/single_005": {
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "SahilK-027__Elemental-Serenity/single_006": {
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "SahilK-027__Elemental-Serenity/single_007": {
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "SahilK-027__Elemental-Serenity/single_008": {
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "SahilK-027__Elemental-Serenity/single_009": {
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "SahilK-027__Elemental-Serenity/single_010": {
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "SahilK-027__Elemental-Serenity/multi_011": {
+      "project_id": "SahilK-027__Elemental-Serenity",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "Sr-Yan-Lima__champions4good-demo/gold_001": {
+      "project_id": "Sr-Yan-Lima__champions4good-demo",
+      "install": [],
+      "build": [],
+      "copy": [
+        {
+          "from": ".",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Static HTML/CSS/JavaScript sources; no compilation required."
+    },
+    "Sr-Yan-Lima__champions4good-demo/single_002": {
+      "project_id": "Sr-Yan-Lima__champions4good-demo",
+      "install": [],
+      "build": [],
+      "copy": [
+        {
+          "from": ".",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Static HTML/CSS/JavaScript sources; no compilation required."
+    },
+    "Sr-Yan-Lima__champions4good-demo/single_003": {
+      "project_id": "Sr-Yan-Lima__champions4good-demo",
+      "install": [],
+      "build": [],
+      "copy": [
+        {
+          "from": ".",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Static HTML/CSS/JavaScript sources; no compilation required."
+    },
+    "SreeXD__Srees-Room/gold_001": {
+      "project_id": "SreeXD__Srees-Room",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "SreeXD__Srees-Room/single_002": {
+      "project_id": "SreeXD__Srees-Room",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "SreeXD__Srees-Room/single_003": {
+      "project_id": "SreeXD__Srees-Room",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "SreeXD__Srees-Room/single_004": {
+      "project_id": "SreeXD__Srees-Room",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "Sunil56224972__The-Drawn-Dimenstion/gold_001": {
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "Sunil56224972__The-Drawn-Dimenstion/single_002": {
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "Sunil56224972__The-Drawn-Dimenstion/single_003": {
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "Sunil56224972__The-Drawn-Dimenstion/single_004": {
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "Sunil56224972__The-Drawn-Dimenstion/single_005": {
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "Sunil56224972__The-Drawn-Dimenstion/single_006": {
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "Sunil56224972__The-Drawn-Dimenstion/single_007": {
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "Sunil56224972__The-Drawn-Dimenstion/single_008": {
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "Sunil56224972__The-Drawn-Dimenstion/multi_009": {
+      "project_id": "Sunil56224972__The-Drawn-Dimenstion",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "Thakuma07__ABCS-SVGAnimation/gold_001": {
+      "project_id": "Thakuma07__ABCS-SVGAnimation",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "Thakuma07__ABCS-SVGAnimation/single_002": {
+      "project_id": "Thakuma07__ABCS-SVGAnimation",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "VinayMatta63__threejs-portfolio/gold_001": {
+      "project_id": "VinayMatta63__threejs-portfolio",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "build",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "VinayMatta63__threejs-portfolio/single_002": {
+      "project_id": "VinayMatta63__threejs-portfolio",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "build",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "VinayMatta63__threejs-portfolio/single_003": {
+      "project_id": "VinayMatta63__threejs-portfolio",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "build",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "adityayaduvanshi__awwwards-website-1/gold_001": {
+      "project_id": "adityayaduvanshi__awwwards-website-1",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "build",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "adityayaduvanshi__awwwards-website-1/single_002": {
+      "project_id": "adityayaduvanshi__awwwards-website-1",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "build",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "afilahkle__3D-Clothing-Configurator/gold_001": {
+      "project_id": "afilahkle__3D-Clothing-Configurator",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "afilahkle__3D-Clothing-Configurator/single_002": {
+      "project_id": "afilahkle__3D-Clothing-Configurator",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "aframevr__aframe/gold_001": {
+      "project_id": "aframevr__aframe",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "ci",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "dist"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "dist"
+        },
+        {
+          "from": "examples",
+          "to": "examples"
+        },
+        {
+          "from": "vendor",
+          "to": "vendor"
+        },
+        {
+          "from": "webmetabench-entry.html",
+          "to": "index.html"
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "aframevr__aframe/single_002": {
+      "project_id": "aframevr__aframe",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "ci",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "dist"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "dist"
+        },
+        {
+          "from": "examples",
+          "to": "examples"
+        },
+        {
+          "from": "vendor",
+          "to": "vendor"
+        },
+        {
+          "from": "webmetabench-entry.html",
+          "to": "index.html"
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "aframevr__aframe/gold_003": {
+      "project_id": "aframevr__aframe",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "ci",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "dist"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "dist"
+        },
+        {
+          "from": "examples",
+          "to": "examples"
+        },
+        {
+          "from": "vendor",
+          "to": "vendor"
+        },
+        {
+          "from": "webmetabench-entry.html",
+          "to": "index.html"
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "aframevr__aframe/single_004": {
+      "project_id": "aframevr__aframe",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "ci",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "dist"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "dist"
+        },
+        {
+          "from": "examples",
+          "to": "examples"
+        },
+        {
+          "from": "vendor",
+          "to": "vendor"
+        },
+        {
+          "from": "webmetabench-entry.html",
+          "to": "index.html"
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "aframevr__aframe/single_005": {
+      "project_id": "aframevr__aframe",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "ci",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "dist"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "dist"
+        },
+        {
+          "from": "examples",
+          "to": "examples"
+        },
+        {
+          "from": "vendor",
+          "to": "vendor"
+        },
+        {
+          "from": "webmetabench-entry.html",
+          "to": "index.html"
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "arnobt78__Brainwave-Landing-Page--React-Frontend/gold_001": {
+      "project_id": "arnobt78__Brainwave-Landing-Page--React-Frontend",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "arnobt78__Brainwave-Landing-Page--React-Frontend/single_002": {
+      "project_id": "arnobt78__Brainwave-Landing-Page--React-Frontend",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "arnobt78__Brainwave-Landing-Page--React-Frontend/single_003": {
+      "project_id": "arnobt78__Brainwave-Landing-Page--React-Frontend",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "arnobt78__Brainwave-Landing-Page--React-Frontend/single_004": {
+      "project_id": "arnobt78__Brainwave-Landing-Page--React-Frontend",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "arnobt78__Brainwave-Landing-Page--React-Frontend/multi_005": {
+      "project_id": "arnobt78__Brainwave-Landing-Page--React-Frontend",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend/gold_001": {
+      "project_id": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend/single_002": {
+      "project_id": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend/single_003": {
+      "project_id": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "basedhound__3d-room_portfolio_react/gold_001": {
+      "project_id": "basedhound__3d-room_portfolio_react",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "basedhound__3d-room_portfolio_react/single_002": {
+      "project_id": "basedhound__3d-room_portfolio_react",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "basedhound__3d-room_portfolio_react/single_003": {
+      "project_id": "basedhound__3d-room_portfolio_react",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "basedhound__3d-room_portfolio_react/single_004": {
+      "project_id": "basedhound__3d-room_portfolio_react",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "basedhound__3d-room_portfolio_react/single_005": {
+      "project_id": "basedhound__3d-room_portfolio_react",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "basedhound__3d-room_portfolio_react/single_006": {
+      "project_id": "basedhound__3d-room_portfolio_react",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "basedhound__3d-room_portfolio_react/multi_007": {
+      "project_id": "basedhound__3d-room_portfolio_react",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "cruip__tailwind-dashboard-template/gold_001": {
+      "project_id": "cruip__tailwind-dashboard-template",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "install",
+            "--no-frozen-lockfile"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "cruip__tailwind-dashboard-template/single_002": {
+      "project_id": "cruip__tailwind-dashboard-template",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "install",
+            "--no-frozen-lockfile"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "fekikarim__farmy-landing/gold_001": {
+      "project_id": "fekikarim__farmy-landing",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "fekikarim__farmy-landing/single_002": {
+      "project_id": "fekikarim__farmy-landing",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "fekikarim__farmy-landing/single_003": {
+      "project_id": "fekikarim__farmy-landing",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "greengem__threejs-solar-system/gold_001": {
+      "project_id": "greengem__threejs-solar-system",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "greengem__threejs-solar-system/single_002": {
+      "project_id": "greengem__threejs-solar-system",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "greengem__threejs-solar-system/single_003": {
+      "project_id": "greengem__threejs-solar-system",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "greengem__threejs-solar-system/single_004": {
+      "project_id": "greengem__threejs-solar-system",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "greengem__threejs-solar-system/single_005": {
+      "project_id": "greengem__threejs-solar-system",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "greengem__threejs-solar-system/multi_006": {
+      "project_id": "greengem__threejs-solar-system",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "grep-many__wemble-guys/gold_001": {
+      "project_id": "grep-many__wemble-guys",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "grep-many__wemble-guys/single_002": {
+      "project_id": "grep-many__wemble-guys",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "grep-many__wemble-guys/single_003": {
+      "project_id": "grep-many__wemble-guys",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "grep-many__wemble-guys/single_004": {
+      "project_id": "grep-many__wemble-guys",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "grep-many__wemble-guys/single_005": {
+      "project_id": "grep-many__wemble-guys",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "grep-many__wemble-guys/gold_006": {
+      "project_id": "grep-many__wemble-guys",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "grep-many__wemble-guys/single_007": {
+      "project_id": "grep-many__wemble-guys",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "grep-many__wemble-guys/multi_008": {
+      "project_id": "grep-many__wemble-guys",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "iwopant0825__antMysite/gold_001": {
+      "project_id": "iwopant0825__antMysite",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "iwopant0825__antMysite/single_002": {
+      "project_id": "iwopant0825__antMysite",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "iwopant0825__antMysite/single_003": {
+      "project_id": "iwopant0825__antMysite",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "iwopant0825__antMysite/single_004": {
+      "project_id": "iwopant0825__antMysite",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "iwopant0825__antMysite/multi_005": {
+      "project_id": "iwopant0825__antMysite",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "kuasar-mknd__visualdon-projet/gold_001": {
+      "project_id": "kuasar-mknd__visualdon-projet",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "install",
+            "--no-frozen-lockfile"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "kuasar-mknd__visualdon-projet/single_002": {
+      "project_id": "kuasar-mknd__visualdon-projet",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "install",
+            "--no-frozen-lockfile"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "kuasar-mknd__visualdon-projet/single_003": {
+      "project_id": "kuasar-mknd__visualdon-projet",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "install",
+            "--no-frozen-lockfile"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "kuasar-mknd__visualdon-projet/single_004": {
+      "project_id": "kuasar-mknd__visualdon-projet",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "install",
+            "--no-frozen-lockfile"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "kuasar-mknd__visualdon-projet/multi_005": {
+      "project_id": "kuasar-mknd__visualdon-projet",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "install",
+            "--no-frozen-lockfile"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "lordbasilaiassistant-sudo__fishing-freel/gold_001": {
+      "project_id": "lordbasilaiassistant-sudo__fishing-freel",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "lordbasilaiassistant-sudo__fishing-freel/single_002": {
+      "project_id": "lordbasilaiassistant-sudo__fishing-freel",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "lordbasilaiassistant-sudo__fishing-freel/single_003": {
+      "project_id": "lordbasilaiassistant-sudo__fishing-freel",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "martinlaxenaire__portfolio-2025/gold_001": {
+      "project_id": "martinlaxenaire__portfolio-2025",
+      "install": [
+        {
+          "cwd": "front-end",
+          "command": [
+            "npx",
+            "-y",
+            "yarn@1.22.22",
+            "install",
+            "--frozen-lockfile"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": "front-end",
+          "command": [
+            "npx",
+            "-y",
+            "yarn@1.22.22",
+            "generate"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "front-end/.output/public",
+          "to": "."
+        }
+      ],
+      "env": {
+        "NUXT_PUBLIC_SITE_URL": "https://martin-laxenaire.fr"
+      },
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "martinlaxenaire__portfolio-2025/single_002": {
+      "project_id": "martinlaxenaire__portfolio-2025",
+      "install": [
+        {
+          "cwd": "front-end",
+          "command": [
+            "npx",
+            "-y",
+            "yarn@1.22.22",
+            "install",
+            "--frozen-lockfile"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": "front-end",
+          "command": [
+            "npx",
+            "-y",
+            "yarn@1.22.22",
+            "generate"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "front-end/.output/public",
+          "to": "."
+        }
+      ],
+      "env": {
+        "NUXT_PUBLIC_SITE_URL": "https://martin-laxenaire.fr"
+      },
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "martinlaxenaire__portfolio-2025/single_003": {
+      "project_id": "martinlaxenaire__portfolio-2025",
+      "install": [
+        {
+          "cwd": "front-end",
+          "command": [
+            "npx",
+            "-y",
+            "yarn@1.22.22",
+            "install",
+            "--frozen-lockfile"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": "front-end",
+          "command": [
+            "npx",
+            "-y",
+            "yarn@1.22.22",
+            "generate"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "front-end/.output/public",
+          "to": "."
+        }
+      ],
+      "env": {
+        "NUXT_PUBLIC_SITE_URL": "https://martin-laxenaire.fr"
+      },
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "martinlaxenaire__portfolio-2025__more_defects_20260619/gold_001": {
+      "project_id": "martinlaxenaire__portfolio-2025__more_defects_20260619",
+      "install": [
+        {
+          "cwd": "front-end",
+          "command": [
+            "npx",
+            "-y",
+            "yarn@1.22.22",
+            "install",
+            "--frozen-lockfile"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": "front-end",
+          "command": [
+            "npx",
+            "-y",
+            "yarn@1.22.22",
+            "generate"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "front-end/.output/public",
+          "to": "."
+        }
+      ],
+      "env": {
+        "NUXT_PUBLIC_SITE_URL": "https://martin-laxenaire.fr"
+      },
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "martinlaxenaire__portfolio-2025__more_defects_20260619/single_002": {
+      "project_id": "martinlaxenaire__portfolio-2025__more_defects_20260619",
+      "install": [
+        {
+          "cwd": "front-end",
+          "command": [
+            "npx",
+            "-y",
+            "yarn@1.22.22",
+            "install",
+            "--frozen-lockfile"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": "front-end",
+          "command": [
+            "npx",
+            "-y",
+            "yarn@1.22.22",
+            "generate"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "front-end/.output/public",
+          "to": "."
+        }
+      ],
+      "env": {
+        "NUXT_PUBLIC_SITE_URL": "https://martin-laxenaire.fr"
+      },
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "martinlaxenaire__portfolio-2025__more_defects_20260619/single_003": {
+      "project_id": "martinlaxenaire__portfolio-2025__more_defects_20260619",
+      "install": [
+        {
+          "cwd": "front-end",
+          "command": [
+            "npx",
+            "-y",
+            "yarn@1.22.22",
+            "install",
+            "--frozen-lockfile"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": "front-end",
+          "command": [
+            "npx",
+            "-y",
+            "yarn@1.22.22",
+            "generate"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "front-end/.output/public",
+          "to": "."
+        }
+      ],
+      "env": {
+        "NUXT_PUBLIC_SITE_URL": "https://martin-laxenaire.fr"
+      },
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "mehrabgholamsamani__CryptoDash/gold_001": {
+      "project_id": "mehrabgholamsamani__CryptoDash",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "mehrabgholamsamani__CryptoDash/single_002": {
+      "project_id": "mehrabgholamsamani__CryptoDash",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "mehrabgholamsamani__CryptoDash/single_003": {
+      "project_id": "mehrabgholamsamani__CryptoDash",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "mehrabgholamsamani__CryptoDash/single_004": {
+      "project_id": "mehrabgholamsamani__CryptoDash",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "mehrabgholamsamani__CryptoDash/multi_005": {
+      "project_id": "mehrabgholamsamani__CryptoDash",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "michaelkolesidis__zigzag/gold_001": {
+      "project_id": "michaelkolesidis__zigzag",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "michaelkolesidis__zigzag/single_002": {
+      "project_id": "michaelkolesidis__zigzag",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "mrkara__casper-era-tracker/gold_001": {
+      "project_id": "mrkara__casper-era-tracker",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "install",
+            "--no-frozen-lockfile"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "mrkara__casper-era-tracker/single_002": {
+      "project_id": "mrkara__casper-era-tracker",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "install",
+            "--no-frozen-lockfile"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "pnpm@10.4.1",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "nirdhum__honest-landing/gold_001": {
+      "project_id": "nirdhum__honest-landing",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "nirdhum__honest-landing/single_002": {
+      "project_id": "nirdhum__honest-landing",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "nirdhum__honest-landing/single_003": {
+      "project_id": "nirdhum__honest-landing",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "nirdhum__honest-landing/gold_004": {
+      "project_id": "nirdhum__honest-landing",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "nirdhum__honest-landing/single_005": {
+      "project_id": "nirdhum__honest-landing",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "nirdhum__honest-landing/multi_006": {
+      "project_id": "nirdhum__honest-landing",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "pixijs__open-games__puzzling-potions/gold_001": {
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "pixijs__open-games__puzzling-potions/single_002": {
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "pixijs__open-games__puzzling-potions/single_003": {
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "pixijs__open-games__puzzling-potions/single_004": {
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "pixijs__open-games__puzzling-potions/single_005": {
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "pixijs__open-games__puzzling-potions/single_006": {
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "pixijs__open-games__puzzling-potions/single_007": {
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "pixijs__open-games__puzzling-potions/single_008": {
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "pixijs__open-games__puzzling-potions/single_009": {
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "pixijs__open-games__puzzling-potions/multi_010": {
+      "project_id": "pixijs__open-games__puzzling-potions",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--prefer-offline",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "playcanvas__engine/gold_001": {
+      "project_id": "playcanvas__engine",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "ci",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        },
+        {
+          "cwd": "examples",
+          "command": [
+            "npm",
+            "ci",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        },
+        {
+          "cwd": "examples",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "examples/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "playcanvas__engine/single_002": {
+      "project_id": "playcanvas__engine",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "ci",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        },
+        {
+          "cwd": "examples",
+          "command": [
+            "npm",
+            "ci",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        },
+        {
+          "cwd": "examples",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "examples/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "playcanvas__engine/single_003": {
+      "project_id": "playcanvas__engine",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "ci",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        },
+        {
+          "cwd": "examples",
+          "command": [
+            "npm",
+            "ci",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        },
+        {
+          "cwd": "examples",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "examples/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "playcanvas__engine/single_004": {
+      "project_id": "playcanvas__engine",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "ci",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        },
+        {
+          "cwd": "examples",
+          "command": [
+            "npm",
+            "ci",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        },
+        {
+          "cwd": "examples",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "examples/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "playcanvas__engine/multi_005": {
+      "project_id": "playcanvas__engine",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "ci",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        },
+        {
+          "cwd": "examples",
+          "command": [
+            "npm",
+            "ci",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        },
+        {
+          "cwd": "examples",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "examples/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "refinedev__refine/gold_001": {
+      "project_id": "refinedev__refine",
+      "install": [
+        {
+          "cwd": "examples/finefoods-material-ui",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--package-lock=false"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": "examples/finefoods-material-ui",
+          "command": [
+            "npx",
+            "refine",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "examples/finefoods-material-ui/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "refinedev__refine/single_002": {
+      "project_id": "refinedev__refine",
+      "install": [
+        {
+          "cwd": "examples/finefoods-material-ui",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--package-lock=false"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": "examples/finefoods-material-ui",
+          "command": [
+            "npx",
+            "refine",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "examples/finefoods-material-ui/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "saidee-hasan__modern-business-landing-page/gold_001": {
+      "project_id": "saidee-hasan__modern-business-landing-page",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "saidee-hasan__modern-business-landing-page/single_002": {
+      "project_id": "saidee-hasan__modern-business-landing-page",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "saidee-hasan__modern-business-landing-page/single_003": {
+      "project_id": "saidee-hasan__modern-business-landing-page",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "sayjeyhi__my-3d-portfolio/gold_001": {
+      "project_id": "sayjeyhi__my-3d-portfolio",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "sayjeyhi__my-3d-portfolio/single_002": {
+      "project_id": "sayjeyhi__my-3d-portfolio",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "sayjeyhi__my-3d-portfolio/single_003": {
+      "project_id": "sayjeyhi__my-3d-portfolio",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "sayjeyhi__my-3d-portfolio/single_004": {
+      "project_id": "sayjeyhi__my-3d-portfolio",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "sayjeyhi__my-3d-portfolio/multi_005": {
+      "project_id": "sayjeyhi__my-3d-portfolio",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "sleepy-zone__fabritor-web/gold_001": {
+      "project_id": "sleepy-zone__fabritor-web",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "build",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "sleepy-zone__fabritor-web/single_002": {
+      "project_id": "sleepy-zone__fabritor-web",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "build",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "sleepy-zone__fabritor-web/single_003": {
+      "project_id": "sleepy-zone__fabritor-web",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "build",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "sleepy-zone__fabritor-web/single_004": {
+      "project_id": "sleepy-zone__fabritor-web",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "build",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "sleepy-zone__fabritor-web/gold_005": {
+      "project_id": "sleepy-zone__fabritor-web",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "build",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "sleepy-zone__fabritor-web/single_006": {
+      "project_id": "sleepy-zone__fabritor-web",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "build",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "sleepy-zone__fabritor-web/multi_007": {
+      "project_id": "sleepy-zone__fabritor-web",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "build",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "theshanergy__4x4builder/gold_001": {
+      "project_id": "theshanergy__4x4builder",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "theshanergy__4x4builder/single_002": {
+      "project_id": "theshanergy__4x4builder",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "theshanergy__4x4builder/single_003": {
+      "project_id": "theshanergy__4x4builder",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "install",
+            "--legacy-peer-deps",
+            "--no-audit",
+            "--no-fund"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npm",
+            "run",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication."
+    },
+    "toeverything__AFFiNE/gold_001": {
+      "project_id": "toeverything__AFFiNE",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "install",
+            "--immutable"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "workspace",
+            "@blocksuite/playground",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "blocksuite/playground/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication.",
+      "node_requirement": ">=22.12.0 <23.0.0"
+    },
+    "toeverything__AFFiNE/single_002": {
+      "project_id": "toeverything__AFFiNE",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "install",
+            "--immutable"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "workspace",
+            "@blocksuite/playground",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "blocksuite/playground/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication.",
+      "node_requirement": ">=22.12.0 <23.0.0"
+    },
+    "toeverything__AFFiNE/single_003": {
+      "project_id": "toeverything__AFFiNE",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "install",
+            "--immutable"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "workspace",
+            "@blocksuite/playground",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "blocksuite/playground/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication.",
+      "node_requirement": ">=22.12.0 <23.0.0"
+    },
+    "toeverything__AFFiNE/single_004": {
+      "project_id": "toeverything__AFFiNE",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "install",
+            "--immutable"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "workspace",
+            "@blocksuite/playground",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "blocksuite/playground/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication.",
+      "node_requirement": ">=22.12.0 <23.0.0"
+    },
+    "toeverything__AFFiNE/single_005": {
+      "project_id": "toeverything__AFFiNE",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "install",
+            "--immutable"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "workspace",
+            "@blocksuite/playground",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "blocksuite/playground/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication.",
+      "node_requirement": ">=22.12.0 <23.0.0"
+    },
+    "toeverything__AFFiNE/single_006": {
+      "project_id": "toeverything__AFFiNE",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "install",
+            "--immutable"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "workspace",
+            "@blocksuite/playground",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "blocksuite/playground/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication.",
+      "node_requirement": ">=22.12.0 <23.0.0"
+    },
+    "toeverything__AFFiNE/gold_007": {
+      "project_id": "toeverything__AFFiNE",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "install",
+            "--immutable"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "workspace",
+            "@blocksuite/playground",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "blocksuite/playground/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication.",
+      "node_requirement": ">=22.12.0 <23.0.0"
+    },
+    "toeverything__AFFiNE/single_008": {
+      "project_id": "toeverything__AFFiNE",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "install",
+            "--immutable"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "workspace",
+            "@blocksuite/playground",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "blocksuite/playground/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication.",
+      "node_requirement": ">=22.12.0 <23.0.0"
+    },
+    "toeverything__AFFiNE/multi_009": {
+      "project_id": "toeverything__AFFiNE",
+      "install": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "install",
+            "--immutable"
+          ]
+        }
+      ],
+      "build": [
+        {
+          "cwd": ".",
+          "command": [
+            "npx",
+            "-y",
+            "-p",
+            "node@22",
+            "-p",
+            "@yarnpkg/cli-dist@4.13.0",
+            "yarn",
+            "workspace",
+            "@blocksuite/playground",
+            "build"
+          ]
+        }
+      ],
+      "copy": [
+        {
+          "from": "blocksuite/playground/dist",
+          "to": "."
+        }
+      ],
+      "env": {},
+      "basis": "Existing build records and source package scripts; not rebuilt during this publication.",
+      "node_requirement": ">=22.12.0 <23.0.0"
+    }
+  }
+}

@@ -4,28 +4,25 @@ WebMetaBench 是面向复杂交互式前端的黑盒测试评测数据集。模�
 
 ## 发布内容
 
-本次发布包含 **120 个单缺陷样本、19 个多缺陷样本，涉及 43 个原始前端项目**。样本集合以 `dataset/single_defect.json` 和 `dataset/multi_defect.json` 为准；一个前端项目可以对应多个样本。
+WebMetaBench 包含 **120 个单缺陷样本、19 个多缺陷样本**。我们在 `dataset/single_defect.json` 和 `dataset/multi_defect.json` 中披露了样本的相关信息。其中，`dataset/multi_defect.json` 提供了每个多缺陷样本由哪些单缺陷样本合并而来。
 
-- Git 仓库保存样本清单、英文评测 prompt/checklist、独立金标、部署脚本和 Docker 构建配方。
-- 编译好的网页资源按前端项目分别打包，上传到**本仓库的 GitHub Release**，不另建数据仓库，也不把大型二进制文件塞入 Git 历史。
-- 每个项目包包含清单引用的原版、单缺陷版以及适用的多缺陷版。同一项目内引用同一个静态目录的版本只打包一次；不同样本的原版/修改版对应关系保持原样。
-- 不上传实验使用的 Codex/Claude Code 本体、`agent_home`、Python/npm 环境、浏览器安装目录、调用轨迹或 API 密钥。
-- 提供的是已构建网页产物，不是完整的上游源码仓库；部署不需要重新运行各项目的 `npm install` 或前端编译。
+此外，`dataset/prompts` 提供每个样本的评测输入（包含完整 checklist），`dataset/annotations` 提供对应的英文金标答案。
 
-项目数据、金标和上游资源的许可说明见 [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md)。公开可访问不等于可任意再授权，请保留项目内的原始版权声明。
+我们同时提供构建好的网页产物，以及各样本对应的原版和修改版源码快照，便于使用者从头安装依赖、编译。源码包保留项目代码、构建配置、锁文件及素材，不包含 Git 历史、已安装的依赖、本机缓存或私密环境变量。项目自身的中文内容保留；数据集新增的标注和元数据使用英文。
 
 ## 目录结构
 
 ```text
 dataset/
-  manifest.json          # 项目包下载地址、分片大小和 SHA-256
   single_defect.json     # 单缺陷样本及网页版本映射
   multi_defect.json      # 多缺陷样本及网页版本映射
   prompts/               # 模型可见的英文 prompt，包含完整 checklist
   annotations/           # 金标；仅供评分端使用，不能提供给被测 Agent
-  provenance.json        # 项目来源信息
+  provenance.json        # 项目来源，以及静态资源包和源码包的下载地址
+  build_recipes.json     # 各源码版本的工作目录、安装命令、构建命令和产物目录
 scripts/
   download_projects.py
+  build_sources.py
   build_image.py
   serve.py
   install_runtime.sh
@@ -33,9 +30,10 @@ docker/
   Dockerfile.projects
   Dockerfile.runtime
 projects/                # 下载解压后产生，不提交到 Git
+sources/                 # 按需下载的原版和修改版源码，不提交到 Git
 ```
 
-## 下载网页资源
+## 快速开始
 
 需要 Python 3.10+、`curl`；构建镜像另需可用的 Docker。
 
@@ -51,17 +49,50 @@ python3 scripts/download_projects.py --all
 python3 scripts/download_projects.py --project martinlaxenaire__portfolio-2025
 ```
 
-下载脚本支持中断续传、SHA-256 校验和跳过已经安装的同版本项目。单个压缩包过大时会分片，脚本自动合并解压。下载缓存位于 `downloads/`，解压结果位于 `projects/`。
+下载脚本支持中断续传和跳过已经安装的同一发布版本，不进行内容哈希校验。单个压缩包过大时会分片，脚本自动合并解压。下载缓存位于 `downloads/`，静态产物解压到 `projects/`。
 
-## 默认方式：构建一整个大镜像
+### 从源码安装依赖并重新编译
 
-**我们提供将全部网页项目及其各版本构建成“一整个大镜像”的脚本。** 下载全部资源后执行：
+源码按项目独立打包，与静态产物分开下载：
+
+```bash
+# 下载全部原版、单缺陷版和多缺陷版源码
+python3 scripts/download_projects.py --all --kind sources
+
+# 或者只下载一个项目的源码
+python3 scripts/download_projects.py --project martinlaxenaire__portfolio-2025 --kind sources
+
+# 从源码构建指定样本的修改版，并写入对应的 projects/ 目录
+python3 scripts/build_sources.py \
+  --sample martinlaxenaire__portfolio-2025__defect_01__requirements_v1 \
+  --variant defect
+```
+
+将 `--variant defect` 改为 `--variant gold` 可构建原版，改为 `--variant both` 可构建两版。多缺陷样本使用相同入口。批量构建示例：
+
+```bash
+python3 scripts/build_sources.py --all --variant both
+```
+
+构建命令逐项记录在 `dataset/build_recipes.json` 中，用户也可以进入对应的 `sources/` 目录手动执行。脚本会打印工作目录和命令，在 `outputs/build_logs/` 保存日志，并在成功后将产物复制到 `projects/`。覆盖已经存在的对应产物需要显式添加 `--replace`。
+
+请安装 Node.js 22（AFFiNE 要求 22.12 及以上、低于 23）和 npm；需要 pnpm/Yarn 的项目通过配方指定的 `npx` 命令启动。原生依赖可能还需要 Python、编译工具及项目自身声明的 Rust 工具链。静态 HTML 项目不需要 npm 编译，直接复制源码资源即可。
+
+Nuxt 等项目在生成过程中可能访问外部 CMS；源码中的环境变量模板需要按项目说明填写。源码快照和锁文件被保留，但远程数据及依赖服务可能变化，因此不承诺未来重新构建的字节结果与已发布产物完全一致。本次整理没有重新执行所有项目的编译。
+
+### 多缺陷样本的组成
+
+`dataset/multi_defect.json` 中每条样本的 `single_defect_components` 列出参与合并的单缺陷样本 ID、原始缺陷 ID、对应的 requirement ID 和类别；`source_single_sample_ids` 提供简洁的 ID 列表。合并关系来自最终多缺陷清单，而不是根据文件名猜测。具体金标仍位于 `dataset/annotations/multi_defect.json`。
+
+### 如何构建统一的大镜像环境
+
+我们论文的实验由于计算资源限制，采用统一构建大镜像的方式部署评测环境。下载全部资源后执行：
 
 ```bash
 python3 scripts/build_image.py --all --tag webmetabench-projects:local
 ```
 
-该镜像只包含网页资源和静态服务程序，**不包含 Codex、Claude Code 或模型 API 客户端环境**。更新 Harness 不需要重新打包这些网页资源。
+该镜像包含网页资源和静态服务程序，如果您需要更新 Harness，不需要重新打包这些资源。
 
 镜像包含全部项目，但每个服务实例只公开一个选定样本的一个版本。以下示例部署一个单缺陷样本：
 
@@ -74,7 +105,7 @@ docker run --rm --name webmetabench-page \
   --variant defect
 ```
 
-浏览地址为 `http://127.0.0.1:8080/`。将 `--variant defect` 改为 `--variant gold` 可部署该样本对应的原版。多缺陷样本同样通过 `--sample` 选择，不需要另一套镜像。
+浏览地址为 `http://127.0.0.1:8080/`。将 `--variant defect` 改为 `--variant gold` 可部署该样本对应的原版。多缺陷样本同样可以通过 `--sample` 选择。
 
 多个并发实例可以使用同一个镜像，各自选择样本并映射不同端口。Docker 共享只读镜像层，不需要为每个容器重新复制一份完整镜像。
 
@@ -175,11 +206,11 @@ docker build -f docker/Dockerfile.runtime \
 
 ## 数据更新与评分端数据
 
-后续发布可替换 manifest 指向的 Release。更新仓库后重新运行下载脚本，只获取发生变化的项目；镜像由用户选择何时重新构建。
+后续发布会更新 `dataset/provenance.json` 中的下载地址和发布版本。更新仓库后重新运行下载脚本，只获取尚未安装的发布版本；镜像由用户选择何时重新构建。
 
 英文 prompt 原样保留，不附加“必有一个缺陷”等额外提示。`dataset/annotations/single_defect.json` 保存单缺陷金标，`dataset/annotations/multi_defect.json` 保存多缺陷的独立金标点及其 requirement ID。一个 requirement 可能包含多个金标点，不能只按 R 编号去重计分。
 
-断点续跑应由使用者的评测 runner 根据样本 ID、项目包摘要、prompt 摘要、模型及 Harness 配置识别结果；不要仅凭同名结果文件就跳过更新后的样本。
+断点续跑应由使用者的评测 runner 根据样本 ID、数据发布版本、模型及 Harness 配置识别结果；不要仅凭同名结果文件就跳过更新后的样本。
 
 ## 发布范围
 

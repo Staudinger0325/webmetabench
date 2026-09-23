@@ -10,29 +10,25 @@
           "defect_id": "AQADIL__AqadilOS__defect_02",
           "requirement_id": "R8",
           "category": "spatial_motion",
-          "description_en": "In Neon Drift, the vehicle and obstacles still move according to forward travel, but the ground texture also moves toward the front of the vehicle, creating conflicting motion references between the road and obstacles.",
-          "description_zh": "Neon Drift 中车辆和障碍物仍按前进关系运动，但地面纹理也朝车辆前方移动，使道路与障碍物使用相互冲突的运动参照。"
+          "description_en": "In Neon Drift, the vehicle and obstacles still move according to forward travel, but the ground texture also moves toward the front of the vehicle, creating conflicting motion references between the road and obstacles."
         },
         {
           "defect_id": "AQADIL__AqadilOS__defect_03",
           "requirement_id": "R6",
           "category": "process_state",
-          "description_en": "If the Music Player window is minimized while playing and then restored, its play icon and progress display continue to indicate playback, but the actual audio has stopped and the waveform on the right is no longer moving.",
-          "description_zh": "Music Player 正在播放时将窗口最小化再恢复，播放图标和进度条继续显示播放状态，但真实音频已经停止，右侧声波也不再运动。"
+          "description_en": "If the Music Player window is minimized while playing and then restored, its play icon and progress display continue to indicate playback, but the actual audio has stopped and the waveform on the right is no longer moving."
         },
         {
           "defect_id": "AQADIL__AqadilOS__defect_04",
           "requirement_id": "R9",
           "category": "visibility_progression",
-          "description_en": "After Cancel is clicked in the Security Gateway, the confirmation card disappears immediately but the darkened backdrop remains for about one second. During that interval, visible desktop icons and the taskbar still cannot be clicked.",
-          "description_zh": "在 Security Gateway 中点击 Cancel 后，确认卡片立即消失，但暗化遮罩继续停留约一秒；这期间桌面图标和任务栏虽可见却仍无法点击。"
+          "description_en": "After Cancel is clicked in the Security Gateway, the confirmation card disappears immediately but the darkened backdrop remains for about one second. During that interval, visible desktop icons and the taskbar still cannot be clicked."
         },
         {
           "defect_id": "AQADIL__AqadilOS__defect_05",
           "requirement_id": "R11",
           "category": "rule_evolution",
-          "description_en": "Immediately pressing Space or clicking again after one Cyber Lock ring succeeds causes the next ring to lock even though it is not aligned with the target line, advancing through the normal successful snap sequence.",
-          "description_zh": "Cyber Lock 的一个锁环成功后立即再次按 Space 或点击，下一锁环即使尚未与目标线对齐也会自动锁定，并沿成功吸附过程进入下一阶段。"
+          "description_en": "Immediately pressing Space or clicking again after one Cyber Lock ring succeeds causes the next ring to lock even though it is not aligned with the target line, advancing through the normal successful snap sequence."
         }
       ]
     },
@@ -45,22 +41,19 @@
           "defect_id": "ArmanKhanTech__Portfolio__defect_01",
           "requirement_id": "R6",
           "category": "spatial_motion",
-          "description_en": "After the home-page 3D background is dragged and released, it remains permanently at the last angle instead of returning to its continuous slow automatic rotation.",
-          "description_zh": "拖动首页三维背景并松开后，场景永久停在最后角度，不再恢复持续的缓慢自主旋转。"
+          "description_en": "After the home-page 3D background is dragged and released, it remains permanently at the last angle instead of returning to its continuous slow automatic rotation."
         },
         {
           "defect_id": "ArmanKhanTech__Portfolio__defect_02",
           "requirement_id": "R11",
           "category": "input_response",
-          "description_en": "In the BIRDS background of Experience, a fast sweep, slow movement, or prolonged presence in the same area all disperse the flock to approximately the same fixed extent instead of accumulating a stronger effect over time.",
-          "description_zh": "在 Experience 的 BIRDS 背景中，无论指针快速掠过、缓慢移动还是在同一区域停留，鸟群最终都只被驱散到近似相同的固定程度，不再随作用时间累积扩大。"
+          "description_en": "In the BIRDS background of Experience, a fast sweep, slow movement, or prolonged presence in the same area all disperse the flock to approximately the same fixed extent instead of accumulating a stronger effect over time."
         },
         {
           "defect_id": "ArmanKhanTech__Portfolio__defect_03",
           "requirement_id": "R4",
           "category": "input_response",
-          "description_en": "When the pointer enters a Skills card or the Education timeline, the background point-and-line network stops responding to it and resumes only after the pointer leaves those content areas.",
-          "description_zh": "指针进入 Skills 卡片或 Education 时间线区域后，背景点线网络停止跟随指针；移到这些内容区域之外后才恢复响应。"
+          "description_en": "When the pointer enters a Skills card or the Education timeline, the background point-and-line network stops responding to it and resumes only after the pointer leaves those content areas."
         }
       ]
     },
@@ -73,15 +66,13 @@
           "defect_id": "Om101101__Obys-Agency-Clone__defect_02",
           "requirement_id": "R6",
           "category": "dynamic_visual_effects",
-          "description_en": "A short, fast sweep across an OUR PROJECTS card makes the local reveal suddenly balloon and tear across a large part of the card instead of remaining locally sized around the pointer. Slow pointer movement still produces a mostly normal image transition.",
-          "description_zh": "快速短促地扫过 OUR PROJECTS 卡片时，局部揭示会突然膨胀并撕裂到卡片的大面积区域，而不是始终围绕指针保持近似局部尺度；缓慢移动时图片切换仍基本正常。"
+          "description_en": "A short, fast sweep across an OUR PROJECTS card makes the local reveal suddenly balloon and tear across a large part of the card instead of remaining locally sized around the pointer. Slow pointer movement still produces a mostly normal image transition."
         },
         {
           "defect_id": "Om101101__Obys-Agency-Clone__defect_03",
           "requirement_id": "R7",
           "category": "visibility_progression",
-          "description_en": "When the pointer moves quickly and diagonally from one revealed OUR PROJECTS card into another, the departing card's local reveal position and area freeze for about 520 ms while the new card begins revealing immediately, leaving both cards active at once. Slow card-to-card movement or movement into blank space does not trigger it.",
-          "description_zh": "指针从一张已揭示的 OUR PROJECTS 卡片快速斜向移入另一张时，前一卡片的局部揭示位置和范围冻结约 520 毫秒，而新卡片立即开始揭示，短时间内两张卡片同时保持活动画面；慢速跨卡或移向空白处不触发。"
+          "description_en": "When the pointer moves quickly and diagonally from one revealed OUR PROJECTS card into another, the departing card's local reveal position and area freeze for about 520 ms while the new card begins revealing immediately, leaving both cards active at once. Slow card-to-card movement or movement into blank space does not trigger it."
         }
       ]
     },
@@ -94,15 +85,13 @@
           "defect_id": "RajeebLochan__Portfolio-Website__defect_02",
           "requirement_id": "R2",
           "category": "dynamic_visual_effects",
-          "description_en": "While the hero is scrolled, the sky, mountains, and planets remain visible, but every background layer stays at its initial position instead of moving vertically at different parallax rates.",
-          "description_zh": "滚动首屏时，天空、山体和行星仍然可见，但所有背景层都停留在初始位置，不再以不同速度产生纵向视差。"
+          "description_en": "While the hero is scrolled, the sky, mountains, and planets remain visible, but every background layer stays at its initial position instead of moving vertically at different parallax rates."
         },
         {
           "defect_id": "RajeebLochan__Portfolio-Website__defect_03",
           "requirement_id": "R3",
           "category": "visibility_progression",
-          "description_en": "When the Hero capability word changes from “AI-powered” to “data-driven,” the outgoing word's final “ed” remains visible at the upper right for about 0.5 seconds alongside the fully entered new word.",
-          "description_zh": "Hero 能力词从“AI-powered”切换到“data-driven”时，旧词末尾的“ed”在右上方残留约 0.5 秒，与已经进入完成的新词同时可见。"
+          "description_en": "When the Hero capability word changes from “AI-powered” to “data-driven,” the outgoing word's final “ed” remains visible at the upper right for about 0.5 seconds alongside the fully entered new word."
         }
       ]
     },
@@ -115,64 +104,55 @@
           "defect_id": "SahilK-027__Elemental-Serenity__defect_01",
           "requirement_id": "R10",
           "category": "process_state",
-          "description_en": "When switching between quality presets in a way that also changes antialiasing, the dropdown, saved value, and refresh notice all show the new preset, but grass density and campfire particles remain at the previous preset until the page is refreshed.",
-          "description_zh": "从一个画质预设切换到另一个会改变抗锯齿的预设时，下拉框、保存值和刷新提示都更新为新预设，但草地密度和营火粒子仍保持旧预设，直到刷新页面。"
+          "description_en": "When switching between quality presets in a way that also changes antialiasing, the dropdown, saved value, and refresh notice all show the new preset, but grass density and campfire particles remain at the previous preset until the page is refreshed."
         },
         {
           "defect_id": "SahilK-027__Elemental-Serenity__defect_02",
           "requirement_id": "R8",
           "category": "dynamic_visual_effects",
-          "description_en": "A lightning strike still shows its blue bolt, plays the nearby thunder sound, and shakes the camera, but the strike point no longer emits the orange-yellow ground sparks that should burst outward.",
-          "description_zh": "雷击仍会显示蓝色电弧、播放近雷声并震动相机，但雷击落点不再出现橙黄色向外爆开的地面火花。"
+          "description_en": "A lightning strike still shows its blue bolt, plays the nearby thunder sound, and shakes the camera, but the strike point no longer emits the orange-yellow ground sparks that should burst outward."
         },
         {
           "defect_id": "SahilK-027__Elemental-Serenity__defect_04",
           "requirement_id": "R3",
           "category": "spatial_motion",
-          "description_en": "After the camera view is adjusted and lightning is triggered manually, the shake begins from the current view but ends by jumping back to the page's initial camera angle rather than the angle immediately before the strike.",
-          "description_zh": "调整相机视角后手动引雷，抖动会从当前视角开始，但结束时相机跳回页面初次进入时的角度，而不是回到本次雷击前的角度。"
+          "description_en": "After the camera view is adjusted and lightning is triggered manually, the shake begins from the current view but ends by jumping back to the page's initial camera angle rather than the angle immediately before the strike."
         },
         {
           "defect_id": "SahilK-027__Elemental-Serenity__defect_05",
           "requirement_id": "R4",
           "category": "process_state",
-          "description_en": "After the scene has entered Rainy and is then switched to another season, the lightning button hides correctly, yet automatic blue lightning still appears after a random delay.",
-          "description_zh": "场景曾进入 Rainy 后再切换到其他季候，闪电按钮会正常隐藏，但等待一段随机时间后仍会自动出现蓝色闪电。"
+          "description_en": "After the scene has entered Rainy and is then switched to another season, the lightning button hides correctly, yet automatic blue lightning still appears after a random delay."
         },
         {
           "defect_id": "SahilK-027__Elemental-Serenity__defect_06",
           "requirement_id": "R7",
           "category": "visibility_progression",
-          "description_en": "Clicking the lightning button in Rainy still highlights the button, plays thunder, and summons lightning, but the electric ring at the button edge no longer expands outward and quickly fades.",
-          "description_zh": "在 Rainy 中点击闪电按钮仍会高亮按钮、播放雷声并召唤闪电，但按钮边缘不再出现向外扩张并快速淡出的电弧光圈。"
+          "description_en": "Clicking the lightning button in Rainy still highlights the button, plays thunder, and summons lightning, but the electric ring at the button edge no longer expands outward and quickly fades."
         },
         {
           "defect_id": "SahilK-027__Elemental-Serenity__defect_07",
           "requirement_id": "R10",
           "category": "rule_evolution",
-          "description_en": "In Custom settings, increasing Grass Density step by step toward 100,000 continues to change the displayed value and rebuild the grass, but visible blade density stops increasing above 50,000.",
-          "description_zh": "在 Custom 设置中把 Grass Density 从较低值逐步提高到 100,000，数值会继续增长且草地每次都会重新生成，但超过 50,000 后可见草叶密度不再增加。"
+          "description_en": "In Custom settings, increasing Grass Density step by step toward 100,000 continues to change the displayed value and rebuild the grass, but visible blade density stops increasing above 50,000."
         },
         {
           "defect_id": "SahilK-027__Elemental-Serenity__defect_08",
           "requirement_id": "R6",
           "category": "dynamic_visual_effects",
-          "description_en": "When the camera is dragged or zoomed in the Rainy scene, the white splash pattern slides relative to the pond shoreline like a screen-fixed noise layer instead of remaining attached to the water surface.",
-          "description_zh": "在 Rainy 场景拖动或缩放相机时，白色水花图案会相对池塘岸线滑动，像贴在屏幕上的噪声层，而不是稳定附着在水面位置。"
+          "description_en": "When the camera is dragged or zoomed in the Rainy scene, the white splash pattern slides relative to the pond shoreline like a screen-fixed noise layer instead of remaining attached to the water surface."
         },
         {
           "defect_id": "SahilK-027__Elemental-Serenity__defect_09",
           "requirement_id": "R5",
           "category": "spatial_motion",
-          "description_en": "Most fireflies share the same movement direction and preserve their relative positions, making the group slide like a rigid cloud of light instead of drifting along individual flow paths.",
-          "description_zh": "萤火虫大多共享同一运动方向并保持彼此相对位置，整个群体像刚性光云一起滑动，而不是各自沿不同流线漂移。"
+          "description_en": "Most fireflies share the same movement direction and preserve their relative positions, making the group slide like a rigid cloud of light instead of drifting along individual flow paths."
         },
         {
           "defect_id": "SahilK-027__Elemental-Serenity__defect_10",
           "requirement_id": "R9",
           "category": "dynamic_visual_effects",
-          "description_en": "Bushes and tree canopies still display correctly cut-out leaf silhouettes, but their shadows on the ground and near the tent appear as complete square or rectangular cards.",
-          "description_zh": "灌木和树冠本体仍按叶片轮廓正确镂空，但它们投到地面和帐篷附近的阴影变成完整的方形或矩形卡片。"
+          "description_en": "Bushes and tree canopies still display correctly cut-out leaf silhouettes, but their shadows on the ground and near the tent appear as complete square or rectangular cards."
         }
       ]
     },
@@ -185,50 +165,43 @@
           "defect_id": "Sunil56224972__The-Drawn-Dimenstion__defect_02",
           "requirement_id": "R3",
           "category": "input_response",
-          "description_en": "The entrance cat remains visible, but both pupils stay in their default forward-facing position regardless of horizontal or vertical pointer movement and no longer follow the pointer smoothly.",
-          "description_zh": "入口猫仍正常显示，但无论鼠标在视口内如何水平或垂直移动，两只眼珠都保持默认朝前，不再平滑跟随指针。"
+          "description_en": "The entrance cat remains visible, but both pupils stay in their default forward-facing position regardless of horizontal or vertical pointer movement and no longer follow the pointer smoothly."
         },
         {
           "defect_id": "Sunil56224972__The-Drawn-Dimenstion__defect_04",
           "requirement_id": "R7",
           "category": "spatial_motion",
-          "description_en": "Entering the same room door from different positions and viewing directions always returns the user to one fixed corridor position and orientation instead of restoring the actual view used for that entrance.",
-          "description_zh": "从同一房门可点击范围内的不同位置和朝向进入房间，返回走廊后总会落在该房门对应的固定位置和固定朝向，而不是恢复本次进入前的实际视角。"
+          "description_en": "Entering the same room door from different positions and viewing directions always returns the user to one fixed corridor position and orientation instead of restoring the actual view used for that entrance."
         },
         {
           "defect_id": "Sunil56224972__The-Drawn-Dimenstion__defect_05",
           "requirement_id": "R5",
           "category": "spatial_motion",
-          "description_en": "Hovering any corridor door still colors and partially pushes open the panel, but the handle remains completely stationary throughout the hover. Exit recovery and clicking to enter the room remain normal.",
-          "description_zh": "悬停走廊任意房门时，门板上色和半推开效果正常，但门把手在整个悬停过程中完全静止；移出后的收回和点击进入房间仍正常。"
+          "description_en": "Hovering any corridor door still colors and partially pushes open the panel, but the handle remains completely stationary throughout the hover. Exit recovery and clicking to enter the room remain normal."
         },
         {
           "defect_id": "Sunil56224972__The-Drawn-Dimenstion__defect_06",
           "requirement_id": "R10",
           "category": "process_state",
-          "description_en": "After any balloon in the SKILLS area of the ABOUT room is clicked, it bursts and shows the skill name normally, but never reappears after the text fades. Leaving ABOUT and returning still leaves that position empty.",
-          "description_zh": "在 ABOUT 房间的 SKILLS 区点击任意气球后，气球会正常破裂并显示技术名称，但文字淡出后该气球不再重新出现；离开 ABOUT 再返回仍保持空缺。"
+          "description_en": "After any balloon in the SKILLS area of the ABOUT room is clicked, it bursts and shows the skill name normally, but never reappears after the text fades. Leaving ABOUT and returning still leaves that position empty."
         },
         {
           "defect_id": "Sunil56224972__The-Drawn-Dimenstion__defect_07",
           "requirement_id": "R6",
           "category": "spatial_motion",
-          "description_en": "While moving through the corridor past side doors such as About, Gallery, Studio, or Contact, the camera remains straight ahead instead of gradually leaning toward the side of the nearby door.",
-          "description_zh": "在走廊移动并经过 About、Gallery、Studio 或 Contact 等侧门时，相机始终保持正向，不再随接近过程逐渐偏向门所在一侧。"
+          "description_en": "While moving through the corridor past side doors such as About, Gallery, Studio, or Contact, the camera remains straight ahead instead of gradually leaning toward the side of the nearby door."
         },
         {
           "defect_id": "Sunil56224972__The-Drawn-Dimenstion__defect_08",
           "requirement_id": "R5",
           "category": "visibility_progression",
-          "description_en": "After a door has colored and partially opened, briefly leaving and re-entering the same leaf within about 0.55 seconds keeps the panel colored and ajar, but the colored handle fades away by itself during the new hover. A full exit followed by re-entry restores it.",
-          "description_zh": "房门完成上色和微开后，短暂移出并在约 0.55 秒内重新悬停同一门扇，门板继续保持彩色和微开，但彩色把手会在当前悬停中单独退色消失；完整移出后再进入可恢复。"
+          "description_en": "After a door has colored and partially opened, briefly leaving and re-entering the same leaf within about 0.55 seconds keeps the panel colored and ajar, but the colored handle fades away by itself during the new hover. A full exit followed by re-entry restores it."
         },
         {
           "defect_id": "Sunil56224972__The-Drawn-Dimenstion__defect_11",
           "requirement_id": "R10",
           "category": "process_state",
-          "description_en": "When no Gallery card is selected, quickly clicking two different cards makes the second card the current detail while the first remains flipped or expanded, leaving two cards open at once. The state resets only after leaving and re-entering the Gallery.",
-          "description_zh": "Gallery 没有已选卡片时快速依次点击两张不同卡片，第二张成为当前详情，但第一张仍保持翻转或展开，形成两个同时打开的卡片；离开并重新进入 Gallery 后才恢复。"
+          "description_en": "When no Gallery card is selected, quickly clicking two different cards makes the second card the current detail while the first remains flipped or expanded, leaving two cards open at once. The state resets only after leaving and re-entering the Gallery."
         }
       ]
     },
@@ -241,15 +214,13 @@
           "defect_id": "arnobt78__Brainwave-Landing-Page--React-Frontend__defect_01",
           "requirement_id": "R3",
           "category": "input_response",
-          "description_en": "The colored decorative balls in the Hero remain visible but stay fixed when the pointer moves, so their parallax response is absent. The rings and other hero elements are unaffected.",
-          "description_zh": "Hero 背景彩色小球仍然可见，但鼠标移动时它们保持固定位置，不再产生视差位移；圆环和其他首屏对象不受影响。"
+          "description_en": "The colored decorative balls in the Hero remain visible but stay fixed when the pointer moves, so their parallax response is absent. The rings and other hero elements are unaffected."
         },
         {
           "defect_id": "arnobt78__Brainwave-Landing-Page--React-Frontend__defect_05",
           "requirement_id": "R4",
           "category": "visibility_progression",
-          "description_en": "When the pointer moves quickly from one Features card to an adjacent card, the previous card's low-opacity background image remains for about 480 ms while the new card's image is already appearing. The old image disappears only afterward.",
-          "description_zh": "指针快速从一张 Features 卡片移到相邻卡片时，前一卡片的低透明度背景图继续残留约 480 毫秒，新卡片的背景图已同时开始显现；随后旧图才消失。"
+          "description_en": "When the pointer moves quickly from one Features card to an adjacent card, the previous card's low-opacity background image remains for about 480 ms while the new card's image is already appearing. The old image disappears only afterward."
         }
       ]
     },
@@ -262,29 +233,25 @@
           "defect_id": "basedhound__3d-room_portfolio_react__defect_01",
           "requirement_id": "R2",
           "category": "visibility_progression",
-          "description_en": "In the Hero, Ideas, Concepts, Designs, and Code and their icons are replaced instantly at each transition point instead of sliding vertically into and out of the fixed-height window.",
-          "description_zh": "Hero 中 Ideas、Concepts、Designs、Code 及对应图标到达切换时点后直接瞬间替换，不再从固定高度窗口外纵向滑入、滑出。"
+          "description_en": "In the Hero, Ideas, Concepts, Designs, and Code and their icons are replaced instantly at each transition point instead of sliding vertically into and out of the fixed-height window."
         },
         {
           "defect_id": "basedhound__3d-room_portfolio_react__defect_02",
           "requirement_id": "R7",
           "category": "visibility_progression",
-          "description_en": "On entering Professional Work Experience, the central colored timeline is already fully visible and no longer reveals or retreats progressively with downward or upward scrolling. The experience cards and text still enter normally.",
-          "description_zh": "进入 Professional Work Experience 时，中央彩色时间线从一开始就完整可见，继续向下或向上滚动都不再逐段显露或回退；经历卡片和文字仍按原有方式入场。"
+          "description_en": "On entering Professional Work Experience, the central colored timeline is already fully visible and no longer reveals or retreats progressively with downward or upward scrolling. The experience cards and text still enter normally."
         },
         {
           "defect_id": "basedhound__3d-room_portfolio_react__defect_03",
           "requirement_id": "R8",
           "category": "dynamic_visual_effects",
-          "description_en": "In the skills section, the 3D technology logos in all five cards remain at fixed heights and orientations instead of continuing their subtle idle floating and rotation.",
-          "description_zh": "进入技能区后，五张技能卡中的三维技术标识都停在固定高度和姿态，不再持续进行轻微上下漂浮和待机旋转。"
+          "description_en": "In the skills section, the 3D technology logos in all five cards remain at fixed heights and orientations instead of continuing their subtle idle floating and rotation."
         },
         {
           "defect_id": "basedhound__3d-room_portfolio_react__defect_05",
           "requirement_id": "R12",
           "category": "spatial_motion",
-          "description_en": "While slowly scrolling from the Hero into Work, the three project cards reveal in the correct order, but the room and monitor orientation lag the current scroll phase by several hundred milliseconds. Reversing immediately makes the yaw briefly continue in the old direction before settling after scrolling stops.",
-          "description_zh": "从 Hero 缓慢滚入 Work 时，三张作品卡仍按正确顺序显现，但房间和显示器朝向比当前滚动阶段滞后数百毫秒；立即反向滚动时又短暂延续原方向偏航，停止后才恢复稳定。"
+          "description_en": "While slowly scrolling from the Hero into Work, the three project cards reveal in the correct order, but the room and monitor orientation lag the current scroll phase by several hundred milliseconds. Reversing immediately makes the yaw briefly continue in the old direction before settling after scrolling stops."
         }
       ]
     },
@@ -297,15 +264,13 @@
           "defect_id": "greengem__threejs-solar-system__defect_01",
           "requirement_id": "R8",
           "category": "process_state",
-          "description_en": "If the user changes targets or exits before a planet-detail transition finishes, returning to the overview stops every orbit. The speed slider remains visible and draggable but cannot restore motion.",
-          "description_zh": "在行星详情进入尚未完成时切换目标或退出，回到宏观视角后所有天体公转停止；速度滑块仍可见并能拖动，但无法恢复运动。"
+          "description_en": "If the user changes targets or exits before a planet-detail transition finishes, returning to the overview stops every orbit. The speed slider remains visible and draggable but cannot restore motion."
         },
         {
           "defect_id": "greengem__threejs-solar-system__defect_08",
           "requirement_id": "R7",
           "category": "spatial_motion",
-          "description_en": "For roughly 900 ms after returning from a planet detail to the overview, every planet orbits at Earth's angular speed before recovering its own distinct speed.",
-          "description_zh": "从行星详情返回宏观视角后的约 900 毫秒内，所有行星都以与 Earth 相同的角速度公转，随后才恢复各自不同的速度。"
+          "description_en": "For roughly 900 ms after returning from a planet detail to the overview, every planet orbits at Earth's angular speed before recovering its own distinct speed."
         }
       ]
     },
@@ -318,29 +283,25 @@
           "defect_id": "grep-many__wemble-guys__defect_01",
           "requirement_id": "R6",
           "category": "rule_evolution",
-          "description_en": "After the character genuinely leaves a triggered hex tile and later lands on or walks into it again, the tile returns to fully opaque orange and restarts its full disappearance delay, allowing its lifetime to be extended repeatedly. Jumping in place without landing again does not reset it.",
-          "description_zh": "角色真正离开一块已触发六边形后再次落到或走入同一块，该地块会恢复为完全不透明的橙色并重新开始完整消失时限，从而可反复延长寿命；仅在原地起跳但尚未重新落地不会重置。"
+          "description_en": "After the character genuinely leaves a triggered hex tile and later lands on or walks into it again, the tile returns to fully opaque orange and restarts its full disappearance delay, allowing its lifetime to be extended repeatedly. Jumping in place without landing again does not reset it."
         },
         {
           "defect_id": "grep-many__wemble-guys__defect_02",
           "requirement_id": "R7",
           "category": "visibility_progression",
-          "description_en": "A stepped-on hex tile turns orange and is removed on schedule, but stays fully opaque throughout its remaining lifetime and then disappears instantly instead of fading continuously.",
-          "description_zh": "被踩中的六边形会正常变成橙色并按时移除，但保留期间始终完全不透明，结束时直接瞬间消失，缺少连续淡出过程。"
+          "description_en": "A stepped-on hex tile turns orange and is removed on schedule, but stays fully opaque throughout its remaining lifetime and then disappears instantly instead of fading continuously."
         },
         {
           "defect_id": "grep-many__wemble-guys__defect_03",
           "requirement_id": "R5",
           "category": "input_response",
-          "description_en": "Before the character lands from its first jump, pressing Space or clicking Jump grants another upward impulse, creating a double jump instead of allowing the natural descent to continue.",
-          "description_zh": "角色第一次跳跃尚未落地时，再按空格键或点击 Jump 会重新获得向上速度，形成二段跳，而不是继续自然下落。"
+          "description_en": "Before the character lands from its first jump, pressing Space or clicking Jump grants another upward impulse, creating a double jump instead of allowing the natural descent to continue."
         },
         {
           "defect_id": "grep-many__wemble-guys__defect_07",
           "requirement_id": "R11",
           "category": "input_response",
-          "description_en": "While the joystick remains held, a rapid reversal across its center immediately changes the character's facing and movement, but the inner handle stays in the old direction for about 330 ms before catching up to the new quadrant. It returns to center normally on release.",
-          "description_zh": "持续按住移动摇杆并快速穿过中心反向拖动时，角色转向和移动立即切到新方向，但摇杆内柄仍停在旧方向约 330 毫秒，随后才追到新象限；释放后能正常回中。"
+          "description_en": "While the joystick remains held, a rapid reversal across its center immediately changes the character's facing and movement, but the inner handle stays in the old direction for about 330 ms before catching up to the new quadrant. It returns to center normally on release."
         }
       ]
     },
@@ -353,15 +314,13 @@
           "defect_id": "iwopant0825__antMysite__defect_01",
           "requirement_id": "R4",
           "category": "dynamic_visual_effects",
-          "description_en": "As the Interactive Web color fill changes width, low progress shows only the leftmost colors and later colors appear progressively as the fill grows. The complete red-to-purple gradient is no longer present at every visible width.",
-          "description_zh": "Interactive Web 的彩色填充宽度变化时，低进度只显示色带左端颜色，随着进度增加才依次出现后续颜色；任意宽度不再同时包含完整的红到紫渐变。"
+          "description_en": "As the Interactive Web color fill changes width, low progress shows only the leftmost colors and later colors appear progressively as the fill grows. The complete red-to-purple gradient is no longer present at every visible width."
         },
         {
           "defect_id": "iwopant0825__antMysite__defect_03",
           "requirement_id": "R3",
           "category": "spatial_motion",
-          "description_en": "The Hero's 3D logo still changes orientation with pointer movement, but both horizontal yaw and vertical pitch always move opposite to the pointer direction.",
-          "description_zh": "Hero 三维标识仍会随指针改变姿态，但水平偏转和垂直俯仰都始终朝指针移动方向的反方向。"
+          "description_en": "The Hero's 3D logo still changes orientation with pointer movement, but both horizontal yaw and vertical pitch always move opposite to the pointer direction."
         }
       ]
     },
@@ -374,15 +333,13 @@
           "defect_id": "kuasar-mknd__visualdon-projet__defect_02",
           "requirement_id": "R8",
           "category": "rule_evolution",
-          "description_en": "After Séparer par secteur is enabled or disabled in the country-detail Bulles view, large and medium bubbles visibly pass through and overlap one another during the early rearrangement. Repulsion later recovers and the final sector lanes or aggregate layout still settles correctly.",
-          "description_zh": "在国家详情的 Bulles 视图勾选或取消 Séparer par secteur 后，重排初段的大球和中等球会明显互相穿透、重叠；约一段时间后排斥恢复，最终仍收敛到正确的行业带或聚合布局。"
+          "description_en": "After Séparer par secteur is enabled or disabled in the country-detail Bulles view, large and medium bubbles visibly pass through and overlap one another during the early rearrangement. Repulsion later recovers and the final sector lanes or aggregate layout still settles correctly."
         },
         {
           "defect_id": "kuasar-mknd__visualdon-projet__defect_03",
           "requirement_id": "R11",
           "category": "spatial_motion",
-          "description_en": "When a vertical globe drag crosses a pole, country fills continue rotating immediately with the pointer, but border outlines briefly retain the pre-crossing direction, sliding away from their countries before realigning about 420 ms later. The final orientation after release is correct.",
-          "description_zh": "沿竖直方向拖动地球越过极点时，国家填色立即随指针继续旋转，但国界描边短暂沿用越过前的方向，在国家表面滑动并脱离对应区域，约 420 毫秒后才重新贴合；松开后的最终姿态正确。"
+          "description_en": "When a vertical globe drag crosses a pole, country fills continue rotating immediately with the pointer, but border outlines briefly retain the pre-crossing direction, sliding away from their countries before realigning about 420 ms later. The final orientation after release is correct."
         }
       ]
     },
@@ -395,22 +352,19 @@
           "defect_id": "mehrabgholamsamani__CryptoDash__defect_02",
           "requirement_id": "R5",
           "category": "dynamic_visual_effects",
-          "description_en": "Clicking the Histogram legend in the MACD chart makes the bars disappear or reappear instantly instead of passing through the normal soft blurred transition.",
-          "description_zh": "点击 MACD 图表的 Histogram 图例隐藏或恢复柱形时，柱形会瞬间消失或出现，不再经过原有的柔和模糊过渡。"
+          "description_en": "Clicking the Histogram legend in the MACD chart makes the bars disappear or reappear instantly instead of passing through the normal soft blurred transition."
         },
         {
           "defect_id": "mehrabgholamsamani__CryptoDash__defect_03",
           "requirement_id": "R4",
           "category": "rule_evolution",
-          "description_en": "The pale-green RSI reference line is still labeled “30 (Oversold),” but it moves to the minimum value of the current RSI series when the asset or time range changes instead of remaining fixed at 30.",
-          "description_zh": "RSI 图的浅绿色参考线仍标注为“30 (Oversold)”，但它会随币种或时间范围移动到当前 RSI 曲线的最低值，而不是始终保持在固定的 30 阈值。"
+          "description_en": "The pale-green RSI reference line is still labeled “30 (Oversold),” but it moves to the minimum value of the current RSI series when the asset or time range changes instead of remaining fixed at 30."
         },
         {
           "defect_id": "mehrabgholamsamani__CryptoDash__defect_04",
           "requirement_id": "R8",
           "category": "input_response",
-          "description_en": "Clicking Light or Dark in Settings correctly updates the theme, selected state, and saved preference message, but the page colors jump instantly to the final state instead of expanding from the upper right. The header theme button still performs the full expanding transition.",
-          "description_zh": "在 Settings 中点击 Light 或 Dark 时，主题、选中状态和保存提示都正确更新，但页面配色瞬间到达终态，不再从右上角扩散过渡；页头主题按钮仍保留完整扩散效果。"
+          "description_en": "Clicking Light or Dark in Settings correctly updates the theme, selected state, and saved preference message, but the page colors jump instantly to the final state instead of expanding from the upper right. The header theme button still performs the full expanding transition."
         }
       ]
     },
@@ -423,15 +377,13 @@
           "defect_id": "nirdhum__honest-landing__defect_02",
           "requirement_id": "R4",
           "category": "spatial_motion",
-          "description_en": "During the horizontal brand-image loop, a long blank interval appears after both content groups leave, followed by an abrupt jump back to the first group's starting point instead of a seamless continuous cycle.",
-          "description_zh": "品牌图片横向循环时，两组内容离场后会出现一段明显的长空白，随后轨道突然跳回第一组起点，而不是首尾无缝连续。"
+          "description_en": "During the horizontal brand-image loop, a long blank interval appears after both content groups leave, followed by an abrupt jump back to the first group's starting point instead of a seamless continuous cycle."
         },
         {
           "defect_id": "nirdhum__honest-landing__defect_03",
           "requirement_id": "R11",
           "category": "spatial_motion",
-          "description_en": "On the first entrance into the “Subscribe. But why?” card, the dark-blue angled background still slides in from the right, but the email input group remains fixed at its final position throughout, so their relative positions keep changing during the entrance. The final layout is correct.",
-          "description_zh": "首次进入“Subscribe. But why?”卡片时，深蓝斜切背景仍从右侧滑入，但右侧邮箱输入组从开始到结束都固定在最终位置，导致两者相对位置在入场过程中持续变化；结束布局正确。"
+          "description_en": "On the first entrance into the “Subscribe. But why?” card, the dark-blue angled background still slides in from the right, but the email input group remains fixed at its final position throughout, so their relative positions keep changing during the entrance. The final layout is correct."
         }
       ]
     },
@@ -444,57 +396,49 @@
           "defect_id": "pixijs__open-games__puzzling-potions__defect_01",
           "requirement_id": "R5",
           "category": "process_state",
-          "description_en": "Once a clear begins, the entire board ignores clicks and drags until every burst, fall, refill, and cascade has finished, including pieces that are already settled and not involved in the current animation.",
-          "description_zh": "一次消除开始后，直到所有爆散、下落、补格和连消完全结束，整块棋盘都忽略点击和拖动；其他已经停稳且未参与动画的棋子也无法操作。"
+          "description_en": "Once a clear begins, the entire board ignores clicks and drags until every burst, fall, refill, and cascade has finished, including pieces that are already settled and not involved in the current animation."
         },
         {
           "defect_id": "pixijs__open-games__puzzling-potions__defect_02",
           "requirement_id": "R6",
           "category": "process_state",
-          "description_en": "Before all newly refilled pieces have reached their bookshelf cells, the next automatic match, burst, score update, and combo round begins, causing settling and the next resolution round to overlap.",
-          "description_zh": "顶部补入的新棋子尚未全部到达书架格时，下一轮自动匹配、爆散、计分和连击更新已经开始，形成落格与下一轮结算重叠。"
+          "description_en": "Before all newly refilled pieces have reached their bookshelf cells, the next automatic match, burst, score update, and combo round begins, causing settling and the next resolution round to overlap."
         },
         {
           "defect_id": "pixijs__open-games__puzzling-potions__defect_03",
           "requirement_id": "R8",
           "category": "rule_evolution",
-          "description_en": "A column-clearing special created by a horizontal four-piece match has the correct appearance and position, but activating it by tapping or dragging clears only itself and leaves the rest of its column intact.",
-          "description_zh": "由横向四连生成的纵向清列特殊棋子外观和生成位置正常，但点击或拖动触发后只清除自身，不会清除所在列的其他棋子。"
+          "description_en": "A column-clearing special created by a horizontal four-piece match has the correct appearance and position, but activating it by tapping or dragging clears only itself and leaves the rest of its column intact."
         },
         {
           "defect_id": "pixijs__open-games__puzzling-potions__defect_04",
           "requirement_id": "R9",
           "category": "dynamic_visual_effects",
-          "description_en": "Pieces cleared by a regular three-piece match still leave afterimages that fly to the cauldron, but ordinary pieces cleared by any special ability only burst in their cells and disappear without flying to the cauldron.",
-          "description_zh": "普通三连清除的棋子仍会留下飞向坩埚的残影，但由任意特殊能力连带清除的普通棋子只在原格爆开并消失，不再飞向坩埚。"
+          "description_en": "Pieces cleared by a regular three-piece match still leave afterimages that fly to the cauldron, but ordinary pieces cleared by any special ability only burst in their cells and disappear without flying to the cauldron."
         },
         {
           "defect_id": "pixijs__open-games__puzzling-potions__defect_05",
           "requirement_id": "R9",
           "category": "dynamic_visual_effects",
-          "description_en": "Each cleared cell still emits twelve light-colored particles, but exactly six are square and six are circular. Regular matches and cascades therefore mix sharp-cornered blocks with round bubbles.",
-          "description_zh": "每个消除点仍产生十二枚浅色粒子，但其中固定六枚呈方形、六枚呈圆形；普通三连和连消都会同时出现带直角的方块与圆形气泡。"
+          "description_en": "Each cleared cell still emits twelve light-colored particles, but exactly six are square and six are circular. Regular matches and cascades therefore mix sharp-cornered blocks with round bubbles."
         },
         {
           "defect_id": "pixijs__open-games__puzzling-potions__defect_06",
           "requirement_id": "R4",
           "category": "rule_evolution",
-          "description_en": "Easy uses six regular piece types while Hard uses only four, reversing the piece pools associated with those difficulties. Normal still uses five, and special-piece formation is unchanged.",
-          "description_zh": "Easy 使用六种普通棋子而 Hard 只使用四种，难度对应的棋子池被反转；Normal 仍使用五种，特殊棋子的生成规则不变。"
+          "description_en": "Easy uses six regular piece types while Hard uses only four, reversing the piece pools associated with those difficulties. Normal still uses five, and special-piece formation is unchanged."
         },
         {
           "defect_id": "pixijs__open-games__puzzling-potions__defect_10",
           "requirement_id": "R7",
           "category": "visibility_progression",
-          "description_en": "When a row- or column-clearing special is created from a four-piece match, its scale-in overlaps the final roughly 100 ms of the old center ingredient's fade. The same cell briefly shows the old ingredient, new special texture, and rotating highlight together; final type and position are correct.",
-          "description_zh": "四连生成行或列特殊棋子时，新特殊棋子的缩放出现会与旧中心材料最后约 100 毫秒的淡出重叠，同一格短暂同时显示旧材料、新特殊纹理和旋转高亮；结束后的棋子类型和位置正确。"
+          "description_en": "When a row- or column-clearing special is created from a four-piece match, its scale-in overlaps the final roughly 100 ms of the old center ingredient's fade. The same cell briefly shows the old ingredient, new special texture, and rotating highlight together; final type and position are correct."
         },
         {
           "defect_id": "pixijs__open-games__puzzling-potions__defect_12",
           "requirement_id": "R11",
           "category": "process_state",
-          "description_en": "After the player pauses and resumes at any point during a round, the timer resumes and the board remains interactive, but a later legal move that forms a three-piece match no longer starts resolution: the matched pieces remain in place, the score does not increase, and no falling, refill, or cascade follows. The same failure occurs when the game was paused while the board was idle.",
-          "description_zh": "在任意一局中暂停并继续后，倒计时恢复且棋盘仍可操作，但之后通过合法移动形成的三连不再进入消除流程：匹配棋子留在原位，分数不增加，后续下落、补格和连消也不会开始。无需在消除动画期间暂停；棋盘稳定时暂停同样能够触发。"
+          "description_en": "After the player pauses and resumes at any point during a round, the timer resumes and the board remains interactive, but a later legal move that forms a three-piece match no longer starts resolution: the matched pieces remain in place, the score does not increase, and no falling, refill, or cascade follows. The same failure occurs when the game was paused while the board was idle."
         }
       ]
     },
@@ -507,15 +451,13 @@
           "defect_id": "playcanvas__engine__defect_01",
           "requirement_id": "R5",
           "category": "rule_evolution",
-          "description_en": "In Shaders / Integer Textures, after sand is continuously added above the wall and a small part of the wall is removed, blocked grains repeatedly favor the same diagonal direction. The pile drifts persistently left or right and forms stable directional bands instead of naturally splitting to both sides.",
-          "description_zh": "在 Shaders / Integer Textures 中持续向墙体上方添加沙子并挖掉一小块墙体后，受阻颗粒会长期偏向同一个斜方向，沙堆持续向左或向右漂移并形成稳定方向条带，而不是自然向两侧分流。"
+          "description_en": "In Shaders / Integer Textures, after sand is continuously added above the wall and a small part of the wall is removed, blocked grains repeatedly favor the same diagonal direction. The pile drifts persistently left or right and forms stable directional bands instead of naturally splitting to both sides."
         },
         {
           "defect_id": "playcanvas__engine__defect_06",
           "requirement_id": "R7",
           "category": "dynamic_visual_effects",
-          "description_en": "In Graphics / Shadow Cascades, turning off Every Frame makes all visible cloud shadows pause and then jump together instead of continuing to move smoothly.",
-          "description_zh": "在 Graphics / Shadow Cascades 中关闭 Every Frame 后，所有可见云影都会一起出现停顿后跳位的整体卡顿，而不是继续平滑移动。"
+          "description_en": "In Graphics / Shadow Cascades, turning off Every Frame makes all visible cloud shadows pause and then jump together instead of continuing to move smoothly."
         }
       ]
     },
@@ -528,22 +470,19 @@
           "defect_id": "sayjeyhi__my-3d-portfolio__defect_01",
           "requirement_id": "R3",
           "category": "spatial_motion",
-          "description_en": "After the hero action button is clicked, the character faces the viewer and begins falling. The character's left arm, shown on the right side of the screen, briefly bends early in the fall and then straightens again; the rest of the fall remains normal.",
-          "description_zh": "点击首屏行动按钮后人物面向浏览者并开始下落，人物左臂（画面右侧）在下落初期会短暂弯曲，随后重新伸直；其余下落过程正常。"
+          "description_en": "After the hero action button is clicked, the character faces the viewer and begins falling. The character's left arm, shown on the right side of the screen, briefly bends early in the fall and then straightens again; the rest of the fall remains normal."
         },
         {
           "defect_id": "sayjeyhi__my-3d-portfolio__defect_02",
           "requirement_id": "R9",
           "category": "spatial_motion",
-          "description_en": "During the middle of the transition from the Amsterdam street scene into Contact, the camera veers toward the left side of the screen and approaches the colorful building facade before returning to the correct endpoint. Start, end, and total duration remain unchanged.",
-          "description_zh": "从阿姆斯特丹街景进入 Contact 的运动中段，相机会向画面左侧偏航并贴近彩色建筑立面，随后又回到正确终点；起点、终点和总时长不变。"
+          "description_en": "During the middle of the transition from the Amsterdam street scene into Contact, the camera veers toward the left side of the screen and approaches the colorful building facade before returning to the correct endpoint. Start, end, and total duration remain unchanged."
         },
         {
           "defect_id": "sayjeyhi__my-3d-portfolio__defect_03",
           "requirement_id": "R8",
           "category": "process_state",
-          "description_en": "If Restart is clicked while an arrow is still in flight, the interface and values immediately return to the pre-start state, but the previous run's arrow continues flying on screen for about 1.1 seconds before disappearing.",
-          "description_zh": "箭矢仍在飞行时点击 Restart，界面和数值会立即回到未开始状态，但上一局的箭矢仍在画面中继续飞行约 1.1 秒后才消失。"
+          "description_en": "If Restart is clicked while an arrow is still in flight, the interface and values immediately return to the pre-start state, but the previous run's arrow continues flying on screen for about 1.1 seconds before disappearing."
         }
       ]
     },
@@ -556,15 +495,13 @@
           "defect_id": "sleepy-zone__fabritor-web__defect_01",
           "requirement_id": "R11",
           "category": "visibility_progression",
-          "description_en": "When a Text Box is created and its side-middle handles are dragged to change width, the red bounds and handles use the full visible width, but text wraps roughly 80 pixels before the right edge. Short text is also shifted left within the bounds, leaving persistent extra blank space on the right.",
-          "description_zh": "创建 Text Box 并拖动左右中点改变宽度时，红色边框和控制点使用完整可见宽度，但文字总是在距右边界约 80 像素处提前换行；短文本也相对边框偏左，右侧长期留有额外空白。"
+          "description_en": "When a Text Box is created and its side-middle handles are dragged to change width, the red bounds and handles use the full visible width, but text wraps roughly 80 pixels before the right edge. Short text is also shifted left within the bounds, leaving persistent extra blank space on the right."
         },
         {
           "defect_id": "sleepy-zone__fabritor-web__defect_05",
           "requirement_id": "R12",
           "category": "input_response",
-          "description_en": "When a rectangle is dragged at a zoom other than 100%, the pointer and red selection bounds stay synchronized while the rectangle body preview remains one frame behind. On release, the body overshoots the correct endpoint and then rebounds into the selection bounds; the final position and history are correct.",
-          "description_zh": "在非 100% 缩放下拖动矩形时，指针和红色选择框保持同步，但矩形主体预览持续落后一帧；松开后主体先越过正确终点，再回弹到选择框内，最终位置和历史记录正确。"
+          "description_en": "When a rectangle is dragged at a zoom other than 100%, the pointer and red selection bounds stay synchronized while the rectangle body preview remains one frame behind. On release, the body overshoots the correct endpoint and then rebounds into the selection bounds; the final position and history are correct."
         }
       ]
     },
@@ -577,29 +514,25 @@
           "defect_id": "toeverything__AFFiNE__defect_01",
           "requirement_id": "R5",
           "category": "dynamic_visual_effects",
-          "description_en": "During continuous panning in the Edgeless canvas, notes, cards, and selections move with the canvas while the dot grid stays fixed to the screen, making the content slide over it. Grid spacing still changes during zoom.",
-          "description_zh": "在 Edgeless 画布中连续平移时，便签、卡片和选区正常随画布移动，但点阵背景固定在屏幕上，内容像从点阵上滑过；缩放时点阵间距仍会变化。"
+          "description_en": "During continuous panning in the Edgeless canvas, notes, cards, and selections move with the canvas while the dot grid stays fixed to the screen, making the content slide over it. Grid spacing still changes during zoom."
         },
         {
           "defect_id": "toeverything__AFFiNE__defect_02",
           "requirement_id": "R6",
           "category": "spatial_motion",
-          "description_en": "After an Edgeless note is selected and the canvas is continuously zoomed or panned, the note and its selection bounds move correctly, but the floating toolbar remains at the old screen position from the moment of selection and separates visibly from the note.",
-          "description_zh": "选中 Edgeless 便签后连续缩放或平移，便签和选择外框移动到正确位置，但浮动工具条停在选中瞬间的旧屏幕位置，与便签明显分离。"
+          "description_en": "After an Edgeless note is selected and the canvas is continuously zoomed or panned, the note and its selection bounds move correctly, but the floating toolbar remains at the old screen position from the moment of selection and separates visibly from the note."
         },
         {
           "defect_id": "toeverything__AFFiNE__defect_05",
           "requirement_id": "R10",
           "category": "dynamic_visual_effects",
-          "description_en": "When one continuous Highlighter stroke forms a loop, figure eight, or retraced path, genuinely overlapping portions within that same stroke become visibly darker while non-overlapping portions remain normal. A later separate stroke still blends normally where it crosses an earlier stroke.",
-          "description_zh": "使用 Highlighter 在一次持续按压中绘制闭环、8 字或折返路径时，同一笔画真实重叠的区域会明显变深，非重叠部分保持正常；松开后另起一笔与旧笔画交叉时仍按独立笔画正常叠色。"
+          "description_en": "When one continuous Highlighter stroke forms a loop, figure eight, or retraced path, genuinely overlapping portions within that same stroke become visibly darker while non-overlapping portions remain normal. A later separate stroke still blends normally where it crosses an earlier stroke."
         },
         {
           "defect_id": "toeverything__AFFiNE__defect_07",
           "requirement_id": "R8",
           "category": "visibility_progression",
-          "description_en": "Short strokes draw and save normally, but once one continuously held long stroke reaches a certain length, the entire visible path suddenly collapses to its starting point, leaving only a dot. Further held movement adds nothing, and releasing still commits only that dot.",
-          "description_zh": "短笔画可正常绘制和保存，但同一次持续按压的长笔画达到一定长度后，整条可见轨迹会突然缩回起点，只剩一个小点；继续按住并移动也不再延伸，松开后最终仍只有该点。"
+          "description_en": "Short strokes draw and save normally, but once one continuously held long stroke reaches a certain length, the entire visible path suddenly collapses to its starting point, leaving only a dot. Further held movement adds nothing, and releasing still commits only that dot."
         }
       ]
     }

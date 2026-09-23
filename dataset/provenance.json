@@ -5,7 +5,32 @@
       "upstream_repository_from_identifier": "https://github.com/ANURAG-SINGH17/MAGMA",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "ANURAG-SINGH17__MAGMA.tar.gz",
+              "size_bytes": 94083126,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/ANURAG-SINGH17__MAGMA.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 2,
+          "file_count": 254,
+          "uncompressed_bytes": 96546894,
+          "assets": [
+            {
+              "name": "ANURAG-SINGH17__MAGMA.sources.tar.gz",
+              "size_bytes": 94082883,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/ANURAG-SINGH17__MAGMA.sources.tar.gz"
+            }
+          ]
+        }
+      }
     },
     {
       "project_id": "AQADIL__AqadilOS",
@@ -14,7 +39,33 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "AQADIL__AqadilOS.tar.gz",
+              "size_bytes": 354874593,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/AQADIL__AqadilOS.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 6,
+          "file_count": 480,
+          "uncompressed_bytes": 360031450,
+          "assets": [
+            {
+              "name": "AQADIL__AqadilOS.sources.tar.gz",
+              "size_bytes": 352267054,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/AQADIL__AqadilOS.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/AQADIL/AqadilOS"
     },
     {
       "project_id": "ArmanKhanTech__Portfolio",
@@ -23,7 +74,33 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "ArmanKhanTech__Portfolio.tar.gz",
+              "size_bytes": 64608190,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/ArmanKhanTech__Portfolio.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 5,
+          "file_count": 513,
+          "uncompressed_bytes": 83853895,
+          "assets": [
+            {
+              "name": "ArmanKhanTech__Portfolio.sources.tar.gz",
+              "size_bytes": 63327068,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/ArmanKhanTech__Portfolio.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/ArmanKhanTech/Portfolio"
     },
     {
       "project_id": "BrunoSimon__folio-2019",
@@ -32,49 +109,229 @@
       "bundled_license_files": [
         "licenses/01_LICENSE.md"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "BrunoSimon__folio-2019.tar.gz",
+              "size_bytes": 41653055,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/BrunoSimon__folio-2019.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 3,
+          "file_count": 2334,
+          "uncompressed_bytes": 654683038,
+          "assets": [
+            {
+              "name": "BrunoSimon__folio-2019.sources.tar.gz",
+              "size_bytes": 286843250,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/BrunoSimon__folio-2019.sources.tar.gz"
+            }
+          ]
+        }
+      }
     },
     {
       "project_id": "CodebyCyrus__Apple-Landing",
       "upstream_repository_from_identifier": "https://github.com/CodebyCyrus/Apple-Landing",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "CodebyCyrus__Apple-Landing.tar.gz",
+              "size_bytes": 80850658,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/CodebyCyrus__Apple-Landing.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 2,
+          "file_count": 110,
+          "uncompressed_bytes": 80622045,
+          "assets": [
+            {
+              "name": "CodebyCyrus__Apple-Landing.sources.tar.gz",
+              "size_bytes": 79959340,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/CodebyCyrus__Apple-Landing.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/CodebyCyrus/Apple-Landing"
     },
     {
       "project_id": "Juanescacha__Portfolio",
       "upstream_repository_from_identifier": "https://github.com/Juanescacha/Portfolio",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "Juanescacha__Portfolio.tar.gz",
+              "size_bytes": 30614058,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/Juanescacha__Portfolio.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 2,
+          "file_count": 272,
+          "uncompressed_bytes": 61055664,
+          "assets": [
+            {
+              "name": "Juanescacha__Portfolio.sources.tar.gz",
+              "size_bytes": 49070995,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/Juanescacha__Portfolio.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/Juanescacha/Portfolio"
     },
     {
       "project_id": "Nayan286__Gsap",
       "upstream_repository_from_identifier": "https://github.com/Nayan286/Gsap",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "Nayan286__Gsap.tar.gz",
+              "size_bytes": 399486,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/Nayan286__Gsap.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 2,
+          "file_count": 20,
+          "uncompressed_bytes": 937473,
+          "assets": [
+            {
+              "name": "Nayan286__Gsap.sources.tar.gz",
+              "size_bytes": 399236,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/Nayan286__Gsap.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/Nayan286/Gsap"
     },
     {
       "project_id": "Om101101__Obys-Agency-Clone",
       "upstream_repository_from_identifier": "https://github.com/Om101101/Obys-Agency-Clone",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "Om101101__Obys-Agency-Clone.tar.gz",
+              "size_bytes": 49378399,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/Om101101__Obys-Agency-Clone.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 5,
+          "file_count": 376,
+          "uncompressed_bytes": 69720549,
+          "assets": [
+            {
+              "name": "Om101101__Obys-Agency-Clone.sources.tar.gz",
+              "size_bytes": 65961631,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/Om101101__Obys-Agency-Clone.sources.tar.gz"
+            }
+          ]
+        }
+      }
     },
     {
       "project_id": "OwaisZakir__cyber-learning-platform",
       "upstream_repository_from_identifier": "https://github.com/OwaisZakir/cyber-learning-platform",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "OwaisZakir__cyber-learning-platform.tar.gz",
+              "size_bytes": 581773,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/OwaisZakir__cyber-learning-platform.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 2,
+          "file_count": 204,
+          "uncompressed_bytes": 2033712,
+          "assets": [
+            {
+              "name": "OwaisZakir__cyber-learning-platform.sources.tar.gz",
+              "size_bytes": 600801,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/OwaisZakir__cyber-learning-platform.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/OwaisZakir/cyber-learning-platform"
     },
     {
       "project_id": "RajeebLochan__Portfolio-Website",
       "upstream_repository_from_identifier": "https://github.com/RajeebLochan/Portfolio-Website",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "RajeebLochan__Portfolio-Website.tar.gz",
+              "size_bytes": 50214440,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/RajeebLochan__Portfolio-Website.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 5,
+          "file_count": 545,
+          "uncompressed_bytes": 57407101,
+          "assets": [
+            {
+              "name": "RajeebLochan__Portfolio-Website.sources.tar.gz",
+              "size_bytes": 48065765,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/RajeebLochan__Portfolio-Website.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/RajeebLochan/Portfolio-Website"
     },
     {
       "project_id": "SahilK-027__Elemental-Serenity",
@@ -83,14 +340,66 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "SahilK-027__Elemental-Serenity.tar.gz",
+              "size_bytes": 84587039,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/SahilK-027__Elemental-Serenity.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 11,
+          "file_count": 1714,
+          "uncompressed_bytes": 128173233,
+          "assets": [
+            {
+              "name": "SahilK-027__Elemental-Serenity.sources.tar.gz",
+              "size_bytes": 92616595,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/SahilK-027__Elemental-Serenity.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/SahilK-027/elemental-serenity"
     },
     {
       "project_id": "Sr-Yan-Lima__champions4good-demo",
       "upstream_repository_from_identifier": "https://github.com/Sr-Yan-Lima/champions4good-demo",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "Sr-Yan-Lima__champions4good-demo.tar.gz",
+              "size_bytes": 59967,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/Sr-Yan-Lima__champions4good-demo.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 3,
+          "file_count": 3,
+          "uncompressed_bytes": 238515,
+          "assets": [
+            {
+              "name": "Sr-Yan-Lima__champions4good-demo.sources.tar.gz",
+              "size_bytes": 59682,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/Sr-Yan-Lima__champions4good-demo.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/Sr-Yan-Lima/champions4good-demo"
     },
     {
       "project_id": "SreeXD__Srees-Room",
@@ -99,42 +408,195 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "SreeXD__Srees-Room.tar.gz",
+              "size_bytes": 77224353,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/SreeXD__Srees-Room.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 4,
+          "file_count": 311,
+          "uncompressed_bytes": 408448382,
+          "assets": [
+            {
+              "name": "SreeXD__Srees-Room.sources.tar.gz",
+              "size_bytes": 180390709,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/SreeXD__Srees-Room.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/SreeXD/Srees-Room"
     },
     {
       "project_id": "Sunil56224972__The-Drawn-Dimenstion",
       "upstream_repository_from_identifier": "https://github.com/Sunil56224972/The-Drawn-Dimenstion",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "Sunil56224972__The-Drawn-Dimenstion.tar.gz",
+              "size_bytes": 914672832,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/Sunil56224972__The-Drawn-Dimenstion.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 9,
+          "file_count": 4842,
+          "uncompressed_bytes": 945590395,
+          "assets": [
+            {
+              "name": "Sunil56224972__The-Drawn-Dimenstion.sources.tar.gz",
+              "size_bytes": 909775375,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/Sunil56224972__The-Drawn-Dimenstion.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/Sunil56224972/The-Drawn-Dimenstion"
     },
     {
       "project_id": "Thakuma07__ABCS-SVGAnimation",
       "upstream_repository_from_identifier": "https://github.com/Thakuma07/ABCS-SVGAnimation",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "Thakuma07__ABCS-SVGAnimation.tar.gz",
+              "size_bytes": 98499,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/Thakuma07__ABCS-SVGAnimation.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 2,
+          "file_count": 18,
+          "uncompressed_bytes": 130554,
+          "assets": [
+            {
+              "name": "Thakuma07__ABCS-SVGAnimation.sources.tar.gz",
+              "size_bytes": 55149,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/Thakuma07__ABCS-SVGAnimation.sources.tar.gz"
+            }
+          ]
+        }
+      }
     },
     {
       "project_id": "VinayMatta63__threejs-portfolio",
       "upstream_repository_from_identifier": "https://github.com/VinayMatta63/threejs-portfolio",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "VinayMatta63__threejs-portfolio.tar.gz",
+              "size_bytes": 51011428,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/VinayMatta63__threejs-portfolio.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 3,
+          "file_count": 390,
+          "uncompressed_bytes": 112362933,
+          "assets": [
+            {
+              "name": "VinayMatta63__threejs-portfolio.sources.tar.gz",
+              "size_bytes": 54863379,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/VinayMatta63__threejs-portfolio.sources.tar.gz"
+            }
+          ]
+        }
+      }
     },
     {
       "project_id": "adityayaduvanshi__awwwards-website-1",
       "upstream_repository_from_identifier": "https://github.com/adityayaduvanshi/awwwards-website-1",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "adityayaduvanshi__awwwards-website-1.tar.gz",
+              "size_bytes": 44446319,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/adityayaduvanshi__awwwards-website-1.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 2,
+          "file_count": 92,
+          "uncompressed_bytes": 103261762,
+          "assets": [
+            {
+              "name": "adityayaduvanshi__awwwards-website-1.sources.tar.gz",
+              "size_bytes": 101837514,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/adityayaduvanshi__awwwards-website-1.sources.tar.gz"
+            }
+          ]
+        }
+      }
     },
     {
       "project_id": "afilahkle__3D-Clothing-Configurator",
       "upstream_repository_from_identifier": "https://github.com/afilahkle/3D-Clothing-Configurator",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "afilahkle__3D-Clothing-Configurator.tar.gz",
+              "size_bytes": 7006960,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/afilahkle__3D-Clothing-Configurator.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 2,
+          "file_count": 98,
+          "uncompressed_bytes": 7038403,
+          "assets": [
+            {
+              "name": "afilahkle__3D-Clothing-Configurator.sources.tar.gz",
+              "size_bytes": 6295145,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/afilahkle__3D-Clothing-Configurator.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/afilahkle/3D-Clothing-Configurator"
     },
     {
       "project_id": "aframevr__aframe",
@@ -143,7 +605,32 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "aframevr__aframe.tar.gz",
+              "size_bytes": 4457632,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/aframevr__aframe.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 5,
+          "file_count": 3345,
+          "uncompressed_bytes": 161055956,
+          "assets": [
+            {
+              "name": "aframevr__aframe.sources.tar.gz",
+              "size_bytes": 140691017,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/aframevr__aframe.sources.tar.gz"
+            }
+          ]
+        }
+      }
     },
     {
       "project_id": "arnobt78__Brainwave-Landing-Page--React-Frontend",
@@ -152,7 +639,33 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "arnobt78__Brainwave-Landing-Page--React-Frontend.tar.gz",
+              "size_bytes": 58383121,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/arnobt78__Brainwave-Landing-Page--React-Frontend.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 5,
+          "file_count": 625,
+          "uncompressed_bytes": 60492899,
+          "assets": [
+            {
+              "name": "arnobt78__Brainwave-Landing-Page--React-Frontend.sources.tar.gz",
+              "size_bytes": 58072116,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/arnobt78__Brainwave-Landing-Page--React-Frontend.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/arnobt78/Brainwave-Landing-Page--React-Frontend"
     },
     {
       "project_id": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend",
@@ -161,35 +674,164 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend.tar.gz",
+              "size_bytes": 102812570,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/arnobt78__MacBook-Showcase-Landing-Page--React-Frontend.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 3,
+          "file_count": 249,
+          "uncompressed_bytes": 111064670,
+          "assets": [
+            {
+              "name": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend.sources.tar.gz",
+              "size_bytes": 101062037,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/arnobt78__MacBook-Showcase-Landing-Page--React-Frontend.sources.tar.gz"
+            }
+          ]
+        }
+      }
     },
     {
       "project_id": "basedhound__3d-room_portfolio_react",
       "upstream_repository_from_identifier": "https://github.com/basedhound/3d-room_portfolio_react",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "basedhound__3d-room_portfolio_react.tar.gz",
+              "size_bytes": 43435065,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/basedhound__3d-room_portfolio_react.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 7,
+          "file_count": 700,
+          "uncompressed_bytes": 47175360,
+          "assets": [
+            {
+              "name": "basedhound__3d-room_portfolio_react.sources.tar.gz",
+              "size_bytes": 39990342,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/basedhound__3d-room_portfolio_react.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/basedhound/3d-room_portfolio_react"
     },
     {
       "project_id": "cruip__tailwind-dashboard-template",
       "upstream_repository_from_identifier": "https://github.com/cruip/tailwind-dashboard-template",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "cruip__tailwind-dashboard-template.tar.gz",
+              "size_bytes": 579800,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/cruip__tailwind-dashboard-template.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 2,
+          "file_count": 135,
+          "uncompressed_bytes": 839230,
+          "assets": [
+            {
+              "name": "cruip__tailwind-dashboard-template.sources.tar.gz",
+              "size_bytes": 221553,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/cruip__tailwind-dashboard-template.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/cruip/tailwind-dashboard-template"
     },
     {
       "project_id": "fekikarim__farmy-landing",
       "upstream_repository_from_identifier": "https://github.com/fekikarim/farmy-landing",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "fekikarim__farmy-landing.tar.gz",
+              "size_bytes": 18636076,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/fekikarim__farmy-landing.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 3,
+          "file_count": 120,
+          "uncompressed_bytes": 20012080,
+          "assets": [
+            {
+              "name": "fekikarim__farmy-landing.sources.tar.gz",
+              "size_bytes": 18465199,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/fekikarim__farmy-landing.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/fekikarim/farmy-landing"
     },
     {
       "project_id": "greengem__threejs-solar-system",
       "upstream_repository_from_identifier": "https://github.com/greengem/threejs-solar-system",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "greengem__threejs-solar-system.tar.gz",
+              "size_bytes": 14807826,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/greengem__threejs-solar-system.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 6,
+          "file_count": 330,
+          "uncompressed_bytes": 14344038,
+          "assets": [
+            {
+              "name": "greengem__threejs-solar-system.sources.tar.gz",
+              "size_bytes": 12506362,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/greengem__threejs-solar-system.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/greengem/threejs-solar-system"
     },
     {
       "project_id": "grep-many__wemble-guys",
@@ -198,14 +840,66 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "grep-many__wemble-guys.tar.gz",
+              "size_bytes": 69768889,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/grep-many__wemble-guys.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 8,
+          "file_count": 480,
+          "uncompressed_bytes": 133154579,
+          "assets": [
+            {
+              "name": "grep-many__wemble-guys.sources.tar.gz",
+              "size_bytes": 56594825,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/grep-many__wemble-guys.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/grep-many/wemble-guys"
     },
     {
       "project_id": "iwopant0825__antMysite",
       "upstream_repository_from_identifier": "https://github.com/iwopant0825/antMysite",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "iwopant0825__antMysite.tar.gz",
+              "size_bytes": 29734877,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/iwopant0825__antMysite.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 5,
+          "file_count": 240,
+          "uncompressed_bytes": 39742990,
+          "assets": [
+            {
+              "name": "iwopant0825__antMysite.sources.tar.gz",
+              "size_bytes": 28098277,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/iwopant0825__antMysite.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/iwopant0825/antMysite"
     },
     {
       "project_id": "kuasar-mknd__visualdon-projet",
@@ -214,7 +908,33 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "kuasar-mknd__visualdon-projet.tar.gz",
+              "size_bytes": 16903157,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/kuasar-mknd__visualdon-projet.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 5,
+          "file_count": 478,
+          "uncompressed_bytes": 135649335,
+          "assets": [
+            {
+              "name": "kuasar-mknd__visualdon-projet.sources.tar.gz",
+              "size_bytes": 33661749,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/kuasar-mknd__visualdon-projet.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/kuasar-mknd/visualdon-projet"
     },
     {
       "project_id": "lordbasilaiassistant-sudo__fishing-freel",
@@ -223,7 +943,32 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "lordbasilaiassistant-sudo__fishing-freel.tar.gz",
+              "size_bytes": 2333153,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/lordbasilaiassistant-sudo__fishing-freel.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 3,
+          "file_count": 135,
+          "uncompressed_bytes": 1735840,
+          "assets": [
+            {
+              "name": "lordbasilaiassistant-sudo__fishing-freel.sources.tar.gz",
+              "size_bytes": 1123958,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/lordbasilaiassistant-sudo__fishing-freel.sources.tar.gz"
+            }
+          ]
+        }
+      }
     },
     {
       "project_id": "martinlaxenaire__portfolio-2025",
@@ -232,7 +977,32 @@
       "bundled_license_files": [
         "licenses/01_LICENSE.md"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "martinlaxenaire__portfolio-2025.tar.gz",
+              "size_bytes": 61072306,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/martinlaxenaire__portfolio-2025.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 3,
+          "file_count": 691,
+          "uncompressed_bytes": 128014884,
+          "assets": [
+            {
+              "name": "martinlaxenaire__portfolio-2025.sources.tar.gz",
+              "size_bytes": 122215999,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/martinlaxenaire__portfolio-2025.sources.tar.gz"
+            }
+          ]
+        }
+      }
     },
     {
       "project_id": "martinlaxenaire__portfolio-2025__more_defects_20260619",
@@ -241,7 +1011,32 @@
       "bundled_license_files": [
         "licenses/01_LICENSE.md"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "martinlaxenaire__portfolio-2025__more_defects_20260619.tar.gz",
+              "size_bytes": 61085170,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/martinlaxenaire__portfolio-2025__more_defects_20260619.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 3,
+          "file_count": 551,
+          "uncompressed_bytes": 86084655,
+          "assets": [
+            {
+              "name": "martinlaxenaire__portfolio-2025__more_defects_20260619.sources.tar.gz",
+              "size_bytes": 81650750,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/martinlaxenaire__portfolio-2025__more_defects_20260619.sources.tar.gz"
+            }
+          ]
+        }
+      }
     },
     {
       "project_id": "mehrabgholamsamani__CryptoDash",
@@ -250,7 +1045,33 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "mehrabgholamsamani__CryptoDash.tar.gz",
+              "size_bytes": 1676062,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/mehrabgholamsamani__CryptoDash.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 5,
+          "file_count": 245,
+          "uncompressed_bytes": 11414547,
+          "assets": [
+            {
+              "name": "mehrabgholamsamani__CryptoDash.sources.tar.gz",
+              "size_bytes": 9940058,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/mehrabgholamsamani__CryptoDash.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/mehrabgholamsamani/CryptoDash"
     },
     {
       "project_id": "michaelkolesidis__zigzag",
@@ -259,7 +1080,33 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "michaelkolesidis__zigzag.tar.gz",
+              "size_bytes": 2145391,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/michaelkolesidis__zigzag.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 2,
+          "file_count": 162,
+          "uncompressed_bytes": 3805526,
+          "assets": [
+            {
+              "name": "michaelkolesidis__zigzag.sources.tar.gz",
+              "size_bytes": 1929717,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/michaelkolesidis__zigzag.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/michaelkolesidis/zigzag"
     },
     {
       "project_id": "mrkara__casper-era-tracker",
@@ -268,7 +1115,33 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "mrkara__casper-era-tracker.tar.gz",
+              "size_bytes": 313119,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/mrkara__casper-era-tracker.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 2,
+          "file_count": 178,
+          "uncompressed_bytes": 2867710,
+          "assets": [
+            {
+              "name": "mrkara__casper-era-tracker.sources.tar.gz",
+              "size_bytes": 1234254,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/mrkara__casper-era-tracker.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/mrkara/casper-era-tracker"
     },
     {
       "project_id": "nirdhum__honest-landing",
@@ -277,7 +1150,33 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "nirdhum__honest-landing.tar.gz",
+              "size_bytes": 4201691,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/nirdhum__honest-landing.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 6,
+          "file_count": 210,
+          "uncompressed_bytes": 4348154,
+          "assets": [
+            {
+              "name": "nirdhum__honest-landing.sources.tar.gz",
+              "size_bytes": 3475385,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/nirdhum__honest-landing.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/nirdhum/honest-landing"
     },
     {
       "project_id": "pixijs__open-games__puzzling-potions",
@@ -286,7 +1185,33 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "pixijs__open-games__puzzling-potions.tar.gz",
+              "size_bytes": 31761406,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/pixijs__open-games__puzzling-potions.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 10,
+          "file_count": 2625,
+          "uncompressed_bytes": 143955152,
+          "assets": [
+            {
+              "name": "pixijs__open-games__puzzling-potions.sources.tar.gz",
+              "size_bytes": 127471376,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/pixijs__open-games__puzzling-potions.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/pixijs/open-games/tree/main/puzzling-potions"
     },
     {
       "project_id": "playcanvas__engine",
@@ -295,7 +1220,43 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "playcanvas__engine.tar.gz.part001",
+              "size_bytes": 1887436800,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/playcanvas__engine.tar.gz.part001"
+            },
+            {
+              "name": "playcanvas__engine.tar.gz.part002",
+              "size_bytes": 116533681,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/playcanvas__engine.tar.gz.part002"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 5,
+          "file_count": 17931,
+          "uncompressed_bytes": 2338939343,
+          "assets": [
+            {
+              "name": "playcanvas__engine.sources.tar.gz.part001",
+              "size_bytes": 1887436800,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/playcanvas__engine.sources.tar.gz.part001"
+            },
+            {
+              "name": "playcanvas__engine.sources.tar.gz.part002",
+              "size_bytes": 79752961,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/playcanvas__engine.sources.tar.gz.part002"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/playcanvas/engine"
     },
     {
       "project_id": "refinedev__refine",
@@ -304,21 +1265,98 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "refinedev__refine.tar.gz",
+              "size_bytes": 2108915,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/refinedev__refine.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 2,
+          "file_count": 23042,
+          "uncompressed_bytes": 182827325,
+          "assets": [
+            {
+              "name": "refinedev__refine.sources.tar.gz",
+              "size_bytes": 70363368,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/refinedev__refine.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/refinedev/refine"
     },
     {
       "project_id": "saidee-hasan__modern-business-landing-page",
       "upstream_repository_from_identifier": "https://github.com/saidee-hasan/modern-business-landing-page",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "saidee-hasan__modern-business-landing-page.tar.gz",
+              "size_bytes": 2096218,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/saidee-hasan__modern-business-landing-page.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 3,
+          "file_count": 129,
+          "uncompressed_bytes": 10807692,
+          "assets": [
+            {
+              "name": "saidee-hasan__modern-business-landing-page.sources.tar.gz",
+              "size_bytes": 9968661,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/saidee-hasan__modern-business-landing-page.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/saidee-hasan/modern-business-landing-page"
     },
     {
       "project_id": "sayjeyhi__my-3d-portfolio",
       "upstream_repository_from_identifier": "https://github.com/sayjeyhi/my-3d-portfolio",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "sayjeyhi__my-3d-portfolio.tar.gz",
+              "size_bytes": 152236678,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/sayjeyhi__my-3d-portfolio.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 5,
+          "file_count": 845,
+          "uncompressed_bytes": 217070051,
+          "assets": [
+            {
+              "name": "sayjeyhi__my-3d-portfolio.sources.tar.gz",
+              "size_bytes": 150748108,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/sayjeyhi__my-3d-portfolio.sources.tar.gz"
+            }
+          ]
+        }
+      }
     },
     {
       "project_id": "sleepy-zone__fabritor-web",
@@ -327,14 +1365,64 @@
       "bundled_license_files": [
         "licenses/01_LICENSE"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "sleepy-zone__fabritor-web.tar.gz",
+              "size_bytes": 770254985,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/sleepy-zone__fabritor-web.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 7,
+          "file_count": 1104,
+          "uncompressed_bytes": 1298310452,
+          "assets": [
+            {
+              "name": "sleepy-zone__fabritor-web.sources.tar.gz",
+              "size_bytes": 893776191,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/sleepy-zone__fabritor-web.sources.tar.gz"
+            }
+          ]
+        }
+      }
     },
     {
       "project_id": "theshanergy__4x4builder",
       "upstream_repository_from_identifier": "https://github.com/theshanergy/4x4builder",
       "upstream_url_independently_verified": false,
       "bundled_license_files": [],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "theshanergy__4x4builder.tar.gz",
+              "size_bytes": 129893761,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/theshanergy__4x4builder.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 3,
+          "file_count": 699,
+          "uncompressed_bytes": 139856835,
+          "assets": [
+            {
+              "name": "theshanergy__4x4builder.sources.tar.gz",
+              "size_bytes": 120561066,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/theshanergy__4x4builder.sources.tar.gz"
+            }
+          ]
+        }
+      }
     },
     {
       "project_id": "toeverything__AFFiNE",
@@ -344,7 +1432,33 @@
         "licenses/01_LICENSE",
         "licenses/02_LICENSE-MIT"
       ],
-      "note": "Built artifacts include benchmark modifications; upstream asset licenses remain applicable."
+      "note": "Original and modified source snapshots and built artifacts are distributed separately; upstream licenses remain applicable.",
+      "downloads": {
+        "static": {
+          "release": "dataset-v1",
+          "assets": [
+            {
+              "name": "toeverything__AFFiNE.tar.gz",
+              "size_bytes": 89699552,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/dataset-v1/toeverything__AFFiNE.tar.gz"
+            }
+          ]
+        },
+        "sources": {
+          "release": "sources-v1",
+          "variant_count": 9,
+          "file_count": 91425,
+          "uncompressed_bytes": 1095887856,
+          "assets": [
+            {
+              "name": "toeverything__AFFiNE.sources.tar.gz",
+              "size_bytes": 706202059,
+              "url": "https://github.com/Staudinger0325/webmetabench/releases/download/sources-v1/toeverything__AFFiNE.sources.tar.gz"
+            }
+          ]
+        }
+      },
+      "upstream_repository": "https://github.com/toeverything/AFFiNE"
     }
   ]
 }
