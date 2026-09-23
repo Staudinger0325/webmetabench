@@ -1,0 +1,614 @@
+{
+  "schema_version": "webmetabench-gold-videos-v1",
+  "sample_count": 120,
+  "scope": "single_defect",
+  "description": "Reference recordings of the defective versions. Gold refers to reference evidence, not to the unmodified website version. Multi-defect recordings are not included.",
+  "archive": {
+    "name": "webmetabench-gold-videos-v1.tar.gz",
+    "url": "https://github.com/Staudinger0325/webmetabench/releases/download/gold-videos-v1/webmetabench-gold-videos-v1.tar.gz",
+    "format": "tar.gz",
+    "video_bytes": 180034836
+  },
+  "samples": [
+    {
+      "sample_id": "ANURAG-SINGH17__MAGMA__defect_01__requirements_v1",
+      "path": "gold_videos/ANURAG-SINGH17__MAGMA__defect_01__requirements_v1.mp4",
+      "size_bytes": 231060
+    },
+    {
+      "sample_id": "AQADIL__AqadilOS__defect_02__requirements_v1",
+      "path": "gold_videos/AQADIL__AqadilOS__defect_02__requirements_v1.mp4",
+      "size_bytes": 726963
+    },
+    {
+      "sample_id": "AQADIL__AqadilOS__defect_03__requirements_v1",
+      "path": "gold_videos/AQADIL__AqadilOS__defect_03__requirements_v1.mp4",
+      "size_bytes": 951602
+    },
+    {
+      "sample_id": "AQADIL__AqadilOS__defect_04__requirements_v1",
+      "path": "gold_videos/AQADIL__AqadilOS__defect_04__requirements_v1.mp4",
+      "size_bytes": 172119
+    },
+    {
+      "sample_id": "AQADIL__AqadilOS__defect_05__requirements_v1",
+      "path": "gold_videos/AQADIL__AqadilOS__defect_05__requirements_v1.mp4",
+      "size_bytes": 841633
+    },
+    {
+      "sample_id": "ArmanKhanTech__Portfolio__defect_01__requirements_v1",
+      "path": "gold_videos/ArmanKhanTech__Portfolio__defect_01__requirements_v1.mp4",
+      "size_bytes": 678098
+    },
+    {
+      "sample_id": "ArmanKhanTech__Portfolio__defect_02__requirements_v1",
+      "path": "gold_videos/ArmanKhanTech__Portfolio__defect_02__requirements_v1.mp4",
+      "size_bytes": 2128865
+    },
+    {
+      "sample_id": "ArmanKhanTech__Portfolio__defect_03__requirements_v1",
+      "path": "gold_videos/ArmanKhanTech__Portfolio__defect_03__requirements_v1.mp4",
+      "size_bytes": 4941969
+    },
+    {
+      "sample_id": "BrunoSimon__folio-2019__defect_02__requirements_v1",
+      "path": "gold_videos/BrunoSimon__folio-2019__defect_02__requirements_v1.mp4",
+      "size_bytes": 1777662
+    },
+    {
+      "sample_id": "BrunoSimon__folio-2019__defect_04__requirements_v1",
+      "path": "gold_videos/BrunoSimon__folio-2019__defect_04__requirements_v1.mp4",
+      "size_bytes": 697296
+    },
+    {
+      "sample_id": "CodebyCyrus__Apple-Landing__defect_01__requirements_v1",
+      "path": "gold_videos/CodebyCyrus__Apple-Landing__defect_01__requirements_v1.mp4",
+      "size_bytes": 185485
+    },
+    {
+      "sample_id": "Juanescacha__Portfolio__defect_01__requirements_v1",
+      "path": "gold_videos/Juanescacha__Portfolio__defect_01__requirements_v1.mp4",
+      "size_bytes": 1029530
+    },
+    {
+      "sample_id": "Nayan286__Gsap__defect_01__requirements_v1",
+      "path": "gold_videos/Nayan286__Gsap__defect_01__requirements_v1.mp4",
+      "size_bytes": 573418
+    },
+    {
+      "sample_id": "Om101101__Obys-Agency-Clone__defect_01__requirements_v1",
+      "path": "gold_videos/Om101101__Obys-Agency-Clone__defect_01__requirements_v1.mp4",
+      "size_bytes": 379012
+    },
+    {
+      "sample_id": "Om101101__Obys-Agency-Clone__defect_02__requirements_v1",
+      "path": "gold_videos/Om101101__Obys-Agency-Clone__defect_02__requirements_v1.mp4",
+      "size_bytes": 1135861
+    },
+    {
+      "sample_id": "Om101101__Obys-Agency-Clone__defect_03__requirements_v1",
+      "path": "gold_videos/Om101101__Obys-Agency-Clone__defect_03__requirements_v1.mp4",
+      "size_bytes": 857685
+    },
+    {
+      "sample_id": "OwaisZakir__cyber-learning-platform__defect_01__requirements_v1",
+      "path": "gold_videos/OwaisZakir__cyber-learning-platform__defect_01__requirements_v1.mp4",
+      "size_bytes": 1044739
+    },
+    {
+      "sample_id": "RajeebLochan__Portfolio-Website__defect_02__requirements_v1",
+      "path": "gold_videos/RajeebLochan__Portfolio-Website__defect_02__requirements_v1.mp4",
+      "size_bytes": 3581528
+    },
+    {
+      "sample_id": "RajeebLochan__Portfolio-Website__defect_03__requirements_v1",
+      "path": "gold_videos/RajeebLochan__Portfolio-Website__defect_03__requirements_v1.mp4",
+      "size_bytes": 1005591
+    },
+    {
+      "sample_id": "RajeebLochan__Portfolio-Website__defect_04__requirements_v1",
+      "path": "gold_videos/RajeebLochan__Portfolio-Website__defect_04__requirements_v1.mp4",
+      "size_bytes": 1600215
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_01__requirements_v1",
+      "path": "gold_videos/SahilK-027__Elemental-Serenity__defect_01__requirements_v1.mp4",
+      "size_bytes": 7286987
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_02__requirements_v1",
+      "path": "gold_videos/SahilK-027__Elemental-Serenity__defect_02__requirements_v1.mp4",
+      "size_bytes": 5373437
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_04__requirements_v1",
+      "path": "gold_videos/SahilK-027__Elemental-Serenity__defect_04__requirements_v1.mp4",
+      "size_bytes": 7563074
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_05__requirements_v1",
+      "path": "gold_videos/SahilK-027__Elemental-Serenity__defect_05__requirements_v1.mp4",
+      "size_bytes": 8221954
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_06__requirements_v1",
+      "path": "gold_videos/SahilK-027__Elemental-Serenity__defect_06__requirements_v1.mp4",
+      "size_bytes": 3015790
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_07__requirements_v1",
+      "path": "gold_videos/SahilK-027__Elemental-Serenity__defect_07__requirements_v1.mp4",
+      "size_bytes": 3332761
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_08__requirements_v1",
+      "path": "gold_videos/SahilK-027__Elemental-Serenity__defect_08__requirements_v1.mp4",
+      "size_bytes": 7754670
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_09__requirements_v1",
+      "path": "gold_videos/SahilK-027__Elemental-Serenity__defect_09__requirements_v1.mp4",
+      "size_bytes": 7890029
+    },
+    {
+      "sample_id": "SahilK-027__Elemental-Serenity__defect_10__requirements_v1",
+      "path": "gold_videos/SahilK-027__Elemental-Serenity__defect_10__requirements_v1.mp4",
+      "size_bytes": 8737311
+    },
+    {
+      "sample_id": "Sr-Yan-Lima__champions4good-demo__defect_02__requirements_v1",
+      "path": "gold_videos/Sr-Yan-Lima__champions4good-demo__defect_02__requirements_v1.mp4",
+      "size_bytes": 734930
+    },
+    {
+      "sample_id": "Sr-Yan-Lima__champions4good-demo__defect_03__requirements_v1",
+      "path": "gold_videos/Sr-Yan-Lima__champions4good-demo__defect_03__requirements_v1.mp4",
+      "size_bytes": 38861
+    },
+    {
+      "sample_id": "SreeXD__Srees-Room__defect_01__requirements_v1",
+      "path": "gold_videos/SreeXD__Srees-Room__defect_01__requirements_v1.mp4",
+      "size_bytes": 300066
+    },
+    {
+      "sample_id": "SreeXD__Srees-Room__defect_02__requirements_v1",
+      "path": "gold_videos/SreeXD__Srees-Room__defect_02__requirements_v1.mp4",
+      "size_bytes": 539181
+    },
+    {
+      "sample_id": "SreeXD__Srees-Room__defect_03__requirements_v1",
+      "path": "gold_videos/SreeXD__Srees-Room__defect_03__requirements_v1.mp4",
+      "size_bytes": 406075
+    },
+    {
+      "sample_id": "Sunil56224972__The-Drawn-Dimenstion__defect_02__requirements_v1",
+      "path": "gold_videos/Sunil56224972__The-Drawn-Dimenstion__defect_02__requirements_v1.mp4",
+      "size_bytes": 442477
+    },
+    {
+      "sample_id": "Sunil56224972__The-Drawn-Dimenstion__defect_04__requirements_v1",
+      "path": "gold_videos/Sunil56224972__The-Drawn-Dimenstion__defect_04__requirements_v1.mp4",
+      "size_bytes": 5345177
+    },
+    {
+      "sample_id": "Sunil56224972__The-Drawn-Dimenstion__defect_05__requirements_v1",
+      "path": "gold_videos/Sunil56224972__The-Drawn-Dimenstion__defect_05__requirements_v1.mp4",
+      "size_bytes": 622559
+    },
+    {
+      "sample_id": "Sunil56224972__The-Drawn-Dimenstion__defect_06__requirements_v1",
+      "path": "gold_videos/Sunil56224972__The-Drawn-Dimenstion__defect_06__requirements_v1.mp4",
+      "size_bytes": 319365
+    },
+    {
+      "sample_id": "Sunil56224972__The-Drawn-Dimenstion__defect_07__requirements_v1",
+      "path": "gold_videos/Sunil56224972__The-Drawn-Dimenstion__defect_07__requirements_v1.mp4",
+      "size_bytes": 1584305
+    },
+    {
+      "sample_id": "Sunil56224972__The-Drawn-Dimenstion__defect_08__requirements_v1",
+      "path": "gold_videos/Sunil56224972__The-Drawn-Dimenstion__defect_08__requirements_v1.mp4",
+      "size_bytes": 605986
+    },
+    {
+      "sample_id": "Sunil56224972__The-Drawn-Dimenstion__defect_11__requirements_v1",
+      "path": "gold_videos/Sunil56224972__The-Drawn-Dimenstion__defect_11__requirements_v1.mp4",
+      "size_bytes": 1667851
+    },
+    {
+      "sample_id": "Thakuma07__ABCS-SVGAnimation__defect_01__requirements_v1",
+      "path": "gold_videos/Thakuma07__ABCS-SVGAnimation__defect_01__requirements_v1.mp4",
+      "size_bytes": 69094
+    },
+    {
+      "sample_id": "VinayMatta63__threejs-portfolio__defect_01__requirements_v1",
+      "path": "gold_videos/VinayMatta63__threejs-portfolio__defect_01__requirements_v1.mp4",
+      "size_bytes": 1620942
+    },
+    {
+      "sample_id": "VinayMatta63__threejs-portfolio__defect_04__requirements_v1",
+      "path": "gold_videos/VinayMatta63__threejs-portfolio__defect_04__requirements_v1.mp4",
+      "size_bytes": 862692
+    },
+    {
+      "sample_id": "adityayaduvanshi__awwwards-website-1__defect_01__requirements_v1",
+      "path": "gold_videos/adityayaduvanshi__awwwards-website-1__defect_01__requirements_v1.mp4",
+      "size_bytes": 1906673
+    },
+    {
+      "sample_id": "afilahkle__3D-Clothing-Configurator__defect_03__requirements_v1",
+      "path": "gold_videos/afilahkle__3D-Clothing-Configurator__defect_03__requirements_v1.mp4",
+      "size_bytes": 43855
+    },
+    {
+      "sample_id": "aframevr__aframe__defect_01__requirements_v1",
+      "path": "gold_videos/aframevr__aframe__defect_01__requirements_v1.mp4",
+      "size_bytes": 2810600
+    },
+    {
+      "sample_id": "aframevr__aframe__defect_02__requirements_v1",
+      "path": "gold_videos/aframevr__aframe__defect_02__requirements_v1.mp4",
+      "size_bytes": 367188
+    },
+    {
+      "sample_id": "aframevr__aframe__defect_03__requirements_v1",
+      "path": "gold_videos/aframevr__aframe__defect_03__requirements_v1.mp4",
+      "size_bytes": 184343
+    },
+    {
+      "sample_id": "arnobt78__Brainwave-Landing-Page--React-Frontend__defect_01__requirements_v1",
+      "path": "gold_videos/arnobt78__Brainwave-Landing-Page--React-Frontend__defect_01__requirements_v1.mp4",
+      "size_bytes": 201073
+    },
+    {
+      "sample_id": "arnobt78__Brainwave-Landing-Page--React-Frontend__defect_02__requirements_v1",
+      "path": "gold_videos/arnobt78__Brainwave-Landing-Page--React-Frontend__defect_02__requirements_v1.mp4",
+      "size_bytes": 185437
+    },
+    {
+      "sample_id": "arnobt78__Brainwave-Landing-Page--React-Frontend__defect_05__requirements_v1",
+      "path": "gold_videos/arnobt78__Brainwave-Landing-Page--React-Frontend__defect_05__requirements_v1.mp4",
+      "size_bytes": 53384
+    },
+    {
+      "sample_id": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend__defect_01__requirements_v1",
+      "path": "gold_videos/arnobt78__MacBook-Showcase-Landing-Page--React-Frontend__defect_01__requirements_v1.mp4",
+      "size_bytes": 1026602
+    },
+    {
+      "sample_id": "arnobt78__MacBook-Showcase-Landing-Page--React-Frontend__defect_02__requirements_v1",
+      "path": "gold_videos/arnobt78__MacBook-Showcase-Landing-Page--React-Frontend__defect_02__requirements_v1.mp4",
+      "size_bytes": 895996
+    },
+    {
+      "sample_id": "basedhound__3d-room_portfolio_react__defect_01__requirements_v1",
+      "path": "gold_videos/basedhound__3d-room_portfolio_react__defect_01__requirements_v1.mp4",
+      "size_bytes": 323085
+    },
+    {
+      "sample_id": "basedhound__3d-room_portfolio_react__defect_02__requirements_v1",
+      "path": "gold_videos/basedhound__3d-room_portfolio_react__defect_02__requirements_v1.mp4",
+      "size_bytes": 661133
+    },
+    {
+      "sample_id": "basedhound__3d-room_portfolio_react__defect_03__requirements_v1",
+      "path": "gold_videos/basedhound__3d-room_portfolio_react__defect_03__requirements_v1.mp4",
+      "size_bytes": 145483
+    },
+    {
+      "sample_id": "basedhound__3d-room_portfolio_react__defect_04__requirements_v1",
+      "path": "gold_videos/basedhound__3d-room_portfolio_react__defect_04__requirements_v1.mp4",
+      "size_bytes": 546343
+    },
+    {
+      "sample_id": "basedhound__3d-room_portfolio_react__defect_05__requirements_v1",
+      "path": "gold_videos/basedhound__3d-room_portfolio_react__defect_05__requirements_v1.mp4",
+      "size_bytes": 1226949
+    },
+    {
+      "sample_id": "cruip__tailwind-dashboard-template__defect_02__requirements_v1",
+      "path": "gold_videos/cruip__tailwind-dashboard-template__defect_02__requirements_v1.mp4",
+      "size_bytes": 81460
+    },
+    {
+      "sample_id": "fekikarim__farmy-landing__defect_02__requirements_v1",
+      "path": "gold_videos/fekikarim__farmy-landing__defect_02__requirements_v1.mp4",
+      "size_bytes": 277298
+    },
+    {
+      "sample_id": "fekikarim__farmy-landing__defect_03__requirements_v1",
+      "path": "gold_videos/fekikarim__farmy-landing__defect_03__requirements_v1.mp4",
+      "size_bytes": 159531
+    },
+    {
+      "sample_id": "greengem__threejs-solar-system__defect_01__requirements_v1",
+      "path": "gold_videos/greengem__threejs-solar-system__defect_01__requirements_v1.mp4",
+      "size_bytes": 851290
+    },
+    {
+      "sample_id": "greengem__threejs-solar-system__defect_02__requirements_v1",
+      "path": "gold_videos/greengem__threejs-solar-system__defect_02__requirements_v1.mp4",
+      "size_bytes": 664256
+    },
+    {
+      "sample_id": "greengem__threejs-solar-system__defect_07__requirements_v1",
+      "path": "gold_videos/greengem__threejs-solar-system__defect_07__requirements_v1.mp4",
+      "size_bytes": 1293552
+    },
+    {
+      "sample_id": "greengem__threejs-solar-system__defect_08__requirements_v1",
+      "path": "gold_videos/greengem__threejs-solar-system__defect_08__requirements_v1.mp4",
+      "size_bytes": 1095434
+    },
+    {
+      "sample_id": "grep-many__wemble-guys__defect_01__requirements_v1",
+      "path": "gold_videos/grep-many__wemble-guys__defect_01__requirements_v1.mp4",
+      "size_bytes": 652861
+    },
+    {
+      "sample_id": "grep-many__wemble-guys__defect_02__requirements_v1",
+      "path": "gold_videos/grep-many__wemble-guys__defect_02__requirements_v1.mp4",
+      "size_bytes": 264583
+    },
+    {
+      "sample_id": "grep-many__wemble-guys__defect_03__requirements_v1",
+      "path": "gold_videos/grep-many__wemble-guys__defect_03__requirements_v1.mp4",
+      "size_bytes": 1837931
+    },
+    {
+      "sample_id": "grep-many__wemble-guys__defect_04__requirements_v1",
+      "path": "gold_videos/grep-many__wemble-guys__defect_04__requirements_v1.mp4",
+      "size_bytes": 1391594
+    },
+    {
+      "sample_id": "grep-many__wemble-guys__defect_07__requirements_v1",
+      "path": "gold_videos/grep-many__wemble-guys__defect_07__requirements_v1.mp4",
+      "size_bytes": 932939
+    },
+    {
+      "sample_id": "iwopant0825__antMysite__defect_01__requirements_v1",
+      "path": "gold_videos/iwopant0825__antMysite__defect_01__requirements_v1.mp4",
+      "size_bytes": 142124
+    },
+    {
+      "sample_id": "iwopant0825__antMysite__defect_02__requirements_v1",
+      "path": "gold_videos/iwopant0825__antMysite__defect_02__requirements_v1.mp4",
+      "size_bytes": 63561
+    },
+    {
+      "sample_id": "iwopant0825__antMysite__defect_03__requirements_v1",
+      "path": "gold_videos/iwopant0825__antMysite__defect_03__requirements_v1.mp4",
+      "size_bytes": 117487
+    },
+    {
+      "sample_id": "kuasar-mknd__visualdon-projet__defect_01__requirements_v1",
+      "path": "gold_videos/kuasar-mknd__visualdon-projet__defect_01__requirements_v1.mp4",
+      "size_bytes": 324470
+    },
+    {
+      "sample_id": "kuasar-mknd__visualdon-projet__defect_02__requirements_v1",
+      "path": "gold_videos/kuasar-mknd__visualdon-projet__defect_02__requirements_v1.mp4",
+      "size_bytes": 883419
+    },
+    {
+      "sample_id": "kuasar-mknd__visualdon-projet__defect_03__requirements_v1",
+      "path": "gold_videos/kuasar-mknd__visualdon-projet__defect_03__requirements_v1.mp4",
+      "size_bytes": 341245
+    },
+    {
+      "sample_id": "lordbasilaiassistant-sudo__fishing-freel__defect_02__requirements_v1",
+      "path": "gold_videos/lordbasilaiassistant-sudo__fishing-freel__defect_02__requirements_v1.mp4",
+      "size_bytes": 3769329
+    },
+    {
+      "sample_id": "lordbasilaiassistant-sudo__fishing-freel__defect_03__requirements_v1",
+      "path": "gold_videos/lordbasilaiassistant-sudo__fishing-freel__defect_03__requirements_v1.mp4",
+      "size_bytes": 545541
+    },
+    {
+      "sample_id": "martinlaxenaire__portfolio-2025__defect_01__requirements_v1",
+      "path": "gold_videos/martinlaxenaire__portfolio-2025__defect_01__requirements_v1.mp4",
+      "size_bytes": 4163277
+    },
+    {
+      "sample_id": "martinlaxenaire__portfolio-2025__defect_02__requirements_v1",
+      "path": "gold_videos/martinlaxenaire__portfolio-2025__defect_02__requirements_v1.mp4",
+      "size_bytes": 12525745
+    },
+    {
+      "sample_id": "martinlaxenaire__portfolio-2025__more_defects_20260619__defect_01__requirements_v1",
+      "path": "gold_videos/martinlaxenaire__portfolio-2025__more_defects_20260619__defect_01__requirements_v1.mp4",
+      "size_bytes": 2482698
+    },
+    {
+      "sample_id": "martinlaxenaire__portfolio-2025__more_defects_20260619__defect_02__requirements_v1",
+      "path": "gold_videos/martinlaxenaire__portfolio-2025__more_defects_20260619__defect_02__requirements_v1.mp4",
+      "size_bytes": 9900018
+    },
+    {
+      "sample_id": "mehrabgholamsamani__CryptoDash__defect_02__requirements_v1",
+      "path": "gold_videos/mehrabgholamsamani__CryptoDash__defect_02__requirements_v1.mp4",
+      "size_bytes": 172978
+    },
+    {
+      "sample_id": "mehrabgholamsamani__CryptoDash__defect_03__requirements_v1",
+      "path": "gold_videos/mehrabgholamsamani__CryptoDash__defect_03__requirements_v1.mp4",
+      "size_bytes": 352279
+    },
+    {
+      "sample_id": "mehrabgholamsamani__CryptoDash__defect_04__requirements_v1",
+      "path": "gold_videos/mehrabgholamsamani__CryptoDash__defect_04__requirements_v1.mp4",
+      "size_bytes": 113544
+    },
+    {
+      "sample_id": "michaelkolesidis__zigzag__defect_01__requirements_v1",
+      "path": "gold_videos/michaelkolesidis__zigzag__defect_01__requirements_v1.mp4",
+      "size_bytes": 170571
+    },
+    {
+      "sample_id": "mrkara__casper-era-tracker__defect_01__requirements_v1",
+      "path": "gold_videos/mrkara__casper-era-tracker__defect_01__requirements_v1.mp4",
+      "size_bytes": 150322
+    },
+    {
+      "sample_id": "nirdhum__honest-landing__defect_01__requirements_v1",
+      "path": "gold_videos/nirdhum__honest-landing__defect_01__requirements_v1.mp4",
+      "size_bytes": 132412
+    },
+    {
+      "sample_id": "nirdhum__honest-landing__defect_02__requirements_v1",
+      "path": "gold_videos/nirdhum__honest-landing__defect_02__requirements_v1.mp4",
+      "size_bytes": 293030
+    },
+    {
+      "sample_id": "nirdhum__honest-landing__defect_03__requirements_v1",
+      "path": "gold_videos/nirdhum__honest-landing__defect_03__requirements_v1.mp4",
+      "size_bytes": 98535
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_01__requirements_v1",
+      "path": "gold_videos/pixijs__open-games__puzzling-potions__defect_01__requirements_v1.mp4",
+      "size_bytes": 399426
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_02__requirements_v1",
+      "path": "gold_videos/pixijs__open-games__puzzling-potions__defect_02__requirements_v1.mp4",
+      "size_bytes": 429455
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_03__requirements_v1",
+      "path": "gold_videos/pixijs__open-games__puzzling-potions__defect_03__requirements_v1.mp4",
+      "size_bytes": 2153448
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_04__requirements_v1",
+      "path": "gold_videos/pixijs__open-games__puzzling-potions__defect_04__requirements_v1.mp4",
+      "size_bytes": 1492864
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_05__requirements_v1",
+      "path": "gold_videos/pixijs__open-games__puzzling-potions__defect_05__requirements_v1.mp4",
+      "size_bytes": 214377
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_06__requirements_v1",
+      "path": "gold_videos/pixijs__open-games__puzzling-potions__defect_06__requirements_v1.mp4",
+      "size_bytes": 579612
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_10__requirements_v1",
+      "path": "gold_videos/pixijs__open-games__puzzling-potions__defect_10__requirements_v1.mp4",
+      "size_bytes": 369682
+    },
+    {
+      "sample_id": "pixijs__open-games__puzzling-potions__defect_12__requirements_v1",
+      "path": "gold_videos/pixijs__open-games__puzzling-potions__defect_12__requirements_v1.mp4",
+      "size_bytes": 651729
+    },
+    {
+      "sample_id": "playcanvas__engine__defect_01__requirements_v1",
+      "path": "gold_videos/playcanvas__engine__defect_01__requirements_v1.mp4",
+      "size_bytes": 2422767
+    },
+    {
+      "sample_id": "playcanvas__engine__defect_05__requirements_v1",
+      "path": "gold_videos/playcanvas__engine__defect_05__requirements_v1.mp4",
+      "size_bytes": 612351
+    },
+    {
+      "sample_id": "playcanvas__engine__defect_06__requirements_v1",
+      "path": "gold_videos/playcanvas__engine__defect_06__requirements_v1.mp4",
+      "size_bytes": 510655
+    },
+    {
+      "sample_id": "refinedev__refine__defect_01__requirements_v1",
+      "path": "gold_videos/refinedev__refine__defect_01__requirements_v1.mp4",
+      "size_bytes": 79778
+    },
+    {
+      "sample_id": "saidee-hasan__modern-business-landing-page__defect_02__requirements_v1",
+      "path": "gold_videos/saidee-hasan__modern-business-landing-page__defect_02__requirements_v1.mp4",
+      "size_bytes": 97693
+    },
+    {
+      "sample_id": "saidee-hasan__modern-business-landing-page__defect_03__requirements_v1",
+      "path": "gold_videos/saidee-hasan__modern-business-landing-page__defect_03__requirements_v1.mp4",
+      "size_bytes": 729573
+    },
+    {
+      "sample_id": "sayjeyhi__my-3d-portfolio__defect_01__requirements_v1",
+      "path": "gold_videos/sayjeyhi__my-3d-portfolio__defect_01__requirements_v1.mp4",
+      "size_bytes": 568927
+    },
+    {
+      "sample_id": "sayjeyhi__my-3d-portfolio__defect_02__requirements_v1",
+      "path": "gold_videos/sayjeyhi__my-3d-portfolio__defect_02__requirements_v1.mp4",
+      "size_bytes": 5173247
+    },
+    {
+      "sample_id": "sayjeyhi__my-3d-portfolio__defect_03__requirements_v1",
+      "path": "gold_videos/sayjeyhi__my-3d-portfolio__defect_03__requirements_v1.mp4",
+      "size_bytes": 331907
+    },
+    {
+      "sample_id": "sleepy-zone__fabritor-web__defect_01__requirements_v1",
+      "path": "gold_videos/sleepy-zone__fabritor-web__defect_01__requirements_v1.mp4",
+      "size_bytes": 114326
+    },
+    {
+      "sample_id": "sleepy-zone__fabritor-web__defect_03__requirements_v1",
+      "path": "gold_videos/sleepy-zone__fabritor-web__defect_03__requirements_v1.mp4",
+      "size_bytes": 91899
+    },
+    {
+      "sample_id": "sleepy-zone__fabritor-web__defect_04__requirements_v1",
+      "path": "gold_videos/sleepy-zone__fabritor-web__defect_04__requirements_v1.mp4",
+      "size_bytes": 104569
+    },
+    {
+      "sample_id": "sleepy-zone__fabritor-web__defect_05__requirements_v1",
+      "path": "gold_videos/sleepy-zone__fabritor-web__defect_05__requirements_v1.mp4",
+      "size_bytes": 52966
+    },
+    {
+      "sample_id": "theshanergy__4x4builder__defect_01__requirements_v1",
+      "path": "gold_videos/theshanergy__4x4builder__defect_01__requirements_v1.mp4",
+      "size_bytes": 2832465
+    },
+    {
+      "sample_id": "theshanergy__4x4builder__defect_02__requirements_v1",
+      "path": "gold_videos/theshanergy__4x4builder__defect_02__requirements_v1.mp4",
+      "size_bytes": 3545534
+    },
+    {
+      "sample_id": "toeverything__AFFiNE__defect_01__requirements_v1",
+      "path": "gold_videos/toeverything__AFFiNE__defect_01__requirements_v1.mp4",
+      "size_bytes": 276988
+    },
+    {
+      "sample_id": "toeverything__AFFiNE__defect_02__requirements_v1",
+      "path": "gold_videos/toeverything__AFFiNE__defect_02__requirements_v1.mp4",
+      "size_bytes": 148149
+    },
+    {
+      "sample_id": "toeverything__AFFiNE__defect_03__requirements_v1",
+      "path": "gold_videos/toeverything__AFFiNE__defect_03__requirements_v1.mp4",
+      "size_bytes": 90771
+    },
+    {
+      "sample_id": "toeverything__AFFiNE__defect_05__requirements_v1",
+      "path": "gold_videos/toeverything__AFFiNE__defect_05__requirements_v1.mp4",
+      "size_bytes": 110389
+    },
+    {
+      "sample_id": "toeverything__AFFiNE__defect_07__requirements_v1",
+      "path": "gold_videos/toeverything__AFFiNE__defect_07__requirements_v1.mp4",
+      "size_bytes": 106088
+    },
+    {
+      "sample_id": "toeverything__AFFiNE__defect_10__requirements_v1",
+      "path": "gold_videos/toeverything__AFFiNE__defect_10__requirements_v1.mp4",
+      "size_bytes": 43838
+    }
+  ]
+}

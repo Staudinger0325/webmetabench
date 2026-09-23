@@ -18,6 +18,7 @@ dataset/
   multi_defect.json      # Multi-defect samples and web version mappings
   prompts/              # Model-facing English prompts with complete checklists
   annotations/          # Gold answers for scoring only; do not expose to evaluated agents
+  gold_videos.json       # Gold video archive URL and per-sample file index
   provenance.json       # Project origins and download URLs for static and source packages
   build_recipes.json    # Working directories, install/build commands, and output directories
 scripts/
@@ -109,6 +110,24 @@ python3 scripts/build_image.py \
   --sample martinlaxenaire__portfolio-2025__defect_01__requirements_v1 \
   --tag webmetabench-sample:local
 ```
+
+## Gold Video Evidence
+
+We provide 120 reference recordings, one for each single-defect sample, in the [gold-videos-v1 release](https://github.com/Staudinger0325/webmetabench/releases/tag/gold-videos-v1). The recordings are distributed as originally recorded, without re-encoding. These are recordings of the defective versions demonstrating the annotated behaviors, not recordings of the unmodified `gold` versions.
+
+`dataset/gold_videos.json` maps each sample ID to its video file within the archive. Download and extract all recordings with:
+
+```bash
+mkdir -p downloads
+curl --fail --location --continue-at - \
+  https://github.com/Staudinger0325/webmetabench/releases/download/gold-videos-v1/webmetabench-gold-videos-v1.tar.gz \
+  --output downloads/webmetabench-gold-videos-v1.tar.gz
+tar -xzf downloads/webmetabench-gold-videos-v1.tar.gz -C downloads
+```
+
+The videos will be available at `downloads/gold_videos/<sample_id>.mp4`. They are reference evidence and should not be supplied to agents in the standard black-box evaluation.
+
+This release contains single-defect recordings only. For multi-defect samples, `dataset/multi_defect.json` identifies the constituent single-defect samples; their recordings are not separate evidence captured from the combined multi-defect versions.
 
 ## Agent Harnesses and Runtime Dependencies: User Installation
 
